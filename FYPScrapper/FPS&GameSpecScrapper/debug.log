@@ -1,0 +1,6 @@
+[1212/012610.202:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\long1\AppData\Local\Temp\scoped_dir18184_7155\Crashpad: The system cannot find the path specified. (0x3)
+[1212/012612.674:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\long1\AppData\Local\Temp\scoped_dir21348_23988\Crashpad\reports: The system cannot find the path specified. (0x3)
+[1212/012615.561:ERROR:file_io_win.cc(179)] CreateFile C:\Users\long1\AppData\Local\Temp\scoped_dir21388_6836\Crashpad\settings.dat: Insufficient system resources exist to complete the requested service. (0x5AA)
+[1212/012618.882:ERROR:exception_handler_server.cc(526)] ConnectNamedPipe: The pipe is being closed. (0xE8)
+[1212/012624.279:ERROR:exception_handler_server.cc(526)] ConnectNamedPipe: The pipe is being closed. (0xE8)
+[1212/012652.195:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\long1\AppData\Local\Temp\scoped_dir36792_13921\Crashpad: The system cannot find the path specified. (0x3)
