@@ -21,34 +21,34 @@ This installation guide is based on Python 3.6.
 
 DeepFM
 
-- pip install numpy
+- pip3 install numpy
 
-- pip install scipy
+- pip3 install scipy
 
-- pip install pandas
+- pip3 install pandas
 
-- pip install matplotlin
+- pip3 install matplotlin
 
-- pip install sklearn
+- pip3 install sklearn
 
-- pip install tensorflow
+- pip3 install tensorflow
 
 
 DeepFM Web Service
 
-- pip install Flask
+- pip3 install Flask
 
-- pip install Flask-Cors
+- pip3 install Flask-Cors
 
 
 Selenium
 
-- pip install selenium
+- pip3 install selenium
 
 
 AWS
 
-- pip install boto3
+- pip3 install boto3
 
 # References
 [1] Building FPS Estimator System based on DeepFM, Long Yau 
