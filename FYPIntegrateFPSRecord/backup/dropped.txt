@@ -1,0 +1,10 @@
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M v2 4GB	For Honor	
+Core i5-4460 3.2GHz	GeForce GTX 1060 Palit Jetstream 6GB	For Honor	
+Core i7-870 Quad 2.93GHz	GeForce GTX 1050 Ti 4GB	For Honor	
+Core i3-6100H 2.7GHz	GeForce 940M 2GB	For Honor	
+Core i5-4200M 2.5GHz	GeForce 840M 2GB	For Honor	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	For Honor	
+Core i3-4170 3.7GHz	GeForce GTX 750 Ti Gainward Golden Sample 2GB Edition	For Honor	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M 2GB	For Honor	
+Core i5-4460 3.2GHz	GeForce GT 730 v3 Asus 2GB Edition	For Honor	
+Core i5-6600K 3.5GHz	Radeon RX 480 Gigabyte G1 Gaming 4GB	For Honor	

@@ -1,0 +1,981 @@
+Type	Part Number	Brand	Model	Rank	Score	Samples	URL	Name	Codename	Cores	Socket	Process	Clock	Multi	Cache L1/L2/L3 	TDP	Released	Price	
+CPU	BX80673I97980X	Intel	Core i9-7980XE	1	123	36	http://cpu.userbenchmark.com/SpeedTest/352013/IntelR-CoreTM-i9-7980XE-CPU---260GHz	Core i9-7980XE	Skylake-X	18  / 36	Intel Socket 2066	14 nm	2600&nbsp;MHz	26.0x	64K / 1024K / 25344K	165W	Sep 2017	15350	
+CPU	BX80673I97940X	Intel	Core i9-7940X	2	119	16	http://cpu.userbenchmark.com/SpeedTest/353078/IntelR-CoreTM-i9-7940X-CPU---310GHz	Core i9-7940X	Skylake-X	14  / 28	Intel Socket 2066	14 nm	3100&nbsp;MHz	31.0x	64K / 1024K / 19712K	165W	Sep 2017		
+CPU	BX80673I97900X	Intel	Core i9-7900X	3	114	1040	http://cpu.userbenchmark.com/Intel-Core-i9-7900X/Rating/3936	Core i9-7900X	Skylake-X	10  / 20	Intel Socket 2066	14 nm	3300&nbsp;MHz	33.0x	64K / 1024K / 14336K	140W	Jun 2017	7315	
+CPU	BX80673I97920X	Intel	Core i9-7920X	4	114	80	http://cpu.userbenchmark.com/SpeedTest/278103/IntelR-CoreTM-i9-7920X-CPU---350GHz	Core i9-7920X	Skylake-X	12  / 24	Intel Socket 2066	14 nm	2900&nbsp;MHz	29.0x	64K / 1024K / 16896K	140W	Sep 2017	8650	
+CPU	BX80684I78700K	Intel	Core i7-8700K	5	113	1532	http://cpu.userbenchmark.com/Intel-Core-i7-8700K/Rating/3937	Core i7-8700K	Coffee Lake	6  / 12	Intel Socket 1151	14 nm	3700&nbsp;MHz	37.0x	64K / 256K / 12288K	95W	Oct 2017	3470	
+CPU	BX80673I77820X	Intel	Core i7-7820X	6	108	1877	http://cpu.userbenchmark.com/Intel-Core-i7-7820X/Rating/3928	Core i7-7820X	Skylake-X	8  / 16	Intel Socket 2066	14 nm	3600&nbsp;MHz	36.0x	64K / 1024K / 11264K	140W	Jun 2017	4399	
+CPU	YD195XA8AEWOF	AMD	Ryzen TR 1950X	7	107	900	http://cpu.userbenchmark.com/AMD-Ryzen-TR-1950X/Rating/3932												
+CPU	BX80673I97960X	Intel	Core i9-7960X	8	106	8	http://cpu.userbenchmark.com/SpeedTest/357952/IntelR-CoreTM-i9-7960X-CPU---280GHz	Core i9-7960X	Skylake-X	16  / 32	Intel Socket 2066	14 nm	2800&nbsp;MHz	28.0x	64K / 1024K / 22528K	165W	Sep 2017		
+CPU	BX80684I58600K	Intel	Core i5-8600K	9	106	297	http://cpu.userbenchmark.com/Intel-Core-i5-8600K/Rating/3941	Core i5-8600K	Coffee Lake	6 	Intel Socket 1151	14 nm	3600&nbsp;MHz	36.0x	64K / 256K / 9216K	95W	Oct 2017		
+CPU	BX80684I78700	Intel	Core i7-8700	10	106	174	http://cpu.userbenchmark.com/Intel-Core-i7-8700/Rating/3940	Core i7-8700	Coffee Lake	6  / 12	Intel Socket 1151	14 nm	3200&nbsp;MHz	32.0x	64K / 256K / 12288K	65W	Jan 2018	3470	
+CPU	BX80671I76950X	Intel	Core i7-6950X	11	101	1468	http://cpu.userbenchmark.com/Intel-Core-i7-6950X/Rating/3604	Core i7-6950X	Broadwell-E	10  / 20	Intel Socket 2011-3	14 nm	3000&nbsp;MHz	30.0x	32K / 256K / 25600K	140W	May 2016	12410	
+CPU	BX80673I77800X	Intel	Core i7-7800X	12	101	1188	http://cpu.userbenchmark.com/SpeedTest/304816/IntelR-CoreTM-i7-7800X-CPU---350GHz	Core i7-7800X	Skylake-X	6  / 12	Intel Socket 2066	14 nm	3500&nbsp;MHz	35.0x	64K / 1024K / 8448K	140W	Jun 2017	2809	
+CPU	BX80677I77740X	Intel	Core i7-7740X	13	100	400	http://cpu.userbenchmark.com/SpeedTest/304932/IntelR-CoreTM-i7-7740X-CPU---430GHz	Core i7-7740X	Kaby Lake-X	4  / 8	Intel Socket 2066	14 nm	4300&nbsp;MHz	43.0x	64K / 256K / 8192K	112W	Jun 2017	2580	
+CPU	BX80677I77700K	Intel	Core i7-7700K	14	99.7	90437	http://cpu.userbenchmark.com/Intel-Core-i7-7700K/Rating/3647	Core i7-7700K	Kaby Lake	4  / 8	Intel Socket 1151	14 nm	4200&nbsp;MHz	42.0x	64K / 256K / 8192K	91W	Jan 2017	2420	
+CPU	BX80671I76900K	Intel	Core i7-6900K	15	99.3	1805	http://cpu.userbenchmark.com/Intel-Core-i7-6900K/Rating/3605	Core i7-6900K	Broadwell-E	8  / 16	Intel Socket 2011-3	14 nm	3200&nbsp;MHz	32.0x	32K / 256K / 20480K	140W	May 2016	7790	
+CPU	BX80684I38350K	Intel	Core i3-8350K	16	98	254	http://cpu.userbenchmark.com/Intel-Core-i3-8350K/Rating/3935	Core i3-8350K	Coffee Lake	4 	Intel Socket 1151	14 nm	4000&nbsp;MHz	40.0x	64K / 256K / 8196K	91W	Oct 2017	1435	
+CPU	YD192XA8AEWOF	AMD	Ryzen TR 1920X	17	97.9	101	http://cpu.userbenchmark.com/AMD-Ryzen-TR-1920X/Rating/3934												
+CPU	BX80671I76850K	Intel	Core i7-6850K	18	97.1	6302	http://cpu.userbenchmark.com/Intel-Core-i7-6850K/Rating/3606	Core i7-6850K	Broadwell-E	6  / 12	Intel Socket 2011-3	14 nm	3600&nbsp;MHz	36.0x	32K / 256K / 15360K	140W	May 2016	3930	
+CPU	BX80677I57640X	Intel	Core i5-7640X	19	96.7	66	http://cpu.userbenchmark.com/SpeedTest/310543/IntelR-CoreTM-i5-7640X-CPU---400GHz	Core i5-7640X	Kaby Lake-X	4 	Intel Socket 2066	14 nm	3900&nbsp;MHz	39.0x	64K / 256K / 6144K	112W	Jun 2017	1839	
+CPU	BX80677I57600K	Intel	Core i5-7600K	20	96.1	27370	http://cpu.userbenchmark.com/Intel-Core-i5-7600K/Rating/3885	Core i5-7600K	Kaby Lake	4 	Intel Socket 1151	14 nm	3800&nbsp;MHz	38.0x	64K / 256K / 6144K	91W	Jan 2017	1745	
+CPU	YD190XA8AEWOF	AMD	Ryzen TR 1900X	21	94.1	71	http://cpu.userbenchmark.com/SpeedTest/340638/AMD-Ryzen-Threadripper-1900X-8-Core-Processor												
+CPU	BX80684I58400	Intel	Core i5-8400	22	93.1	399	http://cpu.userbenchmark.com/Intel-Core-i5-8400/Rating/3939	Core i5-8400	Coffee Lake	6 	Intel Socket 1151	14 nm	2800&nbsp;MHz	28.0x	64K / 256K / 9216K	65W	Oct 2017		
+CPU	BX80662I76700K	Intel	Core i7-6700K	23	91.7	154149	http://cpu.userbenchmark.com/Intel-Core-i7-6700K/Rating/3502	Core i7-6700K	Skylake	4  / 8	Intel Socket 1151	14 nm	4000&nbsp;MHz	40.0x	64K / 256K / 8192K	95W	Aug 2015	2430	
+CPU	YD180XBCAEWOF	AMD	Ryzen 7 1800X	24	91.4	7401	http://cpu.userbenchmark.com/AMD-Ryzen-7-1800X/Rating/3916	Ryzen 7 1800X	Zen	8  / 16	AMD Socket AM4	14 nm	3600&nbsp;MHz	36.0x	96K / 512K / 16384K	95W	Mar 2017	3499	
+CPU	BX80648I75960X	Intel	Core i7-5960X	25	90.5	5032	http://cpu.userbenchmark.com/Intel-Core-i7-5960X/Rating/2580	Core i7-5960X	Haswell-E	8  / 16	Intel Socket 2011-3	22 nm	3000&nbsp;MHz	30.0x	64K / 256K / 20480K	140W	Sep 2014	7930	
+CPU	BX80671I76800K	Intel	Core i7-6800K	26	89.6	11532	http://cpu.userbenchmark.com/Intel-Core-i7-6800K/Rating/3607	Core i7-6800K	Broadwell-E	6  / 12	Intel Socket 2011-3	14 nm	3400&nbsp;MHz	34.0x	32K / 256K / 15360K	140W	May 2016	2850	
+CPU	BX80648I75930K	Intel	Core i7-5930K	27	89.4	8780	http://cpu.userbenchmark.com/Intel-Core-i7-5930K/Rating/2578	Core i7-5930K	Haswell-E	6  / 12	Intel Socket 2011-3	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 15360K	140W	Sep 2014	4468	
+CPU	BX80662I56600K	Intel	Core i5-6600K	28	89.2	89081	http://cpu.userbenchmark.com/Intel-Core-i5-6600K/Rating/3503	Core i5-6600K	Skylake	4 	Intel Socket 1151	14 nm	3500&nbsp;MHz	35.0x	64K / 256K / 6144K	95W	Jul 2015	1745	
+CPU	YD170XBCAEWOF	AMD	Ryzen 7 1700X	29	88.2	12619	http://cpu.userbenchmark.com/AMD-Ryzen-7-1700X/Rating/3915	Ryzen 7 PRO 1700X	Zen	8  / 16	AMD Socket AM4	14 nm	3400&nbsp;MHz	34.0x	96K / 512K / 16384K	95W	Jun 2017	2750	
+CPU	BX80646I74790K	Intel	Core i7-4790K	30	88	105652	http://cpu.userbenchmark.com/Intel-Core-i7-4790K/Rating/2384	Core i7-4790K	Haswell	4  / 8	Intel Socket 1150	22 nm	4000&nbsp;MHz	40.0x	64K / 256K / 8192K	88W	May 2014	2799	
+CPU	BX80677I77700	Intel	Core i7-7700	31	87.3	18100	http://cpu.userbenchmark.com/Intel-Core-i7-7700/Rating/3887	Core i7-7700K	Kaby Lake	4  / 8	Intel Socket 1151	14 nm	4200&nbsp;MHz	42.0x	64K / 256K / 8192K	91W	Jan 2017	2420	
+CPU	BX80648I75820K	Intel	Core i7-5820K	32	86.8	28312	http://cpu.userbenchmark.com/Intel-Core-i7-5820K/Rating/2579	Core i7-5820K	Haswell-E	6  / 12	Intel Socket 2011-3	22 nm	3300&nbsp;MHz	33.0x	64K / 256K / 15360K	140W	Sep 2014	2920	
+CPU	BX80677I57600	Intel	Core i5-7600	33	86.6	5391	http://cpu.userbenchmark.com/Intel-Core-i5-7600/Rating/3890	Core i5-7600K	Kaby Lake	4 	Intel Socket 1151	14 nm	3800&nbsp;MHz	38.0x	64K / 256K / 6144K	91W	Jan 2017	1745	
+CPU	YD160XBCAEWOF	AMD	Ryzen 5 1600X	34	85.8	8473	http://cpu.userbenchmark.com/AMD-Ryzen-5-1600X/Rating/3920	Ryzen 5 1600X	Zen	6  / 12	AMD Socket AM4	14 nm	3600&nbsp;MHz	36.0x	96K / 512K / 16384K	95W	Apr 2017	1850	
+CPU	BX80633I74960X	Intel	Core i7-4960X	35	84.9	925	http://cpu.userbenchmark.com/Intel-Core-i7-4960X/Rating/1977	Core i7-4960X	Ivy Bridge-E	6  / 12	Intel Socket 2011	22 nm	3600&nbsp;MHz	36.0x	64K / 256K / 15360K	130W	Sep 2013	7999	
+CPU	YD1700BBAEBOX	AMD	Ryzen 7 1700	36	83.5	22589	http://cpu.userbenchmark.com/AMD-Ryzen-7-1700/Rating/3917	Ryzen 7 PRO 1700X	Zen	8  / 16	AMD Socket AM4	14 nm	3400&nbsp;MHz	34.0x	96K / 512K / 16384K	95W	Jun 2017	2280	
+CPU	BX80646I54690K	Intel	Core i5-4690K	37	82.9	58793	http://cpu.userbenchmark.com/Intel-Core-i5-4690K/Rating/2432	Core i5-4690K	Haswell	4 	Intel Socket 1150	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 6144K	88W	Jun 2014	1715	
+CPU	BX80658i75775C	Intel	Core i7-5775C	38	82.7	334	http://cpu.userbenchmark.com/SpeedTest/30276/IntelR-CoreTM-i7-5775C-CPU---330GHz												
+CPU		Intel	Core i7-5775R	39	82.1	22	http://cpu.userbenchmark.com/SpeedTest/39919/IntelR-CoreTM-i7-5775R-CPU---330GHz												
+CPU	BX80633I74930K	Intel	Core i7-4930K	40	82	4854	http://cpu.userbenchmark.com/Intel-Core-i7-4930K/Rating/1976	Core i7-4930K	Ivy Bridge-E	6  / 12	Intel Socket 2011	22 nm	3400&nbsp;MHz	34.0x	64K / 256K / 12288K	130W	Sep 2013	4599	
+CPU	BX80658i55675C	Intel	Core i5-5675C	41	81.7	254	http://cpu.userbenchmark.com/SpeedTest/31828/IntelR-CoreTM-i5-5675C-CPU---310GHz												
+CPU	BX80684I38100	Intel	Core i3-8100	42	81.3	98	http://cpu.userbenchmark.com/Intel-Core-i3-8100/Rating/3942	Core i3-8100	Coffee Lake	4 	Intel Socket 1151	14 nm	2800&nbsp;MHz	28.0x	64K / 256K / 6144K	65W	Jan 2018	930	
+CPU	BX80646I54670K	Intel	Core i5-4670K	43	80.7	31679	http://cpu.userbenchmark.com/Intel-Core-i5-4670K/Rating/1538	Core i5-4670K	Haswell	4 	Intel Socket 1150	22 nm	3400&nbsp;MHz	34.0x	64K / 256K / 6144K	84W	Jun 2013	1890	
+CPU	BX80677I57500	Intel	Core i5-7500	44	80.7	12875	http://cpu.userbenchmark.com/Intel-Core-i5-7500/Rating/3648	Core i5-7500	Kaby Lake	4 	Intel Socket 1151	14 nm	3400&nbsp;MHz	34.0x	64K / 256K / 6144K	65W	Jan 2017	1340	
+CPU		Intel	Xeon E5-1650 v3	45	80.7	702	http://cpu.userbenchmark.com/SpeedTest/16320/IntelR-XeonR-CPU-E5-1650-v3---350GHz												
+CPU		Intel	Core i7-3970X	46	80.6	647	http://cpu.userbenchmark.com/SpeedTest/6794/IntelR-CoreTM-i7-3970X-CPU---350GHz	Core i7-3970X	Sandy Bridge-E	6  / 12	Intel Socket 2011	32 nm	3500&nbsp;MHz	35.0x	64K / 256K / 15360K	150W	Nov 2012		
+CPU	YD1600BBAEBOX	AMD	Ryzen 5 1600	47	80.4	27678	http://cpu.userbenchmark.com/AMD-Ryzen-5-1600/Rating/3919	Ryzen 5 PRO 1600	Zen	6  / 12	AMD Socket AM4	14 nm	3200&nbsp;MHz	32.0x	96K / 512K / 16384K	65W	Jun 2017	1585	
+CPU	BX80662I56600	Intel	Core i5-6600	48	80	18428	http://cpu.userbenchmark.com/Intel-Core-i5-6600/Rating/3514	Core i5-6600K	Skylake	4 	Intel Socket 1151	14 nm	3500&nbsp;MHz	35.0x	64K / 256K / 6144K	95W	Jul 2015	1595	
+CPU	BX80646E31276V3	Intel	Xeon E3-1276 v3	49	79.6	63	http://cpu.userbenchmark.com/SpeedTest/25180/IntelR-XeonR-CPU-E3-1276-v3---360GHz												
+CPU	BX80662I76700	Intel	Core i7-6700	50	79.6	40443	http://cpu.userbenchmark.com/Intel-Core-i7-6700/Rating/3515	Core i7-6700T	Skylake	4  / 8	Intel Socket 1151	14 nm	2800&nbsp;MHz	28.0x	64K / 256K / 8192K	35W	Sep 2015	2430	
+CPU	BX80619I73960X	Intel	Core i7-3960X	51	79.5	577	http://cpu.userbenchmark.com/Intel-Core-i7-3960X/Rating/1973	Core i7-3960X	Sandy Bridge-E	6  / 12	Intel Socket 2011	32 nm	3300&nbsp;MHz	33.0x	64K / 256K / 15360K	130W	Nov 2011	7900	
+CPU	BX80646I74770K	Intel	Core i7-4770K	52	79.2	38902	http://cpu.userbenchmark.com/Intel-Core-i7-4770K/Rating/1537											2650	
+CPU		Intel	Xeon E3-1230 v5	53	78.5	421	http://cpu.userbenchmark.com/SpeedTest/72554/IntelR-XeonR-CPU-E3-1230-v5---340GHz											2070	
+CPU		Intel	Core i7-7920HQ	54	78.3	74	http://cpu.userbenchmark.com/SpeedTest/243546/IntelR-CoreTM-i7-7920HQ-CPU---310GHz												
+CPU	BX80646I74790	Intel	Core i7-4790	55	78	36903	http://cpu.userbenchmark.com/Intel-Core-i7-4790/Rating/2293	Core i7-4790	Haswell	4  / 8	Intel Socket 1150	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 8192K	84W	May 2014	2799	
+CPU	BX80619I73930K	Intel	Core i7-3930K	56	77.9	9370	http://cpu.userbenchmark.com/Intel-Core-i7-3930K/Rating/1487	Core i7-3930K	Sandy Bridge-E	6  / 12	Intel Socket 2011	32 nm	3200&nbsp;MHz	32.0x	64K / 256K / 12288K	130W	Nov 2011	4590	
+CPU	BX80646I54690	Intel	Core i5-4690	57	77.2	14400	http://cpu.userbenchmark.com/Intel-Core-i5-4690/Rating/2311	Core i5-4690K	Haswell	4 	Intel Socket 1150	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 6144K	88W	Jun 2014	1715	
+CPU		Intel	Xeon E3-1271 v3	58	76.9	188	http://cpu.userbenchmark.com/SpeedTest/17463/IntelR-XeonR-CPU-E3-1271-v3---360GHz												
+CPU		Intel	Xeon E5-1650 v2	59	76.7	525	http://cpu.userbenchmark.com/SpeedTest/7574/IntelR-XeonR-CPU-E5-1650-v2---350GHz	Xeon E5-1650 v2	Ivy Bridge-E	6  / 12	Intel Socket 2011	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 12288K	130W	Sep 2013		
+CPU		Intel	Core i7-5950HQ	60	76.4	57	http://cpu.userbenchmark.com/SpeedTest/29765/IntelR-CoreTM-i7-5950HQ-CPU---290GHz												
+CPU	BX80646E31246V3	Intel	Xeon E3-1246 v3	61	76.3	374	http://cpu.userbenchmark.com/SpeedTest/11023/IntelR-XeonR-CPU-E3-1246-v3---350GHz												
+CPU		Intel	Core i7-7820HK	62	76.1	1361	http://cpu.userbenchmark.com/SpeedTest/224965/IntelR-CoreTM-i7-7820HK-CPU---290GHz											32130	
+CPU		Intel	Xeon E3-1286 v3	63	75.9	5	http://cpu.userbenchmark.com/SpeedTest/33047/IntelR-XeonR-CPU-E3-1286-v3---370GHz												
+CPU		Intel	Xeon E3-1275 v3	64	75.9	44	http://cpu.userbenchmark.com/SpeedTest/5652/IntelR-XeonR-CPU-E3-1275-v3---350GHz	Xeon E3-1275 v3	Haswell-WS	4  / 8	Intel Socket 1150	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 8192K	84W	Jun 2013		
+CPU	BX80646E31241V3	Intel	Xeon E3-1241 v3	65	75.8	633	http://cpu.userbenchmark.com/SpeedTest/15164/IntelR-XeonR-CPU-E3-1241-v3---350GHz												
+CPU	BX80646I74770	Intel	Core i7-4770	66	75.7	24576	http://cpu.userbenchmark.com/Intel-Core-i7-4770/Rating/1978	Core i7-4770HQ	Crystalwell	4  / 8	Intel BGA1364	22 nm	2200&nbsp;MHz	22.0x	64K / 256K / 8192K	47W	Jul 2014	2650	
+CPU	BX80637I53570K	Intel	Core i5-3570K	67	75.6	43688	http://cpu.userbenchmark.com/Intel-Core-i5-3570K/Rating/1316	Core i5-3570K	Ivy Bridge	4 	Intel Socket 1155	22 nm	3400&nbsp;MHz	34.0x	64K / 256K / 6144K	77W	Apr 2012	1999	
+CPU	YD130XBBAEBOX	AMD	Ryzen 3 1300X	68	75.6	1381	http://cpu.userbenchmark.com/AMD-Ryzen-3-1300X/Rating/3930	Ryzen 3 1300X	Zen	4 	AMD Socket AM4	14 nm	3400&nbsp;MHz	34.0x	96K / 512K / 8192K	65W	Jun 2017	990	
+CPU		Intel	Core i5-4670	69	75.5	9393	http://cpu.userbenchmark.com/SpeedTest/630/IntelR-CoreTM-i5-4670-CPU---340GHz	Core i5-4670R	Haswell	4 	Intel BGA1364	22 nm	3000&nbsp;MHz	30.0x	64K / 256K / 4096K	65W	Jun 2013	1590	
+CPU	BX80677I37350K	Intel	Core i3-7350K	70	75.4	419	http://cpu.userbenchmark.com/Intel-Core-i3-7350K/Rating/3889	Core i3-7350K	Kaby Lake	2  / 4	Intel Socket 1151	14 nm	4200&nbsp;MHz	42.0x	64K / 256K / 4096K	60W	Jan 2017		
+CPU		Intel	Core i7-7820HQ	71	74.5	733	http://cpu.userbenchmark.com/SpeedTest/185229/IntelR-CoreTM-i7-7820HQ-CPU---290GHz											19400	
+CPU	BX80646I74771	Intel	Core i7-4771	72	74.5	2014	http://cpu.userbenchmark.com/Intel-Core-i7-4771/Rating/2008	Core i7-4771	Haswell	4  / 8	Intel Socket 1150	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 8192K	84W	Sep 2013	2369	
+CPU		Intel	Xeon E5-1650 0	73	74.4	1054	http://cpu.userbenchmark.com/SpeedTest/7093/IntelR-XeonR-CPU-E5-1650-0---320GHz	Xeon E5-1650 v2	Ivy Bridge-E	6  / 12	Intel Socket 2011	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 12288K	130W	Sep 2013		
+CPU	YD150XBBAEBOX	AMD	Ryzen 5 1500X	74	74.3	5164	http://cpu.userbenchmark.com/AMD-Ryzen-5-1500X/Rating/3921	Ryzen 5 1500X	Zen	4  / 8	AMD Socket AM4	14 nm	3500&nbsp;MHz	35.0x	96K / 512K / 16384K	65W	Apr 2017	1309	
+CPU		Intel	Xeon E3-1505M v6	75	74.2	303	http://cpu.userbenchmark.com/SpeedTest/233404/IntelR-XeonR-CPU-E3-1505M-v6---300GHz											20520	
+CPU		Intel	Xeon E3-1240 v3	76	74	444	http://cpu.userbenchmark.com/SpeedTest/4602/IntelR-XeonR-CPU-E3-1240-v3---340GHz	Xeon E3-1240 v3	Haswell-WS	4  / 8	Intel Socket 1150	22 nm	3400&nbsp;MHz	34.0x	64K / 256K / 8192K	80W	Jun 2013	2180	
+CPU	BX80637I73770K	Intel	Core i7-3770K	77	73.9	32915	http://cpu.userbenchmark.com/Intel-Core-i7-3770K/Rating/1317	Core i7-3770K	Ivy Bridge	4  / 8	Intel Socket 1155	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 8192K	77W	Apr 2012	2898	
+CPU		Intel	Core i7-4790S	78	73.7	1916	http://cpu.userbenchmark.com/SpeedTest/13424/IntelR-CoreTM-i7-4790S-CPU---320GHz	Core i7-4790S	Haswell	4  / 8	Intel Socket 1150	22 nm	3100&nbsp;MHz	31.0x	64K / 256K / 8192K	65W	May 2014	25910	
+CPU		Intel	Core i5-6600T	79	73.7	106	http://cpu.userbenchmark.com/SpeedTest/37851/IntelR-CoreTM-i5-6600T-CPU---270GHz												
+CPU		Intel	Xeon E5-2687W 0	80	73.6	144	http://cpu.userbenchmark.com/SpeedTest/8860/IntelR-XeonR-CPU-E5-2687W-0---310GHz												
+CPU	CM8066201920202	Intel	Core i7-6700T	81	73.5	1249	http://cpu.userbenchmark.com/SpeedTest/36439/IntelR-CoreTM-i7-6700T-CPU---280GHz	Core i7-6700T	Skylake	4  / 8	Intel Socket 1151	14 nm	2800&nbsp;MHz	28.0x	64K / 256K / 8192K	35W	Sep 2015	11460	
+CPU	BX80633I74820K	Intel	Core i7-4820K	82	73.4	4193	http://cpu.userbenchmark.com/Intel-Core-i7-4820K/Rating/1675	Core i7-4820K	Ivy Bridge-E	4  / 8	Intel Socket 2011	22 nm	3700&nbsp;MHz	37.0x	64K / 256K / 10240K	130W	Sep 2013	2538	
+CPU	BX80677I57400	Intel	Core i5-7400	83	73.4	11560	http://cpu.userbenchmark.com/Intel-Core-i5-7400/Rating/3886	Core i5-7400	Kaby Lake	4 	Intel Socket 1151	14 nm	3000&nbsp;MHz	30.0x	64K / 256K / 6144K	65W	Jan 2017	1190	
+CPU		Intel	Core i5-4670S	84	73.1	135	http://cpu.userbenchmark.com/SpeedTest/5523/IntelR-CoreTM-i5-4670S-CPU---310GHz	Core i5-4670S	Haswell	4 	Intel Socket 1150	22 nm	3100&nbsp;MHz	31.0x	64K / 256K / 6144K	65W	Jun 2013		
+CPU		Intel	Xeon E3-1270 v3	85	73.1	168	http://cpu.userbenchmark.com/SpeedTest/11395/IntelR-XeonR-CPU-E3-1270-v3---350GHz	Xeon E3-1270 v3	Haswell-WS	4  / 8	Intel Socket 1150	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 8192K	80W	Jun 2013		
+CPU	BX80646E31231V3	Intel	Xeon E3-1231 v3	86	73	4444	http://cpu.userbenchmark.com/SpeedTest/11040/IntelR-XeonR-CPU-E3-1231-v3---340GHz												
+CPU	BX80646I54590	Intel	Core i5-4590	87	73	18897	http://cpu.userbenchmark.com/Intel-Core-i5-4590/Rating/2604	Core i5-4590	Haswell	4 	Intel Socket 1150	22 nm	3200&nbsp;MHz	32.0x	64K / 256K / 6144K	84W	May 2014	1440	
+CPU		Intel	Xeon E3-1226 v3	88	73	325	http://cpu.userbenchmark.com/SpeedTest/18482/IntelR-XeonR-CPU-E3-1226-v3---330GHz												
+CPU	BX80623I52500K	Intel	Core i5-2500K	89	72.9	39564	http://cpu.userbenchmark.com/Intel-Core-i5-2500K/Rating/619	Core i5-2500K	Sandy Bridge	4 	Intel Socket 1155	32 nm	3300&nbsp;MHz	33.0x	64K / 256K / 6144K	95W	Jan 2011	1660	
+CPU	BX80662I56500	Intel	Core i5-6500	90	72.8	41906	http://cpu.userbenchmark.com/Intel-Core-i5-6500/Rating/3513	Core i5-6500	Skylake	4 	Intel Socket 1151	14 nm	3200&nbsp;MHz	32.0x	64K / 256K / 6144K	65W	Jul 2015	7369	
+CPU		Intel	Xeon E3-1245 v3	91	72.8	325	http://cpu.userbenchmark.com/SpeedTest/4697/IntelR-XeonR-CPU-E3-1245-v3---340GHz	Xeon E3-1245 v3	Haswell-WS	4  / 8	Intel Socket 1150	22 nm	3400&nbsp;MHz	34.0x	64K / 256K / 8192K	84W	Jun 2013		
+CPU	BX80646I54570	Intel	Core i5-4570	92	72.3	15730	http://cpu.userbenchmark.com/Intel-Core-i5-4570/Rating/2770	Core i5-4570R	Haswell	4 	Intel BGA1364	22 nm	2700&nbsp;MHz	27.0x	64K / 256K / 4096K	65W	Jun 2013	1539	
+CPU		Intel	Core i5-2550K	93	72.1	639	http://cpu.userbenchmark.com/SpeedTest/5474/IntelR-CoreTM-i5-2550K-CPU---340GHz	Core i5-2550K	Sandy Bridge	4 	Intel Socket 1155	32 nm	3400&nbsp;MHz	34.0x	64K / 256K / 6144K	95W	Jan 2012		
+CPU		Intel	Core i7-4770S	94	72.1	1943	http://cpu.userbenchmark.com/SpeedTest/2123/IntelR-CoreTM-i7-4770S-CPU---310GHz	Core i7-4770S	Haswell	4  / 8	Intel Socket 1150	22 nm	3100&nbsp;MHz	31.0x	64K / 256K / 8192K	65W	Jun 2013	2319	
+CPU	BX80623I72700K	Intel	Core i7-2700K	95	71.7	4047	http://cpu.userbenchmark.com/Intel-Core-i7-2700K/Rating/1985	Core i7-2700K	Sandy Bridge	4  / 8	Intel Socket 1155	32 nm	3500&nbsp;MHz	35.0x	64K / 256K / 8192K	95W	Oct 2011	2399	
+CPU	BX80623I72600K	Intel	Core i7-2600K	96	71.6	33010	http://cpu.userbenchmark.com/Intel-Core-i7-2600K/Rating/621	Core i7-2600K	Sandy Bridge	4  / 8	Intel Socket 1155	32 nm	3400&nbsp;MHz	34.0x	64K / 256K / 8192K	95W	Jan 2011	2260	
+CPU	BX80646E31230V3	Intel	Xeon E3-1230 v3	97	71.3	1516	http://cpu.userbenchmark.com/SpeedTest/2171/IntelR-XeonR-CPU-E3-1230-v3---330GHz	Xeon E3-1230 v3	Haswell-WS	4  / 8	Intel Socket 1150	22 nm	3300&nbsp;MHz	33.0x	64K / 256K / 8192K	80W	Jun 2013	1950	
+CPU		Intel	Core i7-4940MX	98	71.2	344	http://cpu.userbenchmark.com/SpeedTest/9756/IntelR-CoreTM-i7-4940MX-CPU---310GHz	Core i7-4940MX	Haswell	4  / 8	Intel Socket G3	22 nm	3100&nbsp;MHz	31.0x	64K / 256K / 8192K	57W	Jan 2014		
+CPU		Intel	Xeon E3-1270 V2	99	71.1	241	http://cpu.userbenchmark.com/SpeedTest/11264/IntelR-XeonR-CPU-E3-1270-V2---350GHz	Xeon E3-1270 v2	Ivy Bridge	4  / 8	Intel Socket 1155	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 8192K	69W	May 2012		
+CPU		Intel	Xeon E3-1225 v3	100	71	745	http://cpu.userbenchmark.com/SpeedTest/12983/IntelR-XeonR-CPU-E3-1225-v3---320GHz	Xeon E3-1225 v3	Haswell-WS	4 	Intel Socket 1150	22 nm	3200&nbsp;MHz	32.0x	64K / 256K / 8192K	84W	Jun 2013		
+CPU		Intel	Core i5-3570	101	70.9	12576	http://cpu.userbenchmark.com/SpeedTest/793/IntelR-CoreTM-i5-3570-CPU---340GHz	Core i5-3570	Ivy Bridge	4 	Intel Socket 1155	22 nm	3400&nbsp;MHz	34.0x	64K / 256K / 6144K	77W	Jun 2012	1999	
+CPU	BX80677I37320	Intel	Core i3-7320	102	70.7	51	http://cpu.userbenchmark.com/Intel-Core-i3-7320/Rating/3888	Core i3-7320T	Kaby Lake	2  / 4	Intel Socket 1151	14 nm	3600&nbsp;MHz	36.0x	64K / 256K / 4096K	35W	Jul 2017		
+CPU		Intel	Core i7-7700HQ	103	70.4	36115	http://cpu.userbenchmark.com/SpeedTest/211019/IntelR-CoreTM-i7-7700HQ-CPU---280GHz											11580	
+CPU	BX80637I73770	Intel	Core i7-3770	104	70.3	39765	http://cpu.userbenchmark.com/Intel-Core-i7-3770/Rating/1979	Core i7-3770K	Ivy Bridge	4  / 8	Intel Socket 1155	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 8192K	77W	Apr 2012	2699	
+CPU		Intel	Core i7 X 000	105	70.1	43	http://cpu.userbenchmark.com/SpeedTest/2446/IntelR-CoreTM-i7-CPU-------X-000----333GHz												
+CPU		Intel	Xeon E3-1275 V2	106	70.1	43	http://cpu.userbenchmark.com/SpeedTest/4507/IntelR-XeonR-CPU-E3-1275-V2---350GHz	Xeon E3-1275 v2	Ivy Bridge	4  / 8	Intel Socket 1155	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 8192K	77W	May 2012	2760	
+CPU		Intel	Core i7 X 990	107	70	777	http://cpu.userbenchmark.com/SpeedTest/2590/IntelR-CoreTM-i7-CPU-------X-990----347GHz	Core i7-990X	Gulftown	6  / 12	Intel Socket 1366	32 nm	3466&nbsp;MHz	26.0x	64K / 256K / 12288K	130W	Feb 2011		
+CPU		Intel	Xeon E3-1240 V2	108	70	512	http://cpu.userbenchmark.com/SpeedTest/5484/IntelR-XeonR-CPU-E3-1240-V2---340GHz	Xeon E3-1240 v2	Ivy Bridge	4  / 8	Intel Socket 1155	22 nm	3400&nbsp;MHz	34.0x	64K / 256K / 8192K	69W	May 2012		
+CPU		Intel	Core i5-4590S	109	69.7	1139	http://cpu.userbenchmark.com/SpeedTest/13459/IntelR-CoreTM-i5-4590S-CPU---300GHz	Core i5-4590S	Haswell	4 	Intel Socket 1150	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 6144K	65W	May 2014	1505	
+CPU		Intel	Core i7-5700HQ	110	69.7	3803	http://cpu.userbenchmark.com/SpeedTest/30103/IntelR-CoreTM-i7-5700HQ-CPU---270GHz											13999	
+CPU		Intel	Xeon E5-1620 v2	111	69.5	814	http://cpu.userbenchmark.com/SpeedTest/8354/IntelR-XeonR-CPU-E5-1620-v2---370GHz	Xeon E5-1620 v2	Ivy Bridge-E	4  / 8	Intel Socket 2011	22 nm	3700&nbsp;MHz	37.0x	64K / 256K / 10240K	130W	Sep 2013		
+CPU		Intel	Xeon W3690	112	69.5	669	http://cpu.userbenchmark.com/SpeedTest/9677/IntelR-XeonR-CPU-----------W3690----347GHz	Xeon W3690	Gulftown	6  / 12	Intel Socket 1366	32 nm	3466&nbsp;MHz	26.0x	64K / 256K / 12288K	130W	Feb 2011		
+CPU		Intel	Core i5-3550	113	69.4	3461	http://cpu.userbenchmark.com/SpeedTest/846/IntelR-CoreTM-i5-3550-CPU---330GHz	Core i5-3550	Ivy Bridge	4 	Intel Socket 1155	22 nm	3300&nbsp;MHz	33.0x	64K / 256K / 6144K	77W	Apr 2012	1790	
+CPU	YD1200BBAEBOX	AMD	Ryzen 3 1200	114	69.2	1936	http://cpu.userbenchmark.com/AMD-Ryzen-3-1200/Rating/3931	Ryzen 3 PRO 1200	Zen	4  / 8	AMD Socket AM4	14 nm	3100&nbsp;MHz	31.0x	96K / 512K / 8192K	65W	Jun 2017	850	
+CPU		Intel	Xeon X5690	115	68.9	314	http://cpu.userbenchmark.com/SpeedTest/16752/IntelR-XeonR-CPU-----------X5690----347GHz	Xeon X5690	Westmere-EP	6  / 12	Intel Socket 1366	32 nm	3466&nbsp;MHz	26.0x	64K / 256K / 12288K	130W	Feb 2011		
+CPU		Intel	Core i7-3820	116	68.8	9953	http://cpu.userbenchmark.com/SpeedTest/739/IntelR-CoreTM-i7-3820-CPU---360GHz	Core i7-3820QM	Ivy Bridge	4  / 8	Intel Socket G2 (988B)	22 nm	2700&nbsp;MHz	27.0x	64K / 256K / 8192K	45W	Apr 2012	2590	
+CPU		Intel	Core i7-6820HK	117	68.8	4338	http://cpu.userbenchmark.com/SpeedTest/36404/IntelR-CoreTM-i7-6820HK-CPU---270GHz											22390	
+CPU		Intel	Core i7-4930MX	118	68.8	257	http://cpu.userbenchmark.com/SpeedTest/2453/IntelR-CoreTM-i7-4930MX-CPU---300GHz	Core i7-4930MX	Haswell	4  / 8	Intel Socket G3	22 nm	3000&nbsp;MHz	30.0x	64K / 256K / 8192K	57W	Apr 2013		
+CPU		Intel	Core i7-3770S	119	68.7	1315	http://cpu.userbenchmark.com/SpeedTest/2218/IntelR-CoreTM-i7-3770S-CPU---310GHz	Core i7-3770S	Ivy Bridge	4  / 8	Intel Socket 1155	22 nm	3100&nbsp;MHz	31.0x	64K / 256K / 8192K	65W	Apr 2012	8998	
+CPU		Intel	Xeon E3-1245 V2	120	68.5	268	http://cpu.userbenchmark.com/SpeedTest/5622/IntelR-XeonR-CPU-E3-1245-V2---340GHz	Xeon E3-1245 v2	Ivy Bridge	4  / 8	Intel Socket 1155	22 nm	3400&nbsp;MHz	34.0x	64K / 256K / 8192K	77W	May 2012	2130	
+CPU		Intel	Core i7 X 980	121	68.4	1637	http://cpu.userbenchmark.com/SpeedTest/1822/IntelR-CoreTM-i7-CPU-------X-980----333GHz	Core i7-980X	Gulftown	6  / 12	Intel Socket 1366	32 nm	3333&nbsp;MHz	25.0x	64K / 256K / 12288K	130W	Mar 2010	28298	
+CPU	YD1400BBAEBOX	AMD	Ryzen 5 1400	122	68.4	3730	http://cpu.userbenchmark.com/AMD-Ryzen-5-1400/Rating/3922	Ryzen 5 1400	Zen	4  / 8	AMD Socket AM4	14 nm	3200&nbsp;MHz	32.0x	96K / 512K / 8192K	65W	Apr 2017	1190	
+CPU	BX80662I56400	Intel	Core i5-6400	123	68.3	26623	http://cpu.userbenchmark.com/Intel-Core-i5-6400/Rating/3512	Core i5-6400	Skylake	4 	Intel Socket 1151	14 nm	2700&nbsp;MHz	27.0x	64K / 256K / 6144K	65W	Jul 2015	2699	
+CPU		Intel	Core i5-4570S	124	68	1140	http://cpu.userbenchmark.com/SpeedTest/5965/IntelR-CoreTM-i5-4570S-CPU---290GHz	Core i5-4570S	Haswell	4 	Intel Socket 1150	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 6144K	65W	Jun 2013	1489	
+CPU	BX80677I37300	Intel	Core i3-7300	125	68	158	http://cpu.userbenchmark.com/Intel-Core-i3-7300/Rating/3893	Core i3-7300	Kaby Lake	2  / 4	Intel Socket 1151	14 nm	4000&nbsp;MHz	40.0x	64K / 256K / 4096K	51W	Jan 2017	1060	
+CPU		Intel	Xeon E3-1220 v3	126	68	477	http://cpu.userbenchmark.com/SpeedTest/5983/IntelR-XeonR-CPU-E3-1220-v3---310GHz	Xeon E3-1220 v3	Haswell-WS	4 	Intel Socket 1150	22 nm	3100&nbsp;MHz	31.0x	64K / 256K / 8192K	80W	Jun 2013		
+CPU		Intel	Core i7-3920XM	127	67.9	171	http://cpu.userbenchmark.com/SpeedTest/5061/IntelR-CoreTM-i7-3920XM-CPU---290GHz	Core i7-3920XM	Ivy Bridge	4  / 8	Intel Socket G2 (988B)	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 8192K	55W	Apr 2012		
+CPU		Intel	Xeon W3680	128	67.6	593	http://cpu.userbenchmark.com/SpeedTest/12335/IntelR-XeonR-CPU-----------W3680----333GHz	Xeon W3680	Gulftown	6  / 12	Intel Socket 1366	32 nm	3333&nbsp;MHz	25.0x	64K / 256K / 12288K	130W	Mar 2010		
+CPU		Intel	Xeon E3-1225 V2	129	67.5	336	http://cpu.userbenchmark.com/SpeedTest/5015/IntelR-XeonR-CPU-E3-1225-V2---320GHz	Xeon E3-1225 v2	Ivy Bridge	4 	Intel Socket 1155	22 nm	3200&nbsp;MHz	32.0x	64K / 256K / 8192K	77W	May 2012		
+CPU	BX80662I36320	Intel	Core i3-6320	130	67.5	473	http://cpu.userbenchmark.com/Intel-Core-i3-6320/Rating/3535	Core i3-6320	Skylake	2  / 4	Intel Socket 1151	14 nm	3900&nbsp;MHz	39.0x	64K / 256K / 4096K	51W	Sep 2015		
+CPU	BX80637I53470	Intel	Core i5-3470	131	67.3	24871	http://cpu.userbenchmark.com/Intel-Core-i5-3470/Rating/2771	Core i5-3470	Ivy Bridge	4 	Intel Socket 1155	22 nm	3200&nbsp;MHz	32.0x	64K / 256K / 6144K	77W	Jun 2012	1590	
+CPU		Intel	Xeon E5-1620 0	132	67.3	1497	http://cpu.userbenchmark.com/SpeedTest/2930/IntelR-XeonR-CPU-E5-1620-0---360GHz	Xeon E5-1620 v2	Ivy Bridge-E	4  / 8	Intel Socket 2011	22 nm	3700&nbsp;MHz	37.0x	64K / 256K / 10240K	130W	Sep 2013	10460	
+CPU		Intel	Core i7-3940XM	133	67.3	415	http://cpu.userbenchmark.com/SpeedTest/7092/IntelR-CoreTM-i7-3940XM-CPU---300GHz	Core i7-3940XM	Ivy Bridge	4  / 8	Intel Socket G2 (988B)	22 nm	3000&nbsp;MHz	30.0x	64K / 256K / 8192K	55W	Sep 2012		
+CPU		Intel	Core i5-7300HQ	134	66.8	7945	http://cpu.userbenchmark.com/SpeedTest/223877/IntelR-CoreTM-i5-7300HQ-CPU---250GHz											9800	
+CPU		Intel	Core i7-7567U	135	66.4	134	http://cpu.userbenchmark.com/SpeedTest/219709/IntelR-CoreTM-i7-7567U-CPU---350GHz												
+CPU		Intel	Xeon E5-2690 v2	136	66.4	60	http://cpu.userbenchmark.com/SpeedTest/13436/IntelR-XeonR-CPU-E5-2690-v2---300GHz	Xeon E5-2690 v2	Ivy Bridge-EP	10  / 20	Intel Socket 2011	22 nm	3000&nbsp;MHz	30.0x	64K / 256K / 25600K	130W	Sep 2013		
+CPU		Intel	Core i7-6820HQ	137	66.3	4185	http://cpu.userbenchmark.com/SpeedTest/43500/IntelR-CoreTM-i7-6820HQ-CPU---270GHz											24890	
+CPU		Intel	Xeon E3-1265L v3	138	66.2	26	http://cpu.userbenchmark.com/SpeedTest/20266/IntelR-XeonR-CPU-E3-1265L-v3---250GHz	Xeon E3-1265L v3	Haswell-WS	4  / 8	Intel Socket 1150	22 nm	2500&nbsp;MHz	25.0x	64K / 256K / 8192K	45W	Jun 2013		
+CPU		Intel	Xeon E3-1230 V2	139	66.2	1194	http://cpu.userbenchmark.com/SpeedTest/652/IntelR-XeonR-CPU-E3-1230-V2---330GHz	Xeon E3-1230 v2	Ivy Bridge	4  / 8	Intel Socket 1155	22 nm	3300&nbsp;MHz	33.0x	64K / 256K / 8192K	69W	May 2012	2099	
+CPU		Intel	Core i7 980	140	66.1	444	http://cpu.userbenchmark.com/SpeedTest/3336/IntelR-CoreTM-i7-CPU---------980----333GHz	Core i7-4980HQ	Crystalwell	4  / 8	Intel BGA1364	22 nm	2800&nbsp;MHz	28.0x	64K / 256K / 8192K	47W	Sep 2013	28298	
+CPU	BX80646I54460	Intel	Core i5-4460	141	66.1	43391	http://cpu.userbenchmark.com/Intel-Core-i5-4460/Rating/2310											1285	
+CPU	BX80677I37100	Intel	Core i3-7100	142	66	5631	http://cpu.userbenchmark.com/Intel-Core-i3-7100/Rating/3891	Core i3-7100T	Kaby Lake	2  / 4	Intel Socket 1151	14 nm	3400&nbsp;MHz	34.0x	64K / 256K / 3072K	35W	Jan 2017	780	
+CPU		Intel	Core i7-4770T	143	66	130	http://cpu.userbenchmark.com/SpeedTest/4415/IntelR-CoreTM-i7-4770T-CPU---250GHz	Core i7-4770TE	Haswell	4  / 8	Intel Socket 1150	22 nm	2300&nbsp;MHz	23.0x	64K / 256K / 8192K	45W	Jun 2013		
+CPU		Intel	Core i7-4910MQ	144	65.9	1150	http://cpu.userbenchmark.com/SpeedTest/9700/IntelR-CoreTM-i7-4910MQ-CPU---290GHz	Core i7-4910MQ	Haswell	4  / 8	Intel Socket G3	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 8192K	47W	Jan 2014	27598	
+CPU		Intel	Core i7-4810MQ	145	65.8	4356	http://cpu.userbenchmark.com/SpeedTest/7168/IntelR-CoreTM-i7-4810MQ-CPU---280GHz	Core i7-4810MQ	Haswell	4  / 8	Intel Socket G3	22 nm	2800&nbsp;MHz	28.0x	64K / 256K / 8192K	47W	Jan 2014	17500	
+CPU		Intel	Core i7-8550U	146	65.5	400	http://cpu.userbenchmark.com/SpeedTest/320742/IntelR-CoreTM-i7-8550U-CPU---180GHz											11760	
+CPU		Intel	Xeon E31270	147	65.4	287	http://cpu.userbenchmark.com/SpeedTest/5604/IntelR-XeonR-CPU-E31270---340GHz												
+CPU		Intel	Core i7 970	148	65.3	806	http://cpu.userbenchmark.com/SpeedTest/8374/IntelR-CoreTM-i7-CPU---------970----320GHz	Core i7-3970X	Sandy Bridge-E	6  / 12	Intel Socket 2011	32 nm	3500&nbsp;MHz	35.0x	64K / 256K / 15360K	150W	Nov 2012	14350	
+CPU	BX80662I36300	Intel	Core i3-6300	149	65.2	687	http://cpu.userbenchmark.com/Intel-Core-i3-6300/Rating/3536	Core i3-6300	Skylake	2  / 4	Intel Socket 1151	14 nm	3800&nbsp;MHz	38.0x	64K / 256K / 4096K	51W	Sep 2015	975	
+CPU		Intel	Core i5-3450	150	65	7237	http://cpu.userbenchmark.com/SpeedTest/161/IntelR-CoreTM-i5-3450-CPU---310GHz	Core i5-3450	Ivy Bridge	4 	Intel Socket 1155	22 nm	3100&nbsp;MHz	31.0x	64K / 256K / 6144K	77W	Apr 2012	1590	
+CPU	BX80623I72600	Intel	Core i7-2600	151	65	29722	http://cpu.userbenchmark.com/Intel-Core-i7-2600/Rating/620	Core i7-2600K	Sandy Bridge	4  / 8	Intel Socket 1155	32 nm	3400&nbsp;MHz	34.0x	64K / 256K / 8192K	95W	Jan 2011	2220	
+CPU		Intel	Core i7-4960HQ	152	64.9	98	http://cpu.userbenchmark.com/SpeedTest/9629/IntelR-CoreTM-i7-4960HQ-CPU---260GHz	Core i7-4960HQ	Crystalwell	4  / 8	Intel BGA1364	22 nm	2600&nbsp;MHz	26.0x	64K / 256K / 8192K	47W	Sep 2013		
+CPU		Intel	Core i5-2500	153	64.8	11888	http://cpu.userbenchmark.com/SpeedTest/517/IntelR-CoreTM-i5-2500-CPU---330GHz	Core i5-2500K	Sandy Bridge	4 	Intel Socket 1155	32 nm	3300&nbsp;MHz	33.0x	64K / 256K / 6144K	95W	Jan 2011	1590	
+CPU	BX80646I54440	Intel	Core i5-4440	154	64.8	14263	http://cpu.userbenchmark.com/Intel-Core-i5-4440/Rating/1993	Core i5-4440	Haswell	4 	Intel Socket 1150	22 nm	3100&nbsp;MHz	31.0x	64K / 256K / 6144K	84W	Sep 2013	1200	
+CPU	BX80647I74900MQ	Intel	Core i7-4900MQ	155	64.8	1212	http://cpu.userbenchmark.com/Intel-Core-i7-4900MQ/Rating/1994	Core i7-4900MQ	Haswell	4  / 8	Intel Socket G3	22 nm	2800&nbsp;MHz	28.0x	64K / 256K / 8192K	47W	Apr 2013		
+CPU		Intel	Core i7-6700HQ	156	64.6	77477	http://cpu.userbenchmark.com/SpeedTest/34954/IntelR-CoreTM-i7-6700HQ-CPU---260GHz											7890	
+CPU		Intel	Core i5-3475S	157	64.6	89	http://cpu.userbenchmark.com/SpeedTest/10117/IntelR-CoreTM-i5-3475S-CPU---290GHz	Core i5-3475S	Ivy Bridge	4 	Intel Socket 1155	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 6144K	65W	Jun 2012		
+CPU		Intel	Core i5-3470S	158	64.2	1348	http://cpu.userbenchmark.com/SpeedTest/6387/IntelR-CoreTM-i5-3470S-CPU---290GHz	Core i5-3470S	Ivy Bridge	4 	Intel Socket 1155	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 6144K	65W	Jun 2012	1528	
+CPU		Intel	Core i7-3840QM	159	64	944	http://cpu.userbenchmark.com/SpeedTest/2451/IntelR-CoreTM-i7-3840QM-CPU---280GHz	Core i7-3840QM	Ivy Bridge	4  / 8	Intel Socket G2 (988B)	22 nm	2800&nbsp;MHz	28.0x	64K / 256K / 8192K	45W	Sep 2012	29099	
+CPU		Intel	Xeon E3-1220 V2	160	63.9	391	http://cpu.userbenchmark.com/SpeedTest/3482/IntelR-XeonR-CPU-E3-1220-V2---310GHz	Xeon E3-1220 v2	Ivy Bridge	4 	Intel Socket 1155	22 nm	3100&nbsp;MHz	31.0x	64K / 256K / 8192K	69W	May 2012	5980	
+CPU		Intel	Core i7-4800MQ	161	63.8	3698	http://cpu.userbenchmark.com/SpeedTest/3437/IntelR-CoreTM-i7-4800MQ-CPU---270GHz	Core i7-4800MQ	Haswell	4  / 8	Intel Socket G3	22 nm	2700&nbsp;MHz	27.0x	64K / 256K / 8192K	47W	Apr 2013	17998	
+CPU	BX80677G4620	Intel	Pentium G4620	162	63.7	453	http://cpu.userbenchmark.com/Intel-Pentium-G4620/Rating/3895	Pentium G4620	Kaby Lake	2  / 4	Intel Socket 1151	14 nm	3700&nbsp;MHz	37.0x	64K / 256K / 3072K	51W	Jan 2017		
+CPU	BX80621E52670	Intel	Xeon E5-2670	163	63.6	992	http://cpu.userbenchmark.com/SpeedTest/18501/IntelR-XeonR-CPU-E5-2670-0---260GHz	Xeon E5-2670 v2	Ivy Bridge-EP	10  / 20	Intel Socket 2011	22 nm	2500&nbsp;MHz	25.0x	64K / 256K / 25600K	115W	Sep 2013	5488	
+CPU		Intel	Core i5-8250U	164	63.6	348	http://cpu.userbenchmark.com/SpeedTest/338266/IntelR-CoreTM-i5-8250U-CPU---160GHz											10489	
+CPU		Intel	Xeon E31240	165	63.5	301	http://cpu.userbenchmark.com/SpeedTest/5243/IntelR-XeonR-CPU-E31240---330GHz												
+CPU		Intel	Xeon X5650	166	63.5	2152	http://cpu.userbenchmark.com/SpeedTest/355/IntelR-XeonR-CPU-----------X5650----267GHz	Xeon X5650	Westmere-EP	6  / 12	Intel Socket 1366	32 nm	2666&nbsp;MHz	20.0x	64K / 256K / 12288K	95W	Mar 2010	3899	
+CPU		Intel	Core i5-2450P	167	63.3	49	http://cpu.userbenchmark.com/SpeedTest/2795/IntelR-CoreTM-i5-2450P-CPU---320GHz	Core i5-2450P	Sandy Bridge	4 	Intel Socket 1155	32 nm	3200&nbsp;MHz	32.0x	64K / 256K / 6144K	95W	Jan 2012		
+CPU	BX80637I53450S	Intel	Core i5-3450S	168	63.2	271	http://cpu.userbenchmark.com/SpeedTest/2071/IntelR-CoreTM-i5-3450S-CPU---280GHz	Core i5-3450S	Ivy Bridge	4 	Intel Socket 1155	22 nm	2800&nbsp;MHz	28.0x	64K / 256K / 6144K	65W	Apr 2012		
+CPU		Intel	Xeon E5-2630 v3	169	63.1	232	http://cpu.userbenchmark.com/SpeedTest/22651/IntelR-XeonR-CPU-E5-2630-v3---240GHz											21000	
+CPU	BX80662I36100	Intel	Core i3-6100	170	62.4	26651	http://cpu.userbenchmark.com/Intel-Core-i3-6100/Rating/3511	Core i3-6100	Skylake	2  / 4	Intel Socket 1151	14 nm	3700&nbsp;MHz	37.0x	64K / 256K / 4096K	51W	Sep 2015	788	
+CPU		Intel	Core i5-4570R	171	61.7	226	http://cpu.userbenchmark.com/SpeedTest/6445/IntelR-CoreTM-i5-4570R-CPU---270GHz	Core i5-4570R	Haswell	4 	Intel BGA1364	22 nm	2700&nbsp;MHz	27.0x	64K / 256K / 4096K	65W	Jun 2013	4700	
+CPU		Intel	Core i7-3820QM	172	61.5	701	http://cpu.userbenchmark.com/SpeedTest/4339/IntelR-CoreTM-i7-3820QM-CPU---270GHz	Core i7-3820QM	Ivy Bridge	4  / 8	Intel Socket G2 (988B)	22 nm	2700&nbsp;MHz	27.0x	64K / 256K / 8192K	45W	Apr 2012	17999	
+CPU		Intel	Core i7-3740QM	173	61.5	2841	http://cpu.userbenchmark.com/SpeedTest/2919/IntelR-CoreTM-i7-3740QM-CPU---270GHz	Core i7-3740QM	Ivy Bridge	4  / 8	Intel Socket G2 (988B)	22 nm	2700&nbsp;MHz	27.0x	64K / 256K / 6144K	45W	Sep 2012	19399	
+CPU	FD9590FHHKWOF	AMD	FX-9590	174	61.5	7657	http://cpu.userbenchmark.com/AMD-FX-9590/Rating/1812	FX-9590	Vishera	8 	AMD Socket AM3+	32 nm	4700&nbsp;MHz	23.5x	384K / 8192K / 8192K	220W	Jul 2013	2899	
+CPU		Intel	Core i7-4722HQ	175	61.5	41	http://cpu.userbenchmark.com/SpeedTest/32895/IntelR-CoreTM-i7-4722HQ-CPU---240GHz											10980	
+CPU	BX80677G4600	Intel	Pentium G4600	176	61.4	1673	http://cpu.userbenchmark.com/Intel-Pentium-G4600/Rating/3894	Pentium G4600	Kaby Lake	2  / 4	Intel Socket 1151	14 nm	3600&nbsp;MHz	36.0x	64K / 256K / 3072K	51W	Jan 2017		
+CPU		Intel	Core i7-4710MQ	177	61.4	5410	http://cpu.userbenchmark.com/SpeedTest/9397/IntelR-CoreTM-i7-4710MQ-CPU---250GHz	Core i7-4710MQ	Haswell	4  / 8	Intel Socket G3	22 nm	2500&nbsp;MHz	25.0x	64K / 256K / 6144K	47W	May 2013	15800	
+CPU		Intel	Xeon E5-2643 0	178	61.2	97	http://cpu.userbenchmark.com/SpeedTest/3389/IntelR-XeonR-CPU-E5-2643-0---330GHz												
+CPU		Intel	Core i5-3340	179	61	1250	http://cpu.userbenchmark.com/SpeedTest/2710/IntelR-CoreTM-i5-3340-CPU---310GHz	Core i5-3340M	Ivy Bridge	2  / 4	Intel Socket G2 (988B)	22 nm	2700&nbsp;MHz	27.0x	64K / 256K / 3072K	35W	Jan 2013	1429	
+CPU		Intel	Core i5-4430	180	60.8	4503	http://cpu.userbenchmark.com/SpeedTest/1920/IntelR-CoreTM-i5-4430-CPU---300GHz	Core i5-4430	Haswell	4 	Intel Socket 1150	22 nm	3000&nbsp;MHz	30.0x	64K / 256K / 6144K	84W	Jun 2013	1290	
+CPU		Intel	Xeon E31225	181	60.7	496	http://cpu.userbenchmark.com/SpeedTest/4210/IntelR-XeonR-CPU-E31225---310GHz												
+CPU	BX80623I52400	Intel	Core i5-2400	182	60.6	19369	http://cpu.userbenchmark.com/Intel-Core-i5-2400/Rating/803	Core i5-2400	Sandy Bridge	4 	Intel Socket 1155	32 nm	3100&nbsp;MHz	31.0x	64K / 256K / 6144K	95W	Jan 2011	1599	
+CPU		Intel	Core i5-6300HQ	183	60.6	11906	http://cpu.userbenchmark.com/SpeedTest/38166/IntelR-CoreTM-i5-6300HQ-CPU---230GHz											7399	
+CPU		Intel	Core i7-4700HQ	184	60.6	11507	http://cpu.userbenchmark.com/Intel-Core-i7-4700HQ/Rating/2728	Core i7-4700HQ	Crystalwell	4  / 8	Intel BGA1364	22 nm	2400&nbsp;MHz	24.0x	64K / 256K / 8192K	47W	May 2013	8090	
+CPU		Intel	Core i7-3720QM	185	60.5	2701	http://cpu.userbenchmark.com/SpeedTest/1619/IntelR-CoreTM-i7-3720QM-CPU---260GHz	Core i7-3720QM	Ivy Bridge	4  / 8	Intel BGA1224	22 nm	2600&nbsp;MHz	26.0x	64K / 256K / 6144K	45W	Apr 2012	14999	
+CPU		Intel	Core i5-3350P	186	60.3	4617	http://cpu.userbenchmark.com/SpeedTest/3018/IntelR-CoreTM-i5-3350P-CPU---310GHz	Core i5-3350P	Ivy Bridge	4 	Intel Socket 1155	22 nm	3100&nbsp;MHz	31.0x	64K / 256K / 6144K	69W	Sep 2012		
+CPU		Intel	Xeon E31230	187	60.3	320	http://cpu.userbenchmark.com/SpeedTest/6750/IntelR-XeonR-CPU-E31230---320GHz												
+CPU	BX80646I34370	Intel	Core i3-4370	188	60.1	511	http://cpu.userbenchmark.com/Intel-Core-i3-4370/Rating/2817	Core i3-4370	Haswell	2  / 4	Intel Socket 1150	22 nm	3800&nbsp;MHz	38.0x	64K / 256K / 4096K	54W	Jul 2014		
+CPU		Intel	Xeon E31220	189	60.1	348	http://cpu.userbenchmark.com/SpeedTest/6171/IntelR-XeonR-CPU-E31220---310GHz												
+CPU		Intel	Core i7-4710HQ	190	59.7	19928	http://cpu.userbenchmark.com/SpeedTest/11499/IntelR-CoreTM-i7-4710HQ-CPU---250GHz	Core i7-4710HQ	Crystalwell	4  / 8	Intel BGA1364	22 nm	2500&nbsp;MHz	25.0x	64K / 256K / 8192K	47W	Apr 2014	11509	
+CPU	BX80677G4560	Intel	Pentium G4560	191	59.6	11443	http://cpu.userbenchmark.com/Intel-Pentium-G4560/Rating/3892	Pentium G4560	Kaby Lake	2  / 4	Intel Socket 1151	14 nm	3500&nbsp;MHz	35.0x	64K / 256K / 3072K	51W	Jan 2017	528	
+CPU		Intel	Core i7 975	192	59.5	761	http://cpu.userbenchmark.com/SpeedTest/941/IntelR-CoreTM-i7-CPU---------975----333GHz	Core i7-975	Bloomfield	4  / 8	Intel Socket 1366	45 nm	3333&nbsp;MHz	25.0x	64K / 256K / 8192K	130W	Jun 2009		
+CPU		Intel	Core i7-4850HQ	193	59.3	241	http://cpu.userbenchmark.com/SpeedTest/7877/IntelR-CoreTM-i7-4850HQ-CPU---230GHz	Core i7-4850HQ	Crystalwell	4  / 8	Intel BGA1364	22 nm	2300&nbsp;MHz	23.0x	64K / 256K / 8192K	47W	Apr 2013		
+CPU	CW8064701470702	Intel	Core i7-4700MQ	194	59.2	18961	http://cpu.userbenchmark.com/Intel-Core-i7-4700MQ/Rating/2727	Core i7-4700MQ	Haswell	4  / 8	Intel Socket G3	22 nm	2400&nbsp;MHz	24.0x	64K / 256K / 6144K	47W	May 2013	12400	
+CPU	BX80662I36300T	Intel	Core i3-6300T	195	58.7	21	http://cpu.userbenchmark.com/SpeedTest/75733/IntelR-CoreTM-i3-6300T-CPU---330GHz												
+CPU	BX80646I34360	Intel	Core i3-4360	196	58.6	450	http://cpu.userbenchmark.com/Intel-Core-i3-4360/Rating/2819	Core i3-4360T	Haswell	2  / 4	Intel Socket 1150	22 nm	3200&nbsp;MHz	32.0x	64K / 256K / 4096K	35W	Jul 2014	1160	
+CPU	FD9370FHHKWOF	AMD	FX-9370	197	58.4	2973	http://cpu.userbenchmark.com/AMD-FX-9370/Rating/2005	FX-9370	Vishera	8 	AMD Socket AM3+	32 nm	4400&nbsp;MHz	22.0x	384K / 8192K / 8192K	220W	Jul 2013		
+CPU		Intel	Core i5-2320	198	58.3	6095	http://cpu.userbenchmark.com/SpeedTest/1735/IntelR-CoreTM-i5-2320-CPU---300GHz	Core i5-2320	Sandy Bridge	4 	Intel Socket 1155	32 nm	3000&nbsp;MHz	30.0x	64K / 256K / 6144K	95W	Sep 2011	1439	
+CPU		Intel	Core i5-3330	199	58.1	7994	http://cpu.userbenchmark.com/SpeedTest/10/IntelR-CoreTM-i5-3330-CPU---300GHz	Core i5-3330	Ivy Bridge	4 	Intel Socket 1155	22 nm	3000&nbsp;MHz	30.0x	64K / 256K / 6144K	77W	Sep 2012	1590	
+CPU		Intel	Xeon W3570	200	58	99	http://cpu.userbenchmark.com/SpeedTest/12630/IntelR-XeonR-CPU-----------W3570----320GHz	Xeon W3570	Bloomfield	4  / 8	Intel Socket 1366	45 nm	3200&nbsp;MHz	24.0x	64K / 256K / 8192K	130W	Mar 2009		
+CPU		Intel	Xeon W3565	201	57.8	1075	http://cpu.userbenchmark.com/SpeedTest/6324/IntelR-XeonR-CPU-----------W3565----320GHz	Xeon W3565	Bloomfield	4  / 8	Intel Socket 1366	45 nm	3200&nbsp;MHz	24.0x	64K / 256K / 8192K	130W	Nov 2009		
+CPU	FD8370FRHKBOX	AMD	FX-8370	202	57.7	8954	http://cpu.userbenchmark.com/AMD-FX-8370/Rating/2983	FX-8370	Vishera	8 	AMD Socket AM3+	32 nm	4000&nbsp;MHz	20.0x	384K / 8192K / 8192K	125W	Sep 2014	1250	
+CPU	BX80646I34170	Intel	Core i3-4170	203	57.5	7881	http://cpu.userbenchmark.com/SpeedTest/28214/IntelR-CoreTM-i3-4170-CPU---370GHz											860	
+CPU		Intel	Core i7-5850HQ	204	57.2	9	http://cpu.userbenchmark.com/SpeedTest/35099/IntelR-CoreTM-i7-5850HQ-CPU---270GHz												
+CPU		Intel	Xeon L5639	205	57	41	http://cpu.userbenchmark.com/SpeedTest/5958/IntelR-XeonR-CPU-----------L5639----213GHz												
+CPU		Intel	Core i7-7600U	206	56.8	629	http://cpu.userbenchmark.com/SpeedTest/220838/IntelR-CoreTM-i7-7600U-CPU---280GHz											12600	
+CPU	BX80646I34350	Intel	Core i3-4350	207	56.5	127	http://cpu.userbenchmark.com/Intel-Core-i3-4350/Rating/2433	Core i3-4350	Haswell	2  / 4	Intel Socket 1150	22 nm	3600&nbsp;MHz	36.0x	64K / 256K / 4096K	54W	May 2014	1128	
+CPU		Intel	Core i7-4712HQ	208	56.5	1282	http://cpu.userbenchmark.com/SpeedTest/10973/IntelR-CoreTM-i7-4712HQ-CPU---230GHz	Core i7-4712HQ	Crystalwell	4  / 8	Intel BGA1364	22 nm	2300&nbsp;MHz	23.0x	64K / 256K / 8192K	37W	Apr 2014	9688	
+CPU	FD8350FRHKBOX	AMD	FX-8350	209	56.5	78150	http://cpu.userbenchmark.com/AMD-FX-8350/Rating/1489	FX-8350	Vishera	8 	AMD Socket AM3+	32 nm	4000&nbsp;MHz	20.0x	384K / 8192K / 8192K	125W	Oct 2012	1098	
+CPU	AW8063801106200	Intel	Core i7-3630QM	210	56.4	17509	http://cpu.userbenchmark.com/Intel-Core-i7-3630QM/Rating/626	Core i7-3630QM	Ivy Bridge	4  / 8	Intel Socket G2 (988B)	22 nm	2400&nbsp;MHz	24.0x	64K / 256K / 6144K	45W	Sep 2012	10509	
+CPU		Intel	Core i7 K 875	211	56.4	532	http://cpu.userbenchmark.com/SpeedTest/476/IntelR-CoreTM-i7-CPU-------K-875----293GHz	Core i7-875K	Lynnfield	4  / 8	Intel Socket 1156	45 nm	2933&nbsp;MHz	22.0x	64K / 256K / 8192K	95W	May 2010		
+CPU		Intel	Core i7-4750HQ	212	56.3	1277	http://cpu.userbenchmark.com/SpeedTest/3709/IntelR-CoreTM-i7-4750HQ-CPU---200GHz	Core i7-4750HQ	Crystalwell	4  / 8	Intel BGA1364	22 nm	2000&nbsp;MHz	20.0x	64K / 256K / 8192K	47W	May 2013		
+CPU	BX80646I34340	Intel	Core i3-4340	213	56.2	203	http://cpu.userbenchmark.com/Intel-Core-i3-4340/Rating/2877	Core i3-4340	Haswell	2  / 4	Intel Socket 1150	22 nm	3600&nbsp;MHz	36.0x	64K / 256K / 4096K	54W	Sep 2013	1200	
+CPU		Intel	Core i7 960	214	56.2	3959	http://cpu.userbenchmark.com/SpeedTest/778/IntelR-CoreTM-i7-CPU---------960----320GHz	Core i7-5960X	Haswell-E	8  / 16	Intel Socket 2011-3	22 nm	3000&nbsp;MHz	30.0x	64K / 256K / 20480K	140W	Sep 2014	4990	
+CPU		Intel	Core i5-2310	215	56.1	2806	http://cpu.userbenchmark.com/SpeedTest/2055/IntelR-CoreTM-i5-2310-CPU---290GHz	Core i5-2310	Sandy Bridge	4 	Intel Socket 1155	32 nm	2900&nbsp;MHz	29.0x	64K / 256K / 6144K	95W	May 2011	1370	
+CPU		Intel	Core i7-2600S	216	56.1	529	http://cpu.userbenchmark.com/SpeedTest/6489/IntelR-CoreTM-i7-2600S-CPU---280GHz	Core i7-2600S	Sandy Bridge	4  / 8	Intel Socket 1155	32 nm	2800&nbsp;MHz	28.0x	64K / 256K / 8192K	65W	Jan 2011	7350	
+CPU		Intel	Core i7-2960XM	217	55.6	194	http://cpu.userbenchmark.com/SpeedTest/2390/IntelR-CoreTM-i7-2960XM-CPU---270GHz	Core i7-2960XM	Sandy Bridge	4  / 8	Intel Socket G2 (988B)	32 nm	2700&nbsp;MHz	27.0x	64K / 256K / 8192K	55W	Sep 2011		
+CPU		Intel	Xeon W3550	218	55.4	1150	http://cpu.userbenchmark.com/SpeedTest/3628/IntelR-XeonR-CPU-----------W3550----307GHz	Xeon W3550	Bloomfield	4  / 8	Intel Socket 1366	45 nm	3066&nbsp;MHz	23.0x	64K / 256K / 8192K	130W	Aug 2009	11290	
+CPU		Intel	Core i7-4702MQ	219	55.4	5700	http://cpu.userbenchmark.com/SpeedTest/2674/IntelR-CoreTM-i7-4702MQ-CPU---220GHz	Core i7-4702MQ	Haswell	4  / 8	Intel Socket G3	22 nm	2200&nbsp;MHz	22.0x	64K / 256K / 8192K	37W	May 2013	7800	
+CPU		Intel	Core i5-2500S	220	55.2	396	http://cpu.userbenchmark.com/SpeedTest/1699/IntelR-CoreTM-i5-2500S-CPU---270GHz	Core i5-2500S	Sandy Bridge	4 	Intel Socket 1155	32 nm	2700&nbsp;MHz	27.0x	64K / 256K / 6144K	65W	Jan 2011		
+CPU		Intel	Core i5-3330S	221	55.1	704	http://cpu.userbenchmark.com/SpeedTest/4366/IntelR-CoreTM-i5-3330S-CPU---270GHz	Core i5-3330S	Ivy Bridge	4 	Intel Socket 1155	22 nm	2700&nbsp;MHz	27.0x	64K / 256K / 6144K	77W	Sep 2012	2788	
+CPU		Intel	Core i7-2860QM	222	55.1	1137	http://cpu.userbenchmark.com/SpeedTest/103/IntelR-CoreTM-i7-2860QM-CPU---250GHz	Core i7-2860QM	Sandy Bridge	4  / 8	Intel Socket G2 (988B)	32 nm	2500&nbsp;MHz	25.0x	64K / 256K / 8192K	45W	Sep 2011	32999	
+CPU	AW8063801013511	Intel	Core i7-3610QM	223	55	10802	http://cpu.userbenchmark.com/Intel-Core-i7-3610QM/Rating/2730	Core i7-3610QM	Ivy Bridge	4  / 8	Intel Socket G2 (988B)	22 nm	2300&nbsp;MHz	23.0x	64K / 256K / 6144K	45W	Apr 2012	6858	
+CPU		Intel	Core i7-7500U	224	54.9	16101	http://cpu.userbenchmark.com/SpeedTest/171274/IntelR-CoreTM-i7-7500U-CPU---270GHz											9080	
+CPU		Intel	Xeon X5570	225	54.9	255	http://cpu.userbenchmark.com/SpeedTest/12230/IntelR-XeonR-CPU-----------X5570----293GHz	Xeon X5570	Gainestown	4  / 8	Intel Socket 1366	45 nm	2933&nbsp;MHz	22.0x	64K / 256K / 8192K	95W	Mar 2009		
+CPU		Intel	Core i7-2920XM	226	54.9	229	http://cpu.userbenchmark.com/SpeedTest/459/IntelR-CoreTM-i7-2920XM-CPU---250GHz	Core i7-2920XM	Sandy Bridge	4  / 8	Intel Socket G2 (988B)	32 nm	2500&nbsp;MHz	25.0x	64K / 256K / 8192K	55W	Jan 2011		
+CPU		Intel	Core i5-2300	227	54.8	3491	http://cpu.userbenchmark.com/SpeedTest/291/IntelR-CoreTM-i5-2300-CPU---280GHz	Core i5-2300	Sandy Bridge	4 	Intel Socket 1155	32 nm	2800&nbsp;MHz	28.0x	64K / 256K / 6144K	95W	Jan 2011	1480	
+CPU	BX80662I36100T	Intel	Core i3-6100T	228	54.8	628	http://cpu.userbenchmark.com/SpeedTest/40317/IntelR-CoreTM-i3-6100T-CPU---320GHz											3805	
+CPU		Intel	Core i7 965	229	54.8	410	http://cpu.userbenchmark.com/SpeedTest/4036/IntelR-CoreTM-i7-CPU---------965----320GHz	Core i7-965	Bloomfield	4  / 8	Intel Socket 1366	45 nm	3200&nbsp;MHz	24.0x	64K / 256K / 8192K	130W	Nov 2008	16560	
+CPU	BX80601950	Intel	Core i7-950	230	54.6	8526	http://cpu.userbenchmark.com/Intel-Core-i7-950/Rating/617	Core i7-950	Bloomfield	4  / 8	Intel Socket 1366	45 nm	3066&nbsp;MHz	23.0x	64K / 256K / 8192K	130W	Jun 2009	2340	
+CPU	BX80646I34150	Intel	Core i3-4150	231	54.6	6344	http://cpu.userbenchmark.com/Intel-Core-i3-4150/Rating/2309	Core i3-4150T	Haswell	2  / 4	Intel Socket 1150	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 3072K	35W	May 2014	10780	
+CPU		Intel	Core i5-7300U	232	54.6	697	http://cpu.userbenchmark.com/SpeedTest/223355/IntelR-CoreTM-i5-7300U-CPU---260GHz											10009	
+CPU		Intel	Core i7-5557U	233	54.5	481	http://cpu.userbenchmark.com/SpeedTest/27386/IntelR-CoreTM-i7-5557U-CPU---310GHz	Core i7-5557U	Broadwell-U	2  / 4	Intel BGA1168	14 nm	3100&nbsp;MHz	31.0x	64K / 256K / 4096K	28W	Mar 2015	4350	
+CPU		Intel	Core i7-4702HQ	234	54.4	1003	http://cpu.userbenchmark.com/SpeedTest/297/IntelR-CoreTM-i7-4702HQ-CPU---220GHz	Core i7-4702HQ	Crystalwell	4  / 8	Intel BGA1364	22 nm	2200&nbsp;MHz	22.0x	64K / 256K / 8192K	37W	May 2013	17580	
+CPU	BX80646I34330	Intel	Core i3-4330	235	54.1	1496	http://cpu.userbenchmark.com/Intel-Core-i3-4330/Rating/2876	Core i3-4330	Haswell	2  / 4	Intel Socket 1150	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 4096K	54W	Sep 2013	1158	
+CPU		Intel	Core i7 870	236	54.1	6092	http://cpu.userbenchmark.com/SpeedTest/961/IntelR-CoreTM-i7-CPU---------870----293GHz	Core i7-8700	Coffee Lake	6  / 12	Intel Socket 1151	14 nm	3200&nbsp;MHz	32.0x	64K / 256K / 12288K	65W	Jan 2018	3470	
+CPU		Intel	Xeon X3460	237	53.9	112	http://cpu.userbenchmark.com/SpeedTest/3739/IntelR-XeonR-CPU-----------X3460----280GHz												
+CPU		Intel	Core i7-3615QM	238	53.8	783	http://cpu.userbenchmark.com/SpeedTest/806/IntelR-CoreTM-i7-3615QM-CPU---230GHz	Core i7-3615QM	Ivy Bridge	4  / 8	Intel BGA1224	22 nm	2300&nbsp;MHz	23.0x	64K / 256K / 6144K	45W	Apr 2012	11980	
+CPU		Intel	Core i7-6567U	239	53.6	70	http://cpu.userbenchmark.com/SpeedTest/150864/IntelR-CoreTM-i7-6567U-CPU---330GHz												
+CPU		Intel	Core i7-4610M	240	53.4	626	http://cpu.userbenchmark.com/SpeedTest/11649/IntelR-CoreTM-i7-4610M-CPU---300GHz	Core i7-4610M	Haswell	2  / 4	Intel Socket G3	22 nm	3000&nbsp;MHz	30.0x	64K / 256K / 4096K	37W	Feb 2014		
+CPU		Intel	Core i5 760	241	52.9	7384	http://cpu.userbenchmark.com/SpeedTest/717/IntelR-CoreTM-i5-CPU---------760----280GHz	Core i5-7600K	Kaby Lake	4 	Intel Socket 1151	14 nm	3800&nbsp;MHz	38.0x	64K / 256K / 6144K	91W	Jan 2017	1745	
+CPU	BX80646I34160	Intel	Core i3-4160	242	52.8	8141	http://cpu.userbenchmark.com/Intel-Core-i3-4160/Rating/2816	Core i3-4160	Haswell	2  / 4	Intel Socket 1150	22 nm	3600&nbsp;MHz	36.0x	64K / 256K / 3072K	54W	Jul 2014	820	
+CPU	BX80646I34130	Intel	Core i3-4130	243	52.8	7284	http://cpu.userbenchmark.com/Intel-Core-i3-4130/Rating/1621	Core i3-4130T	Haswell	2  / 4	Intel Socket 1150	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 3072K	35W	Sep 2013	874	
+CPU		Intel	Xeon E5-1603 0	244	52.7	368	http://cpu.userbenchmark.com/SpeedTest/9880/IntelR-XeonR-CPU-E5-1603-0---280GHz												
+CPU		Intel	Core i5-4570T	245	52.4	659	http://cpu.userbenchmark.com/SpeedTest/6853/IntelR-CoreTM-i5-4570T-CPU---290GHz	Core i5-4570TE	Haswell	2  / 4	Intel Socket 1150	22 nm	2700&nbsp;MHz	27.0x	64K / 256K / 4096K	35W	Jun 2013	12398	
+CPU		Intel	Core i7-2760QM	246	52.2	2294	http://cpu.userbenchmark.com/SpeedTest/949/IntelR-CoreTM-i7-2760QM-CPU---240GHz	Core i7-2760QM	Sandy Bridge	4  / 8	Intel Socket G2 (988B)	32 nm	2400&nbsp;MHz	24.0x	64K / 256K / 6144K	45W	Sep 2011	13500	
+CPU		Intel	Xeon X5560	247	52.1	84	http://cpu.userbenchmark.com/SpeedTest/16614/IntelR-XeonR-CPU-----------X5560----280GHz	Xeon X5560	Gainestown	4  / 8	Intel Socket 1366	45 nm	2800&nbsp;MHz	21.0x	64K / 256K / 8192K	95W	Mar 2009		
+CPU	FD8320FRHKBOX	AMD	FX-8320	248	52	33216	http://cpu.userbenchmark.com/AMD-FX-8320/Rating/1983	FX-8320E	Vishera	8 	AMD Socket AM3+	32 nm	3200&nbsp;MHz	16.0x	384K / 8192K / 8192K	95W	Sep 2014	980	
+CPU		AMD	FX-6350 Six-Core	249	51.8	6844	http://cpu.userbenchmark.com/SpeedTest/713/AMD-FXtm-6350-Six-Core-Processor												
+CPU		Intel	Core i7-6600U	250	51.8	4494	http://cpu.userbenchmark.com/SpeedTest/36828/IntelR-CoreTM-i7-6600U-CPU---260GHz											11280	
+CPU		Intel	Core i7-3632QM	251	51.8	6751	http://cpu.userbenchmark.com/SpeedTest/36/IntelR-CoreTM-i7-3632QM-CPU---220GHz	Core i7-3632QM	Ivy Bridge	4  / 8	Intel BGA1224	22 nm	2200&nbsp;MHz	22.0x	64K / 256K / 6144K	35W	Oct 2012	7928	
+CPU	BX80662G4520	Intel	Pentium G4520	252	51.7	85	http://cpu.userbenchmark.com/Intel-Pentium-G4520/Rating/3537	Pentium G4520	Skylake	2 	Intel Socket 1151	14 nm	3600&nbsp;MHz	36.0x	64K / 256K / 4096K	51W	Sep 2015		
+CPU	AD845XACKASBX	AMD	Athlon X4 845	253	51.5	1010	http://cpu.userbenchmark.com/SpeedTest/84491/AMD-Athlontm-X4-845-Quad-Core-Processor												
+CPU		Intel	Core i7-6650U	254	51.5	1251	http://cpu.userbenchmark.com/SpeedTest/40238/IntelR-CoreTM-i7-6650U-CPU---220GHz											8940	
+CPU		Intel	Xeon X3440	255	51.3	403	http://cpu.userbenchmark.com/SpeedTest/6655/IntelR-XeonR-CPU-----------X3440----253GHz												
+CPU		Intel	Xeon W3530	256	51.2	1050	http://cpu.userbenchmark.com/SpeedTest/3000/IntelR-XeonR-CPU-----------W3530----280GHz	Xeon W3530	Bloomfield	4  / 8	Intel Socket 1366	45 nm	2800&nbsp;MHz	21.0x	64K / 256K / 8192K	130W	Mar 2010		
+CPU		Intel	Core i7 930	257	51.1	6496	http://cpu.userbenchmark.com/SpeedTest/79/IntelR-CoreTM-i7-CPU---------930----280GHz	Core i7-5930K	Haswell-E	6  / 12	Intel Socket 2011-3	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 15360K	140W	Sep 2014	2119	
+CPU		Intel	Core i7-3635QM	258	51	899	http://cpu.userbenchmark.com/SpeedTest/2465/IntelR-CoreTM-i7-3635QM-CPU---240GHz	Core i7-3635QM	Ivy Bridge	4  / 8	Intel BGA1224	22 nm	2400&nbsp;MHz	24.0x	64K / 256K / 6144K	45W	Sep 2012	10800	
+CPU		Intel	Core i7-4600M	259	50.9	854	http://cpu.userbenchmark.com/SpeedTest/4429/IntelR-CoreTM-i7-4600M-CPU---290GHz	Core i7-4600M	Haswell	2  / 4	Intel Socket G3	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 4096K	37W	Sep 2013		
+CPU	FD8150FRGUBOX	AMD	FX-8150	260	50.9	6181	http://cpu.userbenchmark.com/AMD-FX-8150/Rating/2006	FX-8150	Zambezi	8 	AMD Socket AM3+	32 nm	3600&nbsp;MHz	18.0x	384K / 8192K / 8192K	125W	Oct 2011	2280	
+CPU		Intel	Core i7-3612QM	261	50.9	3232	http://cpu.userbenchmark.com/SpeedTest/329/IntelR-CoreTM-i7-3612QM-CPU---210GHz	Core i7-3612QM	Ivy Bridge	4  / 8	Intel Socket G2 (988B)	22 nm	2100&nbsp;MHz	21.0x	64K / 256K / 6144K	35W	Apr 2012	8000	
+CPU	BX80605I5750	Intel	Core i5-750	262	50.9	13022	http://cpu.userbenchmark.com/Intel-Core-i5-750/Rating/2773	Core i5-7500	Kaby Lake	4 	Intel Socket 1151	14 nm	3400&nbsp;MHz	34.0x	64K / 256K / 6144K	65W	Jan 2017	1340	
+CPU		AMD	FX-8300	263	50.8	7946	http://cpu.userbenchmark.com/SpeedTest/7163/AMD-FXtm-8300-Eight-Core-Processor	FX-8300	Vishera	8 	AMD Socket AM3+	32 nm	3300&nbsp;MHz	16.5x	384K / 8192K / 8192K	95W	Oct 2012	839	
+CPU		Intel	Core i7 860	264	50.8	9712	http://cpu.userbenchmark.com/SpeedTest/841/IntelR-CoreTM-i7-CPU---------860----280GHz	Core i7-4860HQ	Crystalwell	4  / 8	Intel BGA1364	22 nm	2400&nbsp;MHz	24.0x	64K / 256K / 8192K	47W	Feb 2014	2200	
+CPU	FD837EWMHKBOX	AMD	FX-8370E	265	50.7	1138	http://cpu.userbenchmark.com/AMD-FX-8370E/Rating/2984	FX-8370E	Vishera	8 	AMD Socket AM3+	32 nm	3300&nbsp;MHz	16.5x	384K / 8192K / 8192K	95W	Sep 2014		
+CPU		Intel	Xeon E5-2630 0	266	50.7	104	http://cpu.userbenchmark.com/SpeedTest/6512/IntelR-XeonR-CPU-E5-2630-0---230GHz	Xeon E5-2630 v2	Ivy Bridge-EP	6  / 12	Intel Socket 2011	22 nm	2600&nbsp;MHz	26.0x	64K / 256K / 15360K	80W	Sep 2013	15360	
+CPU		Intel	Core i5-2400S	267	50.6	1455	http://cpu.userbenchmark.com/SpeedTest/304/IntelR-CoreTM-i5-2400S-CPU---250GHz	Core i5-2400S	Sandy Bridge	4 	Intel Socket 1155	32 nm	2500&nbsp;MHz	25.0x	64K / 256K / 6144K	65W	Jan 2011	7860	
+CPU	AD789KXDJCHBX	AMD	A10-7890K APU	268	50.5	1158	http://cpu.userbenchmark.com/SpeedTest/118648/AMD-A10-7890K-Radeon-R7-12-Compute-Cores-4C-8G												
+CPU	BX80662G4500	Intel	Pentium G4500	269	50.2	831	http://cpu.userbenchmark.com/Intel-Pentium-G4500/Rating/3538	Pentium G4500	Skylake	2 	Intel Socket 1151	14 nm	3500&nbsp;MHz	35.0x	64K / 256K / 4096K	51W	Sep 2015		
+CPU		Intel	Core i3-3250	270	50.1	637	http://cpu.userbenchmark.com/SpeedTest/4950/IntelR-CoreTM-i3-3250-CPU---350GHz												
+CPU		AMD	Phenom II X4 980	271	49.9	390	http://cpu.userbenchmark.com/SpeedTest/5445/AMD-Phenomtm-II-X4-980-Processor	Phenom II X4 980 BE	Deneb	4 	AMD Socket AM3	45 nm	3700&nbsp;MHz	18.5x	128K / 512K / 6144K	125W	May 2011		
+CPU		Intel	Core i5-7200U	272	49.8	18692	http://cpu.userbenchmark.com/SpeedTest/153577/IntelR-CoreTM-i5-7200U-CPU---250GHz											6460	
+CPU		Intel	Core i7 940	273	49.6	598	http://cpu.userbenchmark.com/SpeedTest/606/IntelR-CoreTM-i7-CPU---------940----293GHz	Core i7-4940MX	Haswell	4  / 8	Intel Socket G3	22 nm	3100&nbsp;MHz	31.0x	64K / 256K / 8192K	57W	Jan 2014	6989	
+CPU		AMD	FX-8310	274	49.4	441	http://cpu.userbenchmark.com/SpeedTest/18534/AMD-FXtm-8310-Eight-Core-Processor												
+CPU		Intel	Core i3-3240	275	49	4634	http://cpu.userbenchmark.com/SpeedTest/2133/IntelR-CoreTM-i3-3240-CPU---340GHz	Core i3-3240	Ivy Bridge	2  / 4	Intel Socket 1155	22 nm	3400&nbsp;MHz	34.0x	64K / 256K / 3072K	55W	Sep 2012	1299	
+CPU		Intel	Pentium G3470	276	49	36	http://cpu.userbenchmark.com/SpeedTest/28614/IntelR-PentiumR-CPU-G3470---360GHz												
+CPU		Intel	Xeon W3520	277	48.9	1431	http://cpu.userbenchmark.com/SpeedTest/3585/IntelR-XeonR-CPU-----------W3520----267GHz	Xeon W3520	Bloomfield	4  / 8	Intel Socket 1366	45 nm	2666&nbsp;MHz	20.0x	64K / 256K / 8192K	130W	Mar 2009		
+CPU		Intel	Core i7-2820QM	278	48.9	1328	http://cpu.userbenchmark.com/SpeedTest/3145/IntelR-CoreTM-i7-2820QM-CPU---230GHz	Core i7-2820QM	Sandy Bridge	4  / 8	Intel BGA1224	32 nm	2300&nbsp;MHz	23.0x	64K / 256K / 8192K	45W	Jan 2011	37895	
+CPU	AD880KXBJCSBX	AMD	Athlon X4 880K	279	48.9	1595	http://cpu.userbenchmark.com/SpeedTest/121029/AMD-Athlontm-X4-880K-Quad-Core-Processor												
+CPU	FD832EWMHKBOX	AMD	FX-8320E	280	48.8	8167	http://cpu.userbenchmark.com/AMD-FX-8320E/Rating/2985	FX-8320E	Vishera	8 	AMD Socket AM3+	32 nm	3200&nbsp;MHz	16.0x	384K / 8192K / 8192K	95W	Sep 2014		
+CPU		Intel	Core i5-5287U	281	48.4	106	http://cpu.userbenchmark.com/SpeedTest/25610/IntelR-CoreTM-i5-5287U-CPU---290GHz	Core i5-5287U	Broadwell-U	2  / 4		14 nm	2900&nbsp;MHz	29.0x	64K / 256K / 3072K	28W	Mar 2015		
+CPU		Intel	Core i7-6500U	282	48.4	22367	http://cpu.userbenchmark.com/SpeedTest/36930/IntelR-CoreTM-i7-6500U-CPU---250GHz											5990	
+CPU	HDE00ZFBGRBOX	AMD	Phenom II X6 1100T	283	48.4	4020	http://cpu.userbenchmark.com/AMD-Phenom-II-X6-1100T/Rating/2004	Phenom II X6 1100T BE	Thuban	6 	AMD Socket AM3	45 nm	3300&nbsp;MHz	16.5x	128K / 512K / 6144K	125W	Dec 2010	1670	
+CPU	FD4350FRHKBOX	AMD	FX-4350	284	48.4	2936	http://cpu.userbenchmark.com/AMD-FX-4350/Rating/2880	FX-4350	Vishera	4 	AMD Socket AM3+	32 nm	4200&nbsp;MHz	19.5x	288K / 4096K / 8192K	125W	Apr 2013		
+CPU	AD870KXBJCSBX	AMD	Athlon II X4 870K	285	48.3	243	http://cpu.userbenchmark.com/SpeedTest/83847/AMD-Athlontm-X4-870K-Quad-Core-Processor												
+CPU		Intel	Core i5-4200H	286	48.3	2685	http://cpu.userbenchmark.com/SpeedTest/8854/IntelR-CoreTM-i5-4200H-CPU---280GHz											8590	
+CPU	BX80601920	Intel	Core i7-920	287	48.2	18293	http://cpu.userbenchmark.com/Intel-Core-i7-920/Rating/1981	Core i7-920	Bloomfield	4  / 8	Intel Socket 1366	45 nm	2666&nbsp;MHz	20.0x	64K / 256K / 8192K	130W	Nov 2008	2220	
+CPU		Intel	Core i5-3470T	288	48.2	370	http://cpu.userbenchmark.com/SpeedTest/2220/IntelR-CoreTM-i5-3470T-CPU---290GHz	Core i5-3470T	Ivy Bridge	2  / 4	Intel Socket 1155	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 3072K	35W	Jun 2012		
+CPU	BX80646G3258	Intel	Pentium G3258	289	48.2	9809	http://cpu.userbenchmark.com/Intel-Pentium-G3258/Rating/2434	Pentium G3258	Haswell	2 	Intel Socket 1150	22 nm	3200&nbsp;MHz	32.0x	64K / 256K / 3072K	54W	Jun 2014	486	
+CPU	AD787KXDJCBOX	AMD	A10-7870K APU	290	48.2	2542	http://cpu.userbenchmark.com/SpeedTest/29728/AMD-A10-7870K-Radeon-R7-12-Compute-Cores-4C-8G											963	
+CPU		AMD	Phenom II X4 975	291	48.1	439	http://cpu.userbenchmark.com/SpeedTest/3020/AMD-Phenomtm-II-X4-975-Processor	Phenom II X4 975 BE	Deneb	4 	AMD Socket AM3	45 nm	3600&nbsp;MHz	18.0x	128K / 512K / 6144K	125W	Jan 2011		
+CPU		Intel	Core i5-5257U	292	48.1	670	http://cpu.userbenchmark.com/SpeedTest/25441/IntelR-CoreTM-i5-5257U-CPU---270GHz	Core i5-5257U	Broadwell-U	2  / 4		14 nm	2700&nbsp;MHz	27.0x	64K / 256K / 3072K	28W	Mar 2015		
+CPU		AMD	FX-6200 Six-Core	293	48	1439	http://cpu.userbenchmark.com/SpeedTest/2658/AMD-FXtm-6200-Six-Core-Processor												
+CPU	FD6300WMHKBOX	AMD	FX-6300	294	47.7	57468	http://cpu.userbenchmark.com/AMD-FX-6300/Rating/1555	FX-6300	Vishera	6 	AMD Socket AM3+	32 nm	3500&nbsp;MHz	17.5x	288K / 6144K / 8192K	95W	Oct 2012	720	
+CPU		Intel	Core i5-3380M	295	47.7	449	http://cpu.userbenchmark.com/SpeedTest/5308/IntelR-CoreTM-i5-3380M-CPU---290GHz	Core i5-3380M	Ivy Bridge	2  / 4	Intel Socket G2 (988B)	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 3072K	35W	Jan 2013	9400	
+CPU		Intel	Core i7-3540M	296	47.5	1021	http://cpu.userbenchmark.com/SpeedTest/921/IntelR-CoreTM-i7-3540M-CPU---300GHz	Core i7-3540M	Ivy Bridge	2  / 4	Intel Socket G2 (988B)	22 nm	3000&nbsp;MHz	30.0x	64K / 256K / 4096K	35W	Jan 2013		
+CPU		AMD	Phenom II X6 1090T	297	47.3	7911	http://cpu.userbenchmark.com/SpeedTest/417/AMD-Phenomtm-II-X6-1090T-Processor	Phenom II X6 1090T BE	Thuban	6 	AMD Socket AM3	45 nm	3200&nbsp;MHz	16.0x	128K / 512K / 6144K	125W	Apr 2010	1325	
+CPU	BX80637I33225	Intel	Core i3-3225	298	47.3	723	http://cpu.userbenchmark.com/Intel-Core-i3-3225/Rating/1488	Core i3-3225	Ivy Bridge	2  / 4	Intel Socket 1155	22 nm	3300&nbsp;MHz	33.0x	64K / 256K / 3072K	55W	Sep 2012	1099	
+CPU		Intel	Core i3-3220	299	47.1	10798	http://cpu.userbenchmark.com/SpeedTest/272/IntelR-CoreTM-i3-3220-CPU---330GHz	Core i3-3220	Ivy Bridge	2  / 4	Intel Socket 1155	22 nm	3300&nbsp;MHz	33.0x	64K / 256K / 3072K	55W	Sep 2012	1290	
+CPU		Intel	Core i7-5650U	300	47	43	http://cpu.userbenchmark.com/SpeedTest/26818/IntelR-CoreTM-i7-5650U-CPU---220GHz	Core i7-5650U	Broadwell-U	2  / 4		14 nm	2200&nbsp;MHz	22.0x	64K / 256K / 4096K	15W	Mar 2015		
+CPU		Intel	Core i5-4300M	301	47	1363	http://cpu.userbenchmark.com/SpeedTest/5215/IntelR-CoreTM-i5-4300M-CPU---260GHz	Core i5-4300M	Haswell	2  / 4	Intel Socket G3	22 nm	2600&nbsp;MHz	26.0x	64K / 256K / 3072K	37W	Sep 2013		
+CPU		Intel	Core i5-6300U	302	46.9	6677	http://cpu.userbenchmark.com/SpeedTest/27864/IntelR-CoreTM-i5-6300U-CPU---240GHz											8730	
+CPU	AD680KWOHLBOX	AMD	A10-6800K APU	303	46.9	3637	http://cpu.userbenchmark.com/AMD-A10-6800K-APU/Rating/2936											1050	
+CPU	AD785KXBJABOX	AMD	A10-7850K APU	304	46.9	5707	http://cpu.userbenchmark.com/AMD-A10-7850K-APU/Rating/2937												
+CPU		Intel	Core i5 680	305	46.9	126	http://cpu.userbenchmark.com/SpeedTest/3693/IntelR-CoreTM-i5-CPU---------680----360GHz	Core i5-680	Clarkdale	2  / 4	Intel Socket 1156	32 nm	3600&nbsp;MHz	27.0x	64K / 256K / 4096K	73W	Apr 2010		
+CPU		Intel	Core i7-5600U	306	46.9	3152	http://cpu.userbenchmark.com/SpeedTest/22612/IntelR-CoreTM-i7-5600U-CPU---260GHz	Core i7-5600U	Broadwell-U	2  / 4		14 nm	2600&nbsp;MHz	26.0x	64K / 256K / 4096K	15W	Mar 2015	7250	
+CPU		AMD	FX-4170 Quad-Core	307	46.5	1331	http://cpu.userbenchmark.com/SpeedTest/114/AMD-FXtm-4170-Quad-Core-Processor												
+CPU		AMD	A10-5800B APU	308	46.5	59	http://cpu.userbenchmark.com/SpeedTest/14080/AMD-A10-5800B-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Xeon E5540	309	46.5	97	http://cpu.userbenchmark.com/SpeedTest/13822/IntelR-XeonR-CPU-----------E5540----253GHz	Xeon E5540	Gainestown	4  / 8	Intel Socket 1366	45 nm	2533&nbsp;MHz	19.0x	64K / 256K / 8192K	80W	Mar 2009		
+CPU	BX80662G4400	Intel	Pentium G4400	310	46.4	5149	http://cpu.userbenchmark.com/Intel-Pentium-G4400/Rating/3539	Pentium G4400	Skylake	2 	Intel Socket 1151	14 nm	3300&nbsp;MHz	33.0x	64K / 256K / 4096K	51W	Sep 2015	375	
+CPU	AD860KXBJASBX	AMD	Athlon II X4 860K	311	46.4	6787	http://cpu.userbenchmark.com/AMD-Athlon-II-X4-860K/Rating/3265												
+CPU		Intel	Pentium G3460	312	46.2	277	http://cpu.userbenchmark.com/Intel-Pentium-G3460/Rating/2818	Pentium G3460	Haswell	2 	Intel Socket 1150	22 nm	3500&nbsp;MHz	35.0x	64K / 256K / 3072K	54W	Jul 2014		
+CPU		Intel	Core i3-2130	313	46.2	1284	http://cpu.userbenchmark.com/SpeedTest/424/IntelR-CoreTM-i3-2130-CPU---340GHz	Core i3-2130	Sandy Bridge	2  / 4	Intel Socket 1155	32 nm	3400&nbsp;MHz	34.0x	64K / 256K / 3072K	65W	Sep 2011	4140	
+CPU		Intel	Core i7-3520M	314	46.2	4451	http://cpu.userbenchmark.com/SpeedTest/50/IntelR-CoreTM-i7-3520M-CPU---290GHz	Core i7-3520M	Ivy Bridge	2  / 4	Intel Socket G2 (988B)	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 4096K	35W	Jun 2012	11948	
+CPU		Intel	Xeon E5-2620 v2	315	46.1	216	http://cpu.userbenchmark.com/SpeedTest/4718/IntelR-XeonR-CPU-E5-2620-v2---210GHz	Xeon E5-2620 v2	Ivy Bridge-EP	6  / 12	Intel Socket 2011	22 nm	2100&nbsp;MHz	21.0x	64K / 256K / 15360K	80W	Sep 2013		
+CPU		Intel	Core i7-2720QM	316	46.1	2460	http://cpu.userbenchmark.com/SpeedTest/532/IntelR-CoreTM-i7-2720QM-CPU---220GHz	Core i7-2720QM	Sandy Bridge	4  / 8	Intel BGA1224	32 nm	2200&nbsp;MHz	22.0x	64K / 256K / 6144K	45W	Jan 2011	19600	
+CPU		Intel	Core i5-6260U	317	46.1	586	http://cpu.userbenchmark.com/SpeedTest/37385/IntelR-CoreTM-i5-6260U-CPU---180GHz											9998	
+CPU	AD680KWOHLBOX	AMD	A10-6700 APU	318	45.9	2528	http://cpu.userbenchmark.com/AMD-A10-6700-APU/Rating/2938											3568	
+CPU		AMD	A8-6600K APU	319	45.8	4809	http://cpu.userbenchmark.com/SpeedTest/3344/AMD-A8-6600K-APU-with-Radeontm-HD-Graphics												
+CPU		AMD	Phenom II X4 970	320	45.7	839	http://cpu.userbenchmark.com/SpeedTest/2231/AMD-Phenomtm-II-X4-970-Processor	Phenom II X4 970 BE	Zosma	4 	AMD Socket AM3	45 nm	3500&nbsp;MHz	17.5x	128K / 512K / 6144K	125W	Oct 2010		
+CPU		Intel	Core i3-3210	321	45.7	1001	http://cpu.userbenchmark.com/SpeedTest/3090/IntelR-CoreTM-i3-3210-CPU---320GHz	Core i3-3210	Ivy Bridge	2  / 4	Intel Socket 1155	22 nm	3200&nbsp;MHz	32.0x	64K / 256K / 3072K	55W	Jan 2013	3300	
+CPU		Intel	Core i7-2670QM	322	45.7	13367	http://cpu.userbenchmark.com/Intel-Core-i7-2670QM/Rating/1982	Core i7-2670QM	Sandy Bridge	4  / 8	Intel Socket G2 (988B)	32 nm	2200&nbsp;MHz	22.0x	64K / 256K / 6144K	45W	Oct 2011	6980	
+CPU		AMD	FX-8120	323	45.5	6097	http://cpu.userbenchmark.com/SpeedTest/173/AMD-FXtm-8120-Eight-Core-Processor	FX-8120	Zambezi	8 	AMD Socket AM3+	32 nm	3100&nbsp;MHz	15.5x	384K / 8192K / 8192K	125W	Oct 2011	1340	
+CPU		Intel	Core i5-4210M	324	45.5	2507	http://cpu.userbenchmark.com/SpeedTest/12839/IntelR-CoreTM-i5-4210M-CPU---260GHz											4999	
+CPU	AD580KWOHJBOX	AMD	A10-5800K APU	325	45.5	4878	http://cpu.userbenchmark.com/AMD-A10-5800K-APU/Rating/2007											2800	
+CPU		Intel	Core i3-2125	326	45.4	129	http://cpu.userbenchmark.com/SpeedTest/3545/IntelR-CoreTM-i3-2125-CPU---330GHz	Core i3-2125	Sandy Bridge	2  / 4	Intel Socket 1155	32 nm	3300&nbsp;MHz	33.0x	64K / 256K / 3072K	65W	Sep 2011		
+CPU		Intel	Core i5-3340M	327	45.4	1895	http://cpu.userbenchmark.com/SpeedTest/1915/IntelR-CoreTM-i5-3340M-CPU---270GHz	Core i5-3340M	Ivy Bridge	2  / 4	Intel Socket G2 (988B)	22 nm	2700&nbsp;MHz	27.0x	64K / 256K / 3072K	35W	Jan 2013		
+CPU		Intel	Core i5-3360M	328	45.2	1176	http://cpu.userbenchmark.com/SpeedTest/701/IntelR-CoreTM-i5-3360M-CPU---280GHz	Core i5-3360M	Ivy Bridge	2  / 4	Intel BGA1023	22 nm	2800&nbsp;MHz	28.0x	64K / 256K / 3072K	35W	Jun 2012	10850	
+CPU		AMD	Athlon II X4 760K	329	45.1	1419	http://cpu.userbenchmark.com/SpeedTest/9072/AMD-Athlontm-X4-760K-Quad-Core-Processor												
+CPU		Intel	Core i7-4558U	330	45.1	247	http://cpu.userbenchmark.com/SpeedTest/4092/IntelR-CoreTM-i7-4558U-CPU---280GHz	Core i7-4558U	Haswell	2  / 4	Intel BGA1168	22 nm	2800&nbsp;MHz	28.0x	64K / 256K / 4096K	28W	Jun 2013		
+CPU		AMD	Phenom II X4 B65	331	45.1	66	http://cpu.userbenchmark.com/SpeedTest/6054/AMD-Phenomtm-II-X4-B65-Processor												
+CPU		Intel	Xeon X3430	332	44.9	499	http://cpu.userbenchmark.com/SpeedTest/5225/IntelR-XeonR-CPU-----------X3430----240GHz											2340	
+CPU		Intel	Core i3-2120	333	44.9	11537	http://cpu.userbenchmark.com/SpeedTest/2227/IntelR-CoreTM-i3-2120-CPU---330GHz	Core i3-2120T	Sandy Bridge	2  / 4	Intel Socket 1155	32 nm	2600&nbsp;MHz	26.0x	64K / 256K / 3072K	35W	Sep 2011	999	
+CPU		AMD	Phenom II X6 1075T	334	44.8	1090	http://cpu.userbenchmark.com/SpeedTest/913/AMD-Phenomtm-II-X6-1075T-Processor	Phenom II X6 1075T	Thuban	6 	AMD Socket AM3	45 nm	3000&nbsp;MHz	15.0x	128K / 512K / 6144K	125W	Sep 2010	1940	
+CPU	AD786KYBJCSBX	AMD	A10-7860K APU	335	44.8	2578	http://cpu.userbenchmark.com/SpeedTest/83781/AMD-A10-7860K-Radeon-R7-12-Compute-Cores-4C-8G												
+CPU		AMD	FX-6120 Six-Core	336	44.7	440	http://cpu.userbenchmark.com/SpeedTest/7026/AMD-FXtm-6120-Six-Core-Processor												
+CPU		Intel	Xeon E5-2620 0	337	44.5	297	http://cpu.userbenchmark.com/SpeedTest/5895/IntelR-XeonR-CPU-E5-2620-0---200GHz	Xeon E5-2620 v2	Ivy Bridge-EP	6  / 12	Intel Socket 2011	22 nm	2100&nbsp;MHz	21.0x	64K / 256K / 15360K	80W	Sep 2013	13560	
+CPU	HDZ965FBGMBOX	AMD	Phenom II X4 965	338	44.4	15757	http://cpu.userbenchmark.com/AMD-Phenom-II-X4-965/Rating/606	Phenom II X4 965 BE (125W)	Deneb	4 	AMD Socket AM3	45 nm	3400&nbsp;MHz	17.0x	128K / 512K / 6144K	125W	Nov 2009	1008	
+CPU	FD4300WMHKBOX	AMD	FX-4300	339	44.3	12162	http://cpu.userbenchmark.com/AMD-FX-4300/Rating/2879	FX-4300	Vishera	4 	AMD Socket AM3+	32 nm	3800&nbsp;MHz	19.0x	192K / 4096K / 8192K	95W	Oct 2012	950	
+CPU		AMD	Phenom II X4 B60	340	44.3	479	http://cpu.userbenchmark.com/SpeedTest/8154/AMD-Phenomtm-II-X4-B60-Processor												
+CPU		Intel	Core i3-4130T	341	44.2	920	http://cpu.userbenchmark.com/SpeedTest/13080/IntelR-CoreTM-i3-4130T-CPU---290GHz	Core i3-4130T	Haswell	2  / 4	Intel Socket 1150	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 3072K	35W	Sep 2013	4968	
+CPU		AMD	A10-7700K APU R7 Graphics	342	44.1	2384	http://cpu.userbenchmark.com/SpeedTest/9888/AMD-A10-7700K-APU-with-RadeonTM-R7-Graphics												
+CPU		Intel	Core2 Extreme X9770	343	44	123	http://cpu.userbenchmark.com/SpeedTest/10543/IntelR-CoreTM2-Extreme-CPU-X9770----320GHz												
+CPU		Intel	Xeon E5-2680 v2	344	44	26	http://cpu.userbenchmark.com/SpeedTest/17083/IntelR-XeonR-CPU-E5-2680-v2---280GHz	Xeon E5-2680 v2	Ivy Bridge-EP	10  / 20	Intel Socket 2011	22 nm	2800&nbsp;MHz	28.0x	64K / 256K / 25600K	115W	Sep 2013		
+CPU		Intel	Xeon E7- 4870	345	43.8	15	http://cpu.userbenchmark.com/SpeedTest/8256/IntelR-XeonR-CPU-E7--4870----240GHz	Xeon E7-4870 v3	Haswell-EX	18  / 36	Intel Socket 1150	22 nm	2100&nbsp;MHz	21.0x	64K / 256K / 46080K	140W	Jun 2015		
+CPU		Intel	Core i5-4200M	346	43.8	6901	http://cpu.userbenchmark.com/SpeedTest/2341/IntelR-CoreTM-i5-4200M-CPU---250GHz											4899	
+CPU	AD765KXBJABOX	AMD	A8-7650K APU	347	43.7	2329	http://cpu.userbenchmark.com/SpeedTest/27184/AMD-A8-7650K-Radeon-R7-10-Compute-Cores-4C-6G											648	
+CPU		Intel	Core i5 661	348	43.7	490	http://cpu.userbenchmark.com/SpeedTest/548/IntelR-CoreTM-i5-CPU---------661----333GHz	Core i5-661	Clarkdale	2  / 4	Intel Socket 1156	32 nm	3333&nbsp;MHz	25.0x	64K / 256K / 4096K	87W	Jan 2010		
+CPU		Intel	Core i7-5500U	349	43.5	17645	http://cpu.userbenchmark.com/SpeedTest/22316/IntelR-CoreTM-i7-5500U-CPU---240GHz	Core i7-5500U	Broadwell-U	2  / 4		14 nm	2400&nbsp;MHz	24.0x	64K / 256K / 4096K	15W	Mar 2015	2688	
+CPU		AMD	A8-7600 APU	350	43.5	5541	http://cpu.userbenchmark.com/SpeedTest/14050/AMD-A8-7600-Radeon-R7-10-Compute-Cores-4C-6G												
+CPU		Intel	Core i5-6200U	351	43.5	26725	http://cpu.userbenchmark.com/SpeedTest/36796/IntelR-CoreTM-i5-6200U-CPU---230GHz											6750	
+CPU		Intel	Core i5 660	352	43.5	1011	http://cpu.userbenchmark.com/SpeedTest/2846/IntelR-CoreTM-i5-CPU---------660----333GHz	Core i5-6600K	Skylake	4 	Intel Socket 1151	14 nm	3500&nbsp;MHz	35.0x	64K / 256K / 6144K	95W	Jul 2015	1595	
+CPU		Intel	Pentium G3450	353	43.4	278	http://cpu.userbenchmark.com/SpeedTest/24201/IntelR-PentiumR-CPU-G3450---340GHz	Pentium G3450T	Haswell	2 	Intel Socket 1150	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 3072K	35W	Jul 2014	669	
+CPU		Intel	Core i7-2635QM	354	43.3	130	http://cpu.userbenchmark.com/SpeedTest/12770/IntelR-CoreTM-i7-2635QM-CPU---200GHz	Core i7-2635QM	Sandy Bridge	4  / 8	Intel BGA1224	32 nm	2000&nbsp;MHz	20.0x	64K / 256K / 6144K	45W	Jan 2011		
+CPU		Intel	Pentium G3260	355	43.3	1445	http://cpu.userbenchmark.com/SpeedTest/31434/IntelR-PentiumR-CPU-G3260---330GHz											429	
+CPU	BX80646G3440	Intel	Pentium G3440	356	43.2	134	http://cpu.userbenchmark.com/Intel-Pentium-G3440/Rating/2435	Pentium G3440	Haswell	2 	Intel Socket 1150	22 nm	3300&nbsp;MHz	33.0x	64K / 256K / 3072K	54W	May 2014	695	
+CPU	FF8062700837005	Intel	Core i7-2630QM	357	43.2	11673	http://cpu.userbenchmark.com/Intel-Core-i7-2630QM/Rating/2729	Core i7-2630QM	Sandy Bridge	4  / 8	Intel Socket G2 (988B)	32 nm	2000&nbsp;MHz	20.0x	64K / 256K / 6144K	45W	Jan 2011	7998	
+CPU		Intel	Xeon E5-2609 0	358	43.1	109	http://cpu.userbenchmark.com/SpeedTest/2762/IntelR-XeonR-CPU-E5-2609-0---240GHz	Xeon E5-2609 v2	Ivy Bridge-EP	4 	Intel Socket 2011	22 nm	2500&nbsp;MHz	25.0x	64K / 256K / 10240K	80W	Sep 2013		
+CPU	BX80646G3430	Intel	Pentium G3430	359	43	67	http://cpu.userbenchmark.com/Intel-Pentium-G3430/Rating/1969	Pentium G3430	Haswell	2 	Intel Socket 1150	22 nm	3300&nbsp;MHz	33.0x	64K / 256K / 3072K	54W	Sep 2013	739	
+CPU	FD6100WMGUSBX	AMD	FX-6100	360	42.9	10491	http://cpu.userbenchmark.com/AMD-FX-6100/Rating/1984	FX-6100	Zambezi	6 	AMD Socket AM3+	32 nm	3300&nbsp;MHz	16.5x	288K / 6144K / 8192K	95W	Oct 2011	4000	
+CPU		AMD	A8-6500 APU	361	42.9	1602	http://cpu.userbenchmark.com/SpeedTest/5272/AMD-A8-6500-APU-with-Radeontm-HD-Graphics												
+CPU	HDZ955FBGMBOX	AMD	Phenom II X4 955	362	42.9	12153	http://cpu.userbenchmark.com/AMD-Phenom-II-X4-955/Rating/2935	Phenom II X4 955 BE	Deneb	4 	AMD Socket AM3	45 nm	3200&nbsp;MHz	16.0x	128K / 512K / 6144K	125W	Apr 2009	850	
+CPU		AMD	Phenom II X4 850	363	42.8	286	http://cpu.userbenchmark.com/SpeedTest/3577/AMD-Phenomtm-II-X4-850-Processor	Phenom II X4 850	Propus	4 	AMD Socket AM3	45 nm	3300&nbsp;MHz	16.5x	128K / 512K / 0K	95W	Jun 2011		
+CPU		AMD	Athlon II X4 555	364	42.7	64	http://cpu.userbenchmark.com/SpeedTest/12528/AMD-Athlontm-II-X4-555-Processor												
+CPU		Intel	Core i5 K 655	365	42.7	110	http://cpu.userbenchmark.com/SpeedTest/9077/IntelR-CoreTM-i5-CPU-------K-655----320GHz	Core i5-655K	Clarkdale	2  / 4	Intel Socket 1156	32 nm	3200&nbsp;MHz	24.0x	64K / 256K / 4096K	73W	May 2010		
+CPU		Intel	Core i5-3320M	366	42.7	7570	http://cpu.userbenchmark.com/SpeedTest/402/IntelR-CoreTM-i5-3320M-CPU---260GHz	Core i5-3320M	Ivy Bridge	2  / 4	Intel BGA1023	22 nm	2600&nbsp;MHz	26.0x	64K / 256K / 3072K	35W	Jun 2012	11288	
+CPU		Intel	Xeon E5530	367	42.7	142	http://cpu.userbenchmark.com/SpeedTest/4018/IntelR-XeonR-CPU-----------E5530----240GHz	Xeon E5530	Gainestown	4  / 8	Intel Socket 1366	45 nm	2400&nbsp;MHz	18.0x	64K / 256K / 8192K	80W	Mar 2009		
+CPU	BX80677G3950	Intel	Celeron G3950	368	42.6	11	http://cpu.userbenchmark.com/SpeedTest/242877/IntelR-CeleronR-CPU-G3950---300GHz	Celeron G3950	Kaby Lake	2 	Intel Socket 1151	14 nm	3000&nbsp;MHz	30.0x	64K / 256K / 2048K	51W	Jan 2017		
+CPU		Intel	Xeon X5460	369	42.5	1930	http://cpu.userbenchmark.com/SpeedTest/5754/IntelR-XeonR-CPU-----------X5460----316GHz												
+CPU		Intel	Xeon E5620	370	42.4	578	http://cpu.userbenchmark.com/SpeedTest/6971/IntelR-XeonR-CPU-----------E5620----240GHz	Xeon E5620	Westmere-EP	4  / 8	Intel Socket 1366	32 nm	2400&nbsp;MHz	18.0x	64K / 256K / 12288K	80W	Mar 2010	12700	
+CPU		Intel	Core i5-5300U	371	42.3	3303	http://cpu.userbenchmark.com/SpeedTest/16790/IntelR-CoreTM-i5-5300U-CPU---230GHz	Core i5-5300U	Broadwell-U	2  / 4		14 nm	2300&nbsp;MHz	23.0x	64K / 256K / 3072K	15W	Mar 2015	15790	
+CPU		Intel	Core i7-2675QM	372	42.3	330	http://cpu.userbenchmark.com/SpeedTest/597/IntelR-CoreTM-i7-2675QM-CPU---220GHz	Core i7-2675QM	Sandy Bridge	4  / 8	Intel BGA1224	32 nm	2200&nbsp;MHz	22.0x	64K / 256K / 6144K	45W	Oct 2011		
+CPU	HDT55TFBGRBOX	AMD	Phenom II X6 1055T	373	42.2	5196	http://cpu.userbenchmark.com/AMD-Phenom-II-X6-1055T/Rating/2003	Phenom II X6 1055T (95W)	Thuban	6 	AMD Socket AM3	45 nm	2800&nbsp;MHz	14.0x	128K / 512K / 6144K	95W	May 2010	1225	
+CPU		Intel	Core i3-2100	374	42.2	10292	http://cpu.userbenchmark.com/SpeedTest/41/IntelR-CoreTM-i3-2100-CPU---310GHz	Core i3-2100	Sandy Bridge	2  / 4	Intel Socket 1155	32 nm	3100&nbsp;MHz	31.0x	64K / 256K / 3072K	65W	Feb 2011	890	
+CPU		AMD	Phenom II X4 B55	375	42.1	1190	http://cpu.userbenchmark.com/SpeedTest/878/AMD-Phenomtm-II-X4-B55-Processor												
+CPU		Intel	Core i5-7Y54	376	42.1	133	http://cpu.userbenchmark.com/SpeedTest/193628/IntelR-CoreTM-i5-7Y54-CPU---120GHz											5499	
+CPU	AD750KWOHJBOX	AMD	Athlon II X4 750K	377	42	1638	http://cpu.userbenchmark.com/AMD-Athlon-II-X4-750K/Rating/1548												
+CPU	AW8063801208001	Intel	Core i5-3230M	378	41.9	13290	http://cpu.userbenchmark.com/Intel-Core-i5-3230M/Rating/2772	Core i5-3230M	Ivy Bridge	2  / 4	Intel BGA1023	22 nm	2600&nbsp;MHz	26.0x	64K / 256K / 3072K	35W	Jan 2013	5888	
+CPU		AMD	A8-5600K APU	379	41.9	3438	http://cpu.userbenchmark.com/SpeedTest/1766/AMD-A8-5600K-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Xeon E5-2670 v2	380	41.8	65	http://cpu.userbenchmark.com/SpeedTest/18414/IntelR-XeonR-CPU-E5-2670-v2---250GHz	Xeon E5-2670 v2	Ivy Bridge-EP	10  / 20	Intel Socket 2011	22 nm	2500&nbsp;MHz	25.0x	64K / 256K / 25600K	115W	Sep 2013		
+CPU		Intel	Core i5 650	381	41.8	7313	http://cpu.userbenchmark.com/SpeedTest/340/IntelR-CoreTM-i5-CPU---------650----320GHz	Core i5-6500	Skylake	4 	Intel Socket 1151	14 nm	3200&nbsp;MHz	32.0x	64K / 256K / 6144K	65W	Jul 2015	7369	
+CPU		Intel	Core i3-2105	382	41.8	226	http://cpu.userbenchmark.com/SpeedTest/2747/IntelR-CoreTM-i3-2105-CPU---310GHz	Core i3-2105	Sandy Bridge	2  / 4	Intel Socket 1155	32 nm	3100&nbsp;MHz	31.0x	64K / 256K / 3072K	65W	May 2011	1015	
+CPU		Intel	Core i7-2640M	383	41.8	3200	http://cpu.userbenchmark.com/SpeedTest/791/IntelR-CoreTM-i7-2640M-CPU---280GHz											21000	
+CPU	BX80677G3930	Intel	Celeron G3930	384	41.5	256	http://cpu.userbenchmark.com/SpeedTest/235058/IntelR-CeleronR-CPU-G3930---290GHz	Celeron G3930	Kaby Lake	2 	Intel Socket 1151	14 nm	2900&nbsp;MHz	29.0x	64K / 256K / 2048K	51W	Jan 2017	261	
+CPU		Intel	Core i7-4600U	385	41.5	4122	http://cpu.userbenchmark.com/SpeedTest/2752/IntelR-CoreTM-i7-4600U-CPU---210GHz	Core i7-4600U	Haswell	2  / 4	Intel BGA1168	22 nm	2100&nbsp;MHz	21.0x	64K / 256K / 4096K	15W	Sep 2013	10160	
+CPU		Intel	Core i7-4510U	386	41.5	13695	http://cpu.userbenchmark.com/SpeedTest/10660/IntelR-CoreTM-i7-4510U-CPU---200GHz											6509	
+CPU	BX80646G3420	Intel	Pentium G3420	387	41.5	847	http://cpu.userbenchmark.com/Intel-Pentium-G3420/Rating/1968	Pentium G3420	Haswell	2 	Intel Socket 1150	22 nm	3200&nbsp;MHz	32.0x	64K / 256K / 3072K	54W	Sep 2013	550	
+CPU		Intel	Core i5-4258U	388	41.4	350	http://cpu.userbenchmark.com/SpeedTest/5904/IntelR-CoreTM-i5-4258U-CPU---240GHz	Core i5-4258U	Haswell	2  / 4	Intel BGA1168	22 nm	2400&nbsp;MHz	24.0x	64K / 256K / 3072K	28W	Jun 2013		
+CPU		AMD	Phenom II X4 840	389	41.3	1525	http://cpu.userbenchmark.com/SpeedTest/3302/AMD-Phenomtm-II-X4-840-Processor	Phenom II X4 840	Propus	4 	AMD Socket AM3	45 nm	3200&nbsp;MHz	16.0x	128K / 512K / 0K	95W	Jan 2011	830	
+CPU		Intel	Xeon E5450	390	41.3	2734	http://cpu.userbenchmark.com/SpeedTest/5890/IntelR-XeonR-CPU-----------E5450----300GHz												
+CPU		Intel	Pentium G3250	391	41.2	1902	http://cpu.userbenchmark.com/SpeedTest/18077/IntelR-PentiumR-CPU-G3250---320GHz	Pentium G3250	Haswell	2 	Intel Socket 1150	22 nm	3200&nbsp;MHz	32.0x	64K / 256K / 3072K	54W	Jul 2014	420	
+CPU		Intel	Core i7-4650U	392	41.2	1162	http://cpu.userbenchmark.com/SpeedTest/6364/IntelR-CoreTM-i7-4650U-CPU---170GHz	Core i7-4650U	Haswell	2  / 4	Intel BGA1168	22 nm	1700&nbsp;MHz	17.0x	64K / 256K / 4096K	15W	Jun 2013		
+CPU		AMD	FX-4130 Quad-Core	393	41.2	2664	http://cpu.userbenchmark.com/SpeedTest/2420/AMD-FXtm-4130-Quad-Core-Processor												
+CPU		AMD	Phenom II X4 960T	394	41.2	1367	http://cpu.userbenchmark.com/SpeedTest/1813/AMD-Phenomtm-II-X4-960T-Processor	Phenom II X4 960T BE	Zosma	4 	AMD Socket AM3	45 nm	3000&nbsp;MHz	15.0x	128K / 512K / 6144K	95W	Jun 2010	935	
+CPU		AMD	Phenom II X4 B50	395	41.1	1025	http://cpu.userbenchmark.com/SpeedTest/5205/AMD-Phenomtm-II-X4-B50-Processor												
+CPU		Intel	Core i7-3687U	396	41	581	http://cpu.userbenchmark.com/SpeedTest/2934/IntelR-CoreTM-i7-3687U-CPU---210GHz	Core i7-3687U	Ivy Bridge	2  / 4	Intel BGA1023	22 nm	2100&nbsp;MHz	21.0x	64K / 256K / 4096K	17W	Jan 2013	6509	
+CPU		Intel	Core2 Extreme X9650	397	40.9	565	http://cpu.userbenchmark.com/SpeedTest/2662/IntelR-CoreTM2-Extreme-CPU-X9650----300GHz												
+CPU	AD5700OKHJBOX	AMD	A10-5700 APU	398	40.8	1356	http://cpu.userbenchmark.com/AMD-A10-5700-APU/Rating/2939												
+CPU		AMD	Phenom II X4 B40	399	40.8	175	http://cpu.userbenchmark.com/SpeedTest/9803/AMD-Phenomtm-II-X4-B40-Processor												
+CPU		Intel	Core i7-2620M	400	40.6	3709	http://cpu.userbenchmark.com/SpeedTest/643/IntelR-CoreTM-i7-2620M-CPU---270GHz											11260	
+CPU		Intel	Core2 Quad Q9650	401	40.5	2185	http://cpu.userbenchmark.com/SpeedTest/1706/IntelR-CoreTM2-Quad-CPU----Q9650----300GHz												
+CPU	AW8063801032301	Intel	Core i5-3210M	402	40.5	18457	http://cpu.userbenchmark.com/Intel-Core-i5-3210M/Rating/2719	Core i5-3210M	Ivy Bridge	2  / 4	Intel Socket G2 (988B)	22 nm	2500&nbsp;MHz	25.0x	64K / 256K / 3072K	35W	Jun 2012	8988	
+CPU		AMD	A8-3870 APU	403	40.4	1323	http://cpu.userbenchmark.com/SpeedTest/3870/AMD-A8-3870-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core i5-2540M	404	40.4	3635	http://cpu.userbenchmark.com/SpeedTest/1616/IntelR-CoreTM-i5-2540M-CPU---260GHz	Core i5-2540M	Sandy Bridge	2  / 4	Intel Socket G2 (988B)	32 nm	2600&nbsp;MHz	26.0x	64K / 256K / 3072K	35W	Feb 2011	5988	
+CPU		AMD	FX-4100	405	40.4	8437	http://cpu.userbenchmark.com/AMD-FX-4100/Rating/2878	FX-4100	Zambezi	4 	AMD Socket AM3+	32 nm	3600&nbsp;MHz	18.0x	192K / 4096K / 8192K	95W	Oct 2011	799	
+CPU		Intel	Xeon X5450	406	40.3	968	http://cpu.userbenchmark.com/SpeedTest/5169/IntelR-XeonR-CPU-----------X5450----300GHz												
+CPU		Intel	Xeon E5520	407	40.3	294	http://cpu.userbenchmark.com/SpeedTest/5884/IntelR-XeonR-CPU-----------E5520----227GHz	Xeon E5520	Gainestown	4  / 8	Intel Socket 1366	45 nm	2266&nbsp;MHz	17.0x	64K / 256K / 8192K	80W	Mar 2009		
+CPU		Intel	Core i3 550	408	40.2	3486	http://cpu.userbenchmark.com/SpeedTest/632/IntelR-CoreTM-i3-CPU---------550----320GHz	Core i3-550	Clarkdale	2  / 4	Intel Socket 1156	32 nm	3200&nbsp;MHz	24.0x	64K / 256K / 4096K	73W	May 2010	990	
+CPU		AMD	Phenom II X6 1045T	409	40.2	1538	http://cpu.userbenchmark.com/SpeedTest/1873/AMD-Phenomtm-II-X6-1045T-Processor	Phenom II X6 1045T	Thuban	6 	AMD Socket AM3	45 nm	2700&nbsp;MHz	13.5x	128K / 512K / 6144K	95W	Sep 2010	810	
+CPU		Intel	Core i7-4500U	410	40.2	9744	http://cpu.userbenchmark.com/Intel-Core-i7-4500U/Rating/2743	Core i7-4500U	Haswell	2  / 4	Intel BGA1168	22 nm	1800&nbsp;MHz	18.0x	64K / 256K / 4096K	15W	Jun 2013	8000	
+CPU		Intel	Core i3-3220T	411	40.2	346	http://cpu.userbenchmark.com/SpeedTest/2602/IntelR-CoreTM-i3-3220T-CPU---280GHz	Core i3-3220T	Ivy Bridge	2  / 4	Intel Socket 1155	22 nm	2800&nbsp;MHz	28.0x	64K / 256K / 3072K	35W	Sep 2012		
+CPU	BX80646G3240 	Intel	Pentium G3240	412	40.1	2040	http://cpu.userbenchmark.com/Intel-Pentium-G3240/Rating/2820											429	
+CPU		AMD	Phenom II X4 20	413	40	251	http://cpu.userbenchmark.com/SpeedTest/4534/AMD-Phenomtm-II-X4-20-Processor	Phenom II X4 820	Deneb	4 	AMD Socket AM3	45 nm	2800&nbsp;MHz	14.0x	128K / 512K / 4096K	95W	Sep 2009	830	
+CPU		AMD	Athlon II X4 651	414	39.9	219	http://cpu.userbenchmark.com/SpeedTest/3526/AMD-Athlontm-II-X4-651-Quad-Core-Processor	Athlon II X4 651K	Llano	4 	AMD Socket FM1	32 nm	3000&nbsp;MHz	30.0x	128K / 1024K / 0K	100W	Nov 2011		
+CPU	BX80662G3900	Intel	Celeron G3900	415	39.9	656	http://cpu.userbenchmark.com/SpeedTest/86156/IntelR-CeleronR-CPU-G3900---280GHz	Celeron G3900	Skylake	2 	Intel Socket 1151	14 nm	2800&nbsp;MHz	28.0x	64K / 256K / 4096K	51W	Sep 2015	2609	
+CPU		Intel	Pentium G2130	416	39.9	350	http://cpu.userbenchmark.com/SpeedTest/9126/IntelR-PentiumR-CPU-G2130---320GHz	Pentium G2130	Ivy Bridge	2 	Intel Socket 1155	22 nm	3200&nbsp;MHz	32.0x	64K / 256K / 3072K	55W	Jan 2013	729	
+CPU		Intel	Core i3-7100U	417	39.9	2296	http://cpu.userbenchmark.com/SpeedTest/176913/IntelR-CoreTM-i3-7100U-CPU---240GHz											5550	
+CPU		AMD	Phenom II X4 B45	418	39.8	399	http://cpu.userbenchmark.com/SpeedTest/4111/AMD-Phenomtm-II-X4-B45-Processor												
+CPU		AMD	Athlon II X4 645	419	39.7	1148	http://cpu.userbenchmark.com/SpeedTest/2408/AMD-Athlontm-II-X4-645-Processor	Athlon II X4 645	Propus	4 	AMD Socket AM3	45 nm	3100&nbsp;MHz	15.5x	128K / 512K / 0K	95W	Sep 2010		
+CPU		AMD	Phenom II X4 940	420	39.5	1160	http://cpu.userbenchmark.com/SpeedTest/2203/AMD-Phenomtm-II-X4-940-Processor	Phenom II X4 940 BE	Deneb	4 	AMD Socket AM3	45 nm	3000&nbsp;MHz	15.0x	128K / 512K / 6144K	125W	Jan 2009	1250	
+CPU		AMD	Phenom II X4 840T	421	39.5	273	http://cpu.userbenchmark.com/SpeedTest/8545/AMD-Phenomtm-II-X4-840T-Processor	Phenom II X4 840T	Zosma	4 	AMD Socket AM3	45 nm	2900&nbsp;MHz	14.5x	128K / 512K / 6144K	95W	Sep 2010		
+CPU		AMD	Phenom II X4 945	422	39.5	3610	http://cpu.userbenchmark.com/SpeedTest/101/AMD-Phenomtm-II-X4-945-Processor	Phenom II X4 945 (95W)	Deneb	4 	AMD Socket AM3	45 nm	3000&nbsp;MHz	15.0x	128K / 512K / 6144K	95W	Jul 2009	1019	
+CPU		AMD	Phenom II X6 1035T	423	39.4	581	http://cpu.userbenchmark.com/SpeedTest/1603/AMD-Phenomtm-II-X6-1035T-Processor	Phenom II X6 1035T	Thuban	6 	AMD Socket AM3	45 nm	2600&nbsp;MHz	13.0x	128K / 512K / 6144K	95W	Apr 2010		
+CPU		Intel	Xeon E5507	424	39.4	53	http://cpu.userbenchmark.com/SpeedTest/13794/IntelR-XeonR-CPU-----------E5507----227GHz	Xeon E5507	Gainestown	4 	Intel Socket 1366	45 nm	2266&nbsp;MHz	17.0x	64K / 256K / 4096K	80W	Mar 2010		
+CPU		Intel	Core i7 X 940	425	39.4	159	http://cpu.userbenchmark.com/SpeedTest/2801/IntelR-CoreTM-i7-CPU-------X-940----213GHz	Core i7-4940MX	Haswell	4  / 8	Intel Socket G3	22 nm	3100&nbsp;MHz	31.0x	64K / 256K / 8192K	57W	Jan 2014	6989	
+CPU		Intel	Core i5-2520M	426	39.3	10926	http://cpu.userbenchmark.com/SpeedTest/29/IntelR-CoreTM-i5-2520M-CPU---250GHz	Core i5-2520M	Sandy Bridge	2  / 4	Intel BGA1023	32 nm	2500&nbsp;MHz	25.0x	64K / 256K / 3072K	35W	Feb 2011	11320	
+CPU		Intel	Xeon L5520	427	39.2	50	http://cpu.userbenchmark.com/SpeedTest/6285/IntelR-XeonR-CPU-----------L5520----227GHz	Xeon L5520	Gainestown	4  / 8	Intel Socket 1366	45 nm	2266&nbsp;MHz	17.0x	64K / 256K / 8192K	60W	Mar 2009	3488	
+CPU		AMD	Athlon II X4 740K	428	39.1	787	http://cpu.userbenchmark.com/SpeedTest/4559/AMD-Athlontm-X4-740-Quad-Core-Processor												
+CPU		Intel	Core m3-7Y30	429	39	249	http://cpu.userbenchmark.com/SpeedTest/196956/IntelR-CoreTM-m3-7Y30-CPU---100GHz											4499	
+CPU		Intel	Core X 920	430	39	29	http://cpu.userbenchmark.com/SpeedTest/7179/IntelR-CoreTM-CPU----------X-920----200GHz	Core i9-7920X	Skylake-X	12  / 24	Intel Socket 2066	14 nm	2900&nbsp;MHz	29.0x	64K / 1024K / 16896K	140W	Sep 2017		
+CPU		Intel	Core i5-5250U	431	39	966	http://cpu.userbenchmark.com/SpeedTest/24945/IntelR-CoreTM-i5-5250U-CPU---160GHz	Core i5-5250U	Broadwell-U	2  / 4		14 nm	1600&nbsp;MHz	16.0x	64K / 256K / 3072K	15W	Mar 2015	3540	
+CPU		Intel	Core i5-5200U	432	39	23754	http://cpu.userbenchmark.com/SpeedTest/22169/IntelR-CoreTM-i5-5200U-CPU---220GHz	Core i5-5200U	Broadwell-U	2  / 4		14 nm	2200&nbsp;MHz	22.0x	64K / 256K / 3072K	15W	Mar 2015	1950	
+CPU		AMD	Athlon II X4 640	433	38.9	4717	http://cpu.userbenchmark.com/SpeedTest/225/AMD-Athlontm-II-X4-640-Processor	Athlon II X4 640	Propus	4 	AMD Socket AM3	45 nm	3000&nbsp;MHz	15.0x	128K / 512K / 0K	95W	May 2010	735	
+CPU		AMD	A8-3850 APU	434	38.8	753	http://cpu.userbenchmark.com/SpeedTest/4311/AMD-A8-3850-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Xeon E5472	435	38.8	223	http://cpu.userbenchmark.com/SpeedTest/20269/IntelR-XeonR-CPU-----------E5472----300GHz												
+CPU	AD5500OKHJBOX	AMD	A8-5500 APU	436	38.7	2080	http://cpu.userbenchmark.com/SpeedTest/3432/AMD-A8-5500-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core i5-4310U	437	38.7	1640	http://cpu.userbenchmark.com/SpeedTest/12941/IntelR-CoreTM-i5-4310U-CPU---200GHz												
+CPU		Intel	Core i7-3667U	438	38.6	744	http://cpu.userbenchmark.com/SpeedTest/2815/IntelR-CoreTM-i7-3667U-CPU---200GHz	Core i7-3667U	Ivy Bridge	2  / 4	Intel BGA1023	22 nm	2000&nbsp;MHz	20.0x	64K / 256K / 4096K	17W	Jun 2012	17090	
+CPU	BX80646G3220	Intel	Pentium G3220	439	38.6	3649	http://cpu.userbenchmark.com/Intel-Pentium-G3220/Rating/1967	Pentium G3220	Haswell	2 	Intel Socket 1150	22 nm	3000&nbsp;MHz	30.0x	64K / 256K / 3072K	54W	Sep 2013	520	
+CPU		Intel	Core i5-4300U	440	38.5	5742	http://cpu.userbenchmark.com/SpeedTest/4996/IntelR-CoreTM-i5-4300U-CPU---190GHz											5980	
+CPU		Intel	Core i3 540	441	38.5	4771	http://cpu.userbenchmark.com/SpeedTest/2936/IntelR-CoreTM-i3-CPU---------540----307GHz	Core i3-540	Clarkdale	2  / 4	Intel Socket 1156	32 nm	3066&nbsp;MHz	23.0x	64K / 256K / 4096K	73W	Jan 2010	3180	
+CPU		Intel	Core i7-7Y75	442	38.4	248	http://cpu.userbenchmark.com/SpeedTest/211988/IntelR-CoreTM-i7-7Y75-CPU---130GHz											8890	
+CPU		AMD	Athlon II X4 641	443	38.2	222	http://cpu.userbenchmark.com/SpeedTest/1698/AMD-Athlontm-II-X4-641-Quad-Core-Processor	Athlon II X4 641	Llano	4 	AMD Socket FM1	32 nm	2800&nbsp;MHz	28.0x	128K / 1024K / 0K	100W	Feb 2012		
+CPU		Intel	Core i7 X 920	444	38	251	http://cpu.userbenchmark.com/SpeedTest/4179/IntelR-CoreTM-i7-CPU-------X-920----200GHz	Core i7-3920XM	Ivy Bridge	4  / 8	Intel Socket G2 (988B)	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 8192K	55W	Apr 2012		
+CPU		Intel	Core i3-6100U	445	38	4208	http://cpu.userbenchmark.com/SpeedTest/37381/IntelR-CoreTM-i3-6100U-CPU---230GHz											3380	
+CPU		Intel	Pentium G2120	446	37.8	360	http://cpu.userbenchmark.com/SpeedTest/448/IntelR-PentiumR-CPU-G2120---310GHz	Pentium G2120	Ivy Bridge	2 	Intel Socket 1155	22 nm	3100&nbsp;MHz	31.0x	64K / 256K / 3072K	55W	Sep 2012	520	
+CPU		Intel	Core i7-4550U	447	37.8	86	http://cpu.userbenchmark.com/SpeedTest/6199/IntelR-CoreTM-i7-4550U-CPU---150GHz	Core i7-4550U	Haswell	2  / 4	Intel BGA1168	22 nm	1500&nbsp;MHz	15.0x	64K / 256K / 4096K	15W	Jun 2013	15698	
+CPU		Intel	Core2 Quad Q9550	448	37.8	8395	http://cpu.userbenchmark.com/SpeedTest/334/IntelR-CoreTM2-Quad-CPU----Q9550----283GHz												
+CPU		AMD	Phenom II X4 920	449	37.7	332	http://cpu.userbenchmark.com/SpeedTest/1945/AMD-Phenomtm-II-X4-920-Processor	Phenom II X4 920	Deneb	4 	AMD Socket AM3	45 nm	2800&nbsp;MHz	14.0x	128K / 512K / 6144K	125W	Jan 2009		
+CPU		AMD	A6-3670 APU	450	37.7	547	http://cpu.userbenchmark.com/SpeedTest/4657/AMD-A6-3670-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core2 Quad Q9505	451	37.3	355	http://cpu.userbenchmark.com/SpeedTest/3041/IntelR-CoreTM2-Quad-CPU----Q9505----283GHz												
+CPU		Intel	Core i7-3537U	452	37.3	3701	http://cpu.userbenchmark.com/SpeedTest/504/IntelR-CoreTM-i7-3537U-CPU---200GHz	Core i7-3537U	Ivy Bridge	2  / 4	Intel BGA1023	22 nm	2000&nbsp;MHz	20.0x	64K / 256K / 4096K	17W	Jan 2013	13988	
+CPU		Intel	Core2 Quad Q9500	453	37.3	394	http://cpu.userbenchmark.com/SpeedTest/1778/IntelR-CoreTM2-Quad-CPU----Q9500----283GHz												
+CPU		AMD	Athlon II X4 635	454	37.3	1344	http://cpu.userbenchmark.com/SpeedTest/3369/AMD-Athlontm-II-X4-635-Processor	Athlon II X4 635	Propus	4 	AMD Socket AM3	45 nm	2900&nbsp;MHz	14.5x	128K / 512K / 0K	95W	Jan 2010		
+CPU		AMD	Phenom II X4 925	455	37.1	1299	http://cpu.userbenchmark.com/SpeedTest/2581/AMD-Phenomtm-II-X4-925-Processor	Phenom II X4 925	Deneb	4 	AMD Socket AM3	45 nm	2800&nbsp;MHz	14.0x	128K / 512K / 6144K	95W	May 2009	1010	
+CPU		Intel	Core m5-6Y54	456	37	345	http://cpu.userbenchmark.com/SpeedTest/40602/IntelR-CoreTM-m5-6Y54-CPU---110GHz											6300	
+CPU		Intel	Xeon E5506	457	37	190	http://cpu.userbenchmark.com/SpeedTest/11152/IntelR-XeonR-CPU-----------E5506----213GHz	Xeon E5506	Gainestown	4 	Intel Socket 1366	45 nm	2133&nbsp;MHz	16.0x	64K / 256K / 4096K	80W	Mar 2009	21680	
+CPU		AMD	Phenom II X4 830	458	36.9	326	http://cpu.userbenchmark.com/SpeedTest/2164/AMD-Phenomtm-II-X4-830-Processor	Phenom II X4 830	Deneb	4 	AMD Socket AM3	45 nm	2800&nbsp;MHz	14.0x	128K / 512K / 4096K	95W	Sep 2009		
+CPU		Intel	Core i5-2450M	459	36.7	10531	http://cpu.userbenchmark.com/Intel-Core-i5-2450M/Rating/2815	Core i5-2450M	Sandy Bridge	2  / 4	Intel Socket G2 (988B)	32 nm	2500&nbsp;MHz	25.0x	64K / 256K / 3072K	35W	Jan 2012	5280	
+CPU		Intel	Core i3 530	460	36.6	3477	http://cpu.userbenchmark.com/SpeedTest/132/IntelR-CoreTM-i3-CPU---------530----293GHz	Core i3-530	Clarkdale	2  / 4	Intel Socket 1156	32 nm	2933&nbsp;MHz	22.0x	64K / 256K / 4096K	73W	Jan 2010	840	
+CPU		Intel	Core i7 M 640	461	36.5	1006	http://cpu.userbenchmark.com/SpeedTest/4397/IntelR-CoreTM-i7-CPU-------M-640----280GHz	Core i7-640M	Arrandale	2  / 4	Intel Socket G1	32 nm	2800&nbsp;MHz	21.0x	64K / 256K / 4096K	35W	Sep 2010		
+CPU		AMD	Athlon II X4 630	462	36.4	1970	http://cpu.userbenchmark.com/SpeedTest/471/AMD-Athlontm-II-X4-630-Processor	Athlon II X4 630	Propus	4 	AMD Socket AM3	45 nm	2800&nbsp;MHz	14.0x	128K / 512K / 0K	95W	Sep 2009	750	
+CPU		Intel	Core i5-4210U	463	36.3	17722	http://cpu.userbenchmark.com/SpeedTest/12662/IntelR-CoreTM-i5-4210U-CPU---170GHz											4309	
+CPU		Intel	Xeon E5430	464	36.3	500	http://cpu.userbenchmark.com/SpeedTest/16038/IntelR-XeonR-CPU-----------E5430----266GHz												
+CPU		Intel	Pentium G2030	465	36.3	2792	http://cpu.userbenchmark.com/SpeedTest/3273/IntelR-PentiumR-CPU-G2030---300GHz											420	
+CPU	BX80646G1840	Intel	Celeron G1840	466	36.3	1449	http://cpu.userbenchmark.com/Intel-Celeron-G1840/Rating/2849	Celeron G1840T	Haswell	2 	Intel Socket 1150	22 nm	2500&nbsp;MHz	25.0x	64K / 256K / 3072K	54W	May 2014	309	
+CPU		Intel	Pentium G870	467	36.3	154	http://cpu.userbenchmark.com/SpeedTest/9348/IntelR-PentiumR-CPU-G870---310GHz	Pentium G870	Sandy Bridge	2 	Intel Socket 1155	32 nm	3100&nbsp;MHz	31.0x	64K / 256K / 3072K	65W	Jun 2012		
+CPU		Intel	Core i3-4000M	468	36	1464	http://cpu.userbenchmark.com/SpeedTest/6476/IntelR-CoreTM-i3-4000M-CPU---240GHz	Core i3-4000M	Haswell	2  / 4	Intel Socket G3	22 nm	2400&nbsp;MHz	24.0x	64K / 256K / 3072K	37W	Sep 2013	5120	
+CPU		AMD	Athlon II X3 460	469	35.9	300	http://cpu.userbenchmark.com/SpeedTest/6695/AMD-Athlontm-II-X3-460-Processor	Athlon II X3 460	Rana	3 	AMD Socket AM3	45 nm	3400&nbsp;MHz	17.0x	128K / 512K / 0K	95W	May 2011		
+CPU	BX80646G1830	Intel	Celeron G1830	470	35.8	46	http://cpu.userbenchmark.com/Intel-Celeron-G1830/Rating/2848	Celeron G1830	Haswell	2 	Intel Socket 1150	22 nm	2800&nbsp;MHz	28.0x	64K / 256K / 3072K	54W	Dec 2013		
+CPU		Intel	Core i5-2435M	471	35.7	173	http://cpu.userbenchmark.com/SpeedTest/968/IntelR-CoreTM-i5-2435M-CPU---240GHz	Core i5-2435M	Sandy Bridge	2  / 4	Intel Socket G2 (988B)	32 nm	2400&nbsp;MHz	24.0x	64K / 256K / 3072K	35W	Sep 2011	7299	
+CPU		Intel	Pentium G2020	472	35.6	2357	http://cpu.userbenchmark.com/SpeedTest/3604/IntelR-PentiumR-CPU-G2020---290GHz	Pentium G2020	Ivy Bridge	2 	Intel Socket 1155	22 nm	2900&nbsp;MHz	29.0x	64K / 256K / 3072K	55W	Jan 2013	500	
+CPU		Intel	Core i5-4250U	473	35.5	509	http://cpu.userbenchmark.com/SpeedTest/1787/IntelR-CoreTM-i5-4250U-CPU---130GHz	Core i5-4250U	Haswell	2  / 4	Intel BGA1168	22 nm	1300&nbsp;MHz	13.0x	64K / 256K / 3072K	15W	Jun 2013		
+CPU		Intel	Pentium G860	474	35.4	887	http://cpu.userbenchmark.com/SpeedTest/2650/IntelR-PentiumR-CPU-G860---300GHz	Pentium G860T	Sandy Bridge	2 	Intel Socket 1155	32 nm	2600&nbsp;MHz	26.0x	64K / 256K / 3072K	35W	Jun 2012	800	
+CPU		Intel	Core2 Quad Q9450	475	35.4	1583	http://cpu.userbenchmark.com/SpeedTest/765/IntelR-CoreTM2-Quad--CPU---Q9450----266GHz												
+CPU		Intel	Core i5-3437U	476	35.3	632	http://cpu.userbenchmark.com/SpeedTest/4219/IntelR-CoreTM-i5-3437U-CPU---190GHz	Core i5-3437U	Ivy Bridge	2  / 4	Intel BGA1023	22 nm	1900&nbsp;MHz	19.0x	64K / 256K / 3072K	17W	Jan 2013	12250	
+CPU		AMD	Athlon II X4 631	477	35.2	284	http://cpu.userbenchmark.com/SpeedTest/2944/AMD-Athlontm-II-X4-631-Quad-Core-Processor	Athlon II X4 631	Llano	4 	AMD Socket FM1	32 nm	2600&nbsp;MHz	26.0x	128K / 1024K / 0K	100W	Aug 2011		
+CPU		Intel	Core i5-2430M	478	35.1	8807	http://cpu.userbenchmark.com/SpeedTest/429/IntelR-CoreTM-i5-2430M-CPU---240GHz	Core i5-2430M	Sandy Bridge	2  / 4	Intel BGA1023	32 nm	2400&nbsp;MHz	24.0x	64K / 256K / 3072K	35W	Oct 2011	8150	
+CPU		AMD	A6-3650 APU	479	35	676	http://cpu.userbenchmark.com/SpeedTest/1954/AMD-A6-3650-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core i5 M 580	480	35	310	http://cpu.userbenchmark.com/SpeedTest/6113/IntelR-CoreTM-i5-CPU-------M-580----267GHz	Core i5-580M	Arrandale	2  / 4	Intel Socket G1	32 nm	2667&nbsp;MHz	20.0x	64K / 256K / 3072K	35W	Sep 2010		
+CPU		Intel	Pentium 4405U	481	34.9	435	http://cpu.userbenchmark.com/SpeedTest/54474/IntelR-PentiumR-CPU-4405U---210GHz											3990	
+CPU		AMD	Phenom II X4 910e	482	34.9	74	http://cpu.userbenchmark.com/SpeedTest/10427/AMD-Phenomtm-II-X4-910e-Processor	Phenom II X4 910e	Deneb	4 	AMD Socket AM3	45 nm	2600&nbsp;MHz	13.0x	128K / 512K / 6144K	65W	Jan 2010	1349	
+CPU	BX80646G1820	Intel	Celeron G1820	483	34.8	873	http://cpu.userbenchmark.com/Intel-Celeron-G1820/Rating/1992	Celeron G1820	Haswell	2 	Intel Socket 1150	22 nm	2700&nbsp;MHz	27.0x	64K / 256K / 3072K	54W	Dec 2013	395	
+CPU		Intel	Core2 Quad Q9400	484	34.8	5271	http://cpu.userbenchmark.com/SpeedTest/244/IntelR-CoreTM2-Quad-CPU----Q9400----266GHz												
+CPU		Intel	Core i5-4200U	485	34.8	12664	http://cpu.userbenchmark.com/Intel-Core-i5-4200U/Rating/2742	Core i5-4200U	Haswell	2  / 4	Intel BGA1168	22 nm	1600&nbsp;MHz	16.0x	64K / 256K / 3072K	15W	Jun 2013	2990	
+CPU		Intel	Core i3-2120T	486	34.7	172	http://cpu.userbenchmark.com/SpeedTest/2686/IntelR-CoreTM-i3-2120T-CPU---260GHz	Core i3-2120T	Sandy Bridge	2  / 4	Intel Socket 1155	32 nm	2600&nbsp;MHz	26.0x	64K / 256K / 3072K	35W	Sep 2011	4420	
+CPU		Intel	Core i5-2410M	487	34.7	10983	http://cpu.userbenchmark.com/Intel-Core-i5-2410M/Rating/2769	Core i5-2410M	Sandy Bridge	2  / 4	Intel Socket G2 (988B)	32 nm	2300&nbsp;MHz	23.0x	64K / 256K / 3072K	35W	Feb 2011	5699	
+CPU		AMD	Phenom II X4 810	488	34.6	593	http://cpu.userbenchmark.com/SpeedTest/4242/AMD-Phenomtm-II-X4-810-Processor	Phenom II X4 810	Deneb	4 	AMD Socket AM3	45 nm	2600&nbsp;MHz	13.0x	128K / 512K / 4096K	95W	Feb 2009		
+CPU		AMD	A10-6700T APU	489	34.5	20	http://cpu.userbenchmark.com/SpeedTest/5691/AMD-A10-6700T-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core i7 Q 840	490	34.5	335	http://cpu.userbenchmark.com/SpeedTest/2642/IntelR-CoreTM-i7-CPU-------Q-840----187GHz	Core i7-3840QM	Ivy Bridge	4  / 8	Intel Socket G2 (988B)	22 nm	2800&nbsp;MHz	28.0x	64K / 256K / 8192K	45W	Sep 2012		
+CPU		AMD	Athlon II X3 455	491	34.4	765	http://cpu.userbenchmark.com/SpeedTest/1884/AMD-Athlontm-II-X3-455-Processor	Athlon II X3 455	Rana	3 	AMD Socket AM3	45 nm	3300&nbsp;MHz	16.5x	128K / 512K / 0K	95W	Dec 2010		
+CPU		Intel	Xeon E5504	492	34.3	120	http://cpu.userbenchmark.com/SpeedTest/6261/IntelR-XeonR-CPU-----------E5504----200GHz	Xeon E5504	Gainestown	4 	Intel Socket 1366	45 nm	2000&nbsp;MHz	15.0x	64K / 256K / 4096K	80W	Mar 2009	9580	
+CPU		Intel	Core i7 M 620	493	34.3	2120	http://cpu.userbenchmark.com/SpeedTest/870/IntelR-CoreTM-i7-CPU-------M-620----267GHz	Core i7-620M	Arrandale	2  / 4	Intel BGA1288	32 nm	2677&nbsp;MHz	20.0x	64K / 256K / 4096K	35W	Jan 2010		
+CPU		Intel	Xeon E5462	494	34.3	123	http://cpu.userbenchmark.com/SpeedTest/16556/IntelR-XeonR-CPU-----------E5462----280GHz												
+CPU		Intel	Pentium G850	495	34.2	483	http://cpu.userbenchmark.com/SpeedTest/2522/IntelR-PentiumR-CPU-G850---290GHz	Pentium G850	Sandy Bridge	2 	Intel Socket 1155	32 nm	2900&nbsp;MHz	29.0x	64K / 256K / 3072K	65W	May 2011	649	
+CPU		Intel	Core2 Quad Q8400	496	34.2	3832	http://cpu.userbenchmark.com/SpeedTest/1663/IntelR-CoreTM2-Quad-CPU----Q8400----266GHz												
+CPU		Intel	Core i5-2415M	497	34.2	197	http://cpu.userbenchmark.com/SpeedTest/4223/IntelR-CoreTM-i5-2415M-CPU---230GHz	Core i5-2415M	Sandy Bridge	2  / 4	Intel BGA1023	32 nm	2300&nbsp;MHz	23.0x	64K / 256K / 3072K	35W	Sep 2011		
+CPU		Intel	Core i5 M 560	498	34.2	2795	http://cpu.userbenchmark.com/SpeedTest/623/IntelR-CoreTM-i5-CPU-------M-560----267GHz	Core i5-560M	Arrandale	2  / 4	Intel Socket G1	32 nm	2667&nbsp;MHz	20.0x	64K / 256K / 3072K	35W	Sep 2010		
+CPU		Intel	Pentium G2010	499	34.1	483	http://cpu.userbenchmark.com/SpeedTest/8691/IntelR-PentiumR-CPU-G2010---280GHz	Pentium G2010	Ivy Bridge	2 	Intel Socket 1155	22 nm	2800&nbsp;MHz	28.0x	64K / 256K / 3072K	55W	Jan 2013		
+CPU		Intel	Core i3-3120M	500	34	2938	http://cpu.userbenchmark.com/SpeedTest/923/IntelR-CoreTM-i3-3120M-CPU---250GHz	Core i3-3120M	Ivy Bridge	2  / 4	Intel BGA1023	22 nm	2500&nbsp;MHz	25.0x	64K / 256K / 3072K	35W	Sep 2012	5400	
+CPU		Intel	Core i5-3427U	501	34	861	http://cpu.userbenchmark.com/SpeedTest/909/IntelR-CoreTM-i5-3427U-CPU---180GHz	Core i5-3427U	Ivy Bridge	2  / 4	Intel BGA1023	22 nm	1800&nbsp;MHz	18.0x	64K / 256K / 3072K	17W	Jun 2012	3700	
+CPU		AMD	Phenom II X4 905e	502	34	110	http://cpu.userbenchmark.com/SpeedTest/3420/AMD-Phenomtm-II-X4-905e-Processor	Phenom II X4 905e	Deneb	4 	AMD Socket AM3	45 nm	2500&nbsp;MHz	12.5x	128K / 512K / 6144K	65W	Jun 2009	763	
+CPU		AMD	Athlon II X4 620	503	33.9	1478	http://cpu.userbenchmark.com/SpeedTest/3430/AMD-Athlontm-II-X4-620-Processor	Athlon II X4 620e	Propus	4 	AMD Socket AM3	45 nm	2600&nbsp;MHz	13.0x	128K / 512K / 0K	45W	May 2011		
+CPU		AMD	Phenom 9950	504	33.9	618	http://cpu.userbenchmark.com/SpeedTest/2758/AMD-Phenomtm-9950-Quad-Core-Processor	Phenom X4 9950 BE (125W)	Agena	4 	AMD Socket AM2+	65 nm	2600&nbsp;MHz	13.0x	128K / 512K / 2048K	125W	Oct 2008		
+CPU		Intel	Pentium G645	505	33.9	937	http://cpu.userbenchmark.com/SpeedTest/3264/IntelR-PentiumR-CPU-G645---290GHz	Pentium G645	Sandy Bridge	2 	Intel Socket 1155	32 nm	2900&nbsp;MHz	29.0x	64K / 256K / 3072K	65W	Sep 2012	2880	
+CPU		Intel	Core2 Extreme Q6850	506	33.9	338	http://cpu.userbenchmark.com/SpeedTest/7118/IntelR-CoreTM2-Extreme-CPU-Q6850----300GHz												
+CPU		Intel	Core i7-3517U	507	33.7	2366	http://cpu.userbenchmark.com/SpeedTest/663/IntelR-CoreTM-i7-3517U-CPU---190GHz	Core i7-3517U	Ivy Bridge	2  / 4	Intel BGA1023	22 nm	1900&nbsp;MHz	19.0x	64K / 256K / 4096K	17W	Jun 2012	7650	
+CPU		Intel	Core i5-3337U	508	33.6	7450	http://cpu.userbenchmark.com/SpeedTest/737/IntelR-CoreTM-i5-3337U-CPU---180GHz	Core i5-3337U	Ivy Bridge	2  / 4	Intel BGA1023	22 nm	1800&nbsp;MHz	18.0x	64K / 256K / 3072K	17W	Jan 2013	13290	
+CPU		Intel	Xeon L5420	509	33.4	283	http://cpu.userbenchmark.com/SpeedTest/10433/IntelR-XeonR-CPU-----------L5420----250GHz												
+CPU		AMD	Athlon II X3 450	510	33.4	1026	http://cpu.userbenchmark.com/SpeedTest/91/AMD-Athlontm-II-X3-450-Processor	Athlon II X3 450	Rana	3 	AMD Socket AM3	45 nm	3200&nbsp;MHz	16.0x	128K / 512K / 0K	95W	Sep 2010	545	
+CPU		Intel	Core2 Extreme Q9300	511	33.3	186	http://cpu.userbenchmark.com/SpeedTest/4063/IntelR-CoreTM2-Extreme-CPU-Q9300----253GHz												
+CPU		Intel	Core i5 M 480	512	33.3	3903	http://cpu.userbenchmark.com/SpeedTest/3496/IntelR-CoreTM-i5-CPU-------M-480----267GHz	Core i5-480M	Arrandale	2  / 4	Intel Socket G1	32 nm	2667&nbsp;MHz	20.0x	64K / 256K / 3072K	35W	Jan 2011	4688	
+CPU		AMD	A8-3800 APU	513	33.2	299	http://cpu.userbenchmark.com/SpeedTest/7059/AMD-A8-3800-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core i3-5010U	514	33.1	2129	http://cpu.userbenchmark.com/SpeedTest/23565/IntelR-CoreTM-i3-5010U-CPU---210GHz											5009	
+CPU		Intel	Core i3-3110M	515	33.1	7027	http://cpu.userbenchmark.com/SpeedTest/844/IntelR-CoreTM-i3-3110M-CPU---240GHz											3909	
+CPU		Intel	Celeron G1620	516	33.1	607	http://cpu.userbenchmark.com/SpeedTest/6930/IntelR-CeleronR-CPU-G1620---270GHz											339	
+CPU		Intel	Core M-5Y71	517	32.9	681	http://cpu.userbenchmark.com/SpeedTest/24191/IntelR-CoreTM-M-5Y71-CPU---120GHz	Core M-5Y71	Broadwell-Y	2  / 4		14 nm	1200&nbsp;MHz	12.0x	64K / 256K / 4096K	5W	Oct 2014	6480	
+CPU		Intel	Xeon E5-2603 0	518	32.7	42	http://cpu.userbenchmark.com/SpeedTest/4629/IntelR-XeonR-CPU-E5-2603-0---180GHz	Xeon E5-2603 v2	Ivy Bridge-EP	4 	Intel Socket 2011	22 nm	1800&nbsp;MHz	18.0x	64K / 256K / 10240K	80W	Sep 2013		
+CPU		Intel	Core i5 M 540	519	32.7	2016	http://cpu.userbenchmark.com/SpeedTest/882/IntelR-CoreTM-i5-CPU-------M-540----253GHz	Core i5-2540M	Sandy Bridge	2  / 4	Intel Socket G2 (988B)	32 nm	2600&nbsp;MHz	26.0x	64K / 256K / 3072K	35W	Feb 2011		
+CPU		Intel	Xeon E5420	520	32.6	380	http://cpu.userbenchmark.com/SpeedTest/11278/IntelR-XeonR-CPU-----------E5420----250GHz												
+CPU		Intel	Pentium G840	521	32.6	575	http://cpu.userbenchmark.com/SpeedTest/3067/IntelR-PentiumR-CPU-G840---280GHz	Pentium G840	Sandy Bridge	2 	Intel Socket 1155	32 nm	2800&nbsp;MHz	28.0x	64K / 256K / 3072K	65W	May 2011	509	
+CPU		AMD	Athlon II X3 445	522	32.5	798	http://cpu.userbenchmark.com/SpeedTest/1775/AMD-Athlontm-II-X3-445-Processor	Athlon II X3 445	Rana	3 	AMD Socket AM3	45 nm	3100&nbsp;MHz	15.5x	128K / 512K / 0K	95W	May 2010	578	
+CPU		Intel	Pentium G640	523	32.3	441	http://cpu.userbenchmark.com/SpeedTest/618/IntelR-PentiumR-CPU-G640---280GHz	Pentium G640	Sandy Bridge	2 	Intel Socket 1155	32 nm	2800&nbsp;MHz	28.0x	64K / 256K / 3072K	65W	Jun 2012	2788	
+CPU		Intel	Core m3-6Y30	524	32.3	1341	http://cpu.userbenchmark.com/SpeedTest/38171/IntelR-CoreTM-m3-6Y30-CPU---090GHz											3878	
+CPU		AMD	Phenom 9850	525	32.3	715	http://cpu.userbenchmark.com/SpeedTest/2967/AMD-Phenomtm-9850-Quad-Core-Processor	Phenom X4 9850 (95W)	Agena	4 	AMD Socket AM2+	65 nm	2500&nbsp;MHz	12.5x	128K / 512K / 2048K	95W	Oct 2008		
+CPU		Intel	Core i5 M 460	526	32.3	4156	http://cpu.userbenchmark.com/SpeedTest/126/IntelR-CoreTM-i5-CPU-------M-460----253GHz	Core i5-460M	Arrandale	2  / 4	Intel Socket G1	32 nm	2534&nbsp;MHz	19.0x	64K / 256K / 3072K	35W	Sep 2010		
+CPU		Intel	Xeon E5-2660 v2	527	32.2	10	http://cpu.userbenchmark.com/SpeedTest/13068/IntelR-XeonR-CPU-E5-2660-v2---220GHz	Xeon E5-2660 v2	Ivy Bridge-EP	10  / 20	Intel Socket 2011	22 nm	2200&nbsp;MHz	32.0x	64K / 256K / 25600K	95W	Sep 2013	5188	
+CPU		Intel	Core i3-5015U	528	32.2	590	http://cpu.userbenchmark.com/SpeedTest/32615/IntelR-CoreTM-i3-5015U-CPU---210GHz											2880	
+CPU		Intel	Core2 Quad Q9300	529	32.1	2813	http://cpu.userbenchmark.com/SpeedTest/832/IntelR-CoreTM2-Quad--CPU---Q9300----250GHz												
+CPU		AMD	Athlon II X3 440	530	32.1	592	http://cpu.userbenchmark.com/SpeedTest/5315/AMD-Athlontm-II-X3-440-Processor	Athlon II X3 440	Rana	3 	AMD Socket AM3	45 nm	3000&nbsp;MHz	15.0x	128K / 512K / 0K	95W	Jan 2010		
+CPU		Intel	Core i5-3317U	531	31.9	7564	http://cpu.userbenchmark.com/Intel-Core-i5-3317U/Rating/2744	Core i5-3317U	Ivy Bridge	2  / 4	Intel BGA1023	22 nm	1700&nbsp;MHz	17.0x	64K / 256K / 3072K	17W	Jun 2012	9999	
+CPU		AMD	Athlon II X3 435	532	31.8	483	http://cpu.userbenchmark.com/SpeedTest/2024/AMD-Athlontm-II-X3-435-Processor	Athlon II X3 435	Rana	3 	AMD Socket AM3	45 nm	2900&nbsp;MHz	14.5x	128K / 512K / 0K	95W	Oct 2009	548	
+CPU		Intel	Celeron G1610	533	31.8	890	http://cpu.userbenchmark.com/SpeedTest/3109/IntelR-CeleronR-CPU-G1610---260GHz	Celeron G1610	Ivy Bridge	2 	Intel Socket 1155	22 nm	2600&nbsp;MHz	26.0x	64K / 256K / 2048K	55W	Dec 2012	355	
+CPU		Intel	Core i7-2637M	534	31.7	176	http://cpu.userbenchmark.com/SpeedTest/5436/IntelR-CoreTM-i7-2637M-CPU---170GHz											4909	
+CPU		Intel	Core i7 Q 740	535	31.5	3354	http://cpu.userbenchmark.com/SpeedTest/415/IntelR-CoreTM-i7-CPU-------Q-740----173GHz	Core i7-3740QM	Ivy Bridge	4  / 8	Intel Socket G2 (988B)	22 nm	2700&nbsp;MHz	27.0x	64K / 256K / 6144K	45W	Sep 2012		
+CPU		Intel	Core2 Quad Q8300	536	31.5	4631	http://cpu.userbenchmark.com/SpeedTest/1930/IntelR-CoreTM2-Quad-CPU----Q8300----250GHz												
+CPU		Intel	Core i3 M 390	537	31.4	202	http://cpu.userbenchmark.com/SpeedTest/8797/IntelR-CoreTM-i3-CPU-------M-390----267GHz	Core i3-390M	Arrandale	2  / 4	Intel Socket G1	32 nm	2667&nbsp;MHz	20.0x	64K / 256K / 3072K	35W	Jan 2011		
+CPU		Intel	Pentium G630	538	31.2	2090	http://cpu.userbenchmark.com/SpeedTest/3112/IntelR-PentiumR-CPU-G630---270GHz	Pentium G630	Sandy Bridge	2 	Intel Socket 1155	32 nm	2700&nbsp;MHz	27.0x	64K / 256K / 3072K	65W	Sep 2011	800	
+CPU		Intel	Core i3-5005U	539	31.2	8460	http://cpu.userbenchmark.com/SpeedTest/24957/IntelR-CoreTM-i3-5005U-CPU---200GHz	Core i3-5005U	Broadwell-U	2  / 4		14 nm	2000&nbsp;MHz	20.0x	64K / 256K / 3072K	15W	Mar 2015	4180	
+CPU		Intel	Core i5 M 520	540	31.2	5339	http://cpu.userbenchmark.com/SpeedTest/812/IntelR-CoreTM-i5-CPU-------M-520----240GHz	Core i5-2520M	Sandy Bridge	2  / 4	Intel BGA1023	32 nm	2500&nbsp;MHz	25.0x	64K / 256K / 3072K	35W	Feb 2011		
+CPU		AMD	Phenom 9750	541	31	558	http://cpu.userbenchmark.com/SpeedTest/2439/AMD-Phenomtm-9750-Quad-Core-Processor	Phenom X4 9750B	Agena	4 	AMD Socket AM2+	65 nm	2400&nbsp;MHz	12.0x	128K / 512K / 2048K	95W	Aug 2008		
+CPU		Intel	Core i7-2677M	542	30.8	245	http://cpu.userbenchmark.com/SpeedTest/4939/IntelR-CoreTM-i7-2677M-CPU---180GHz											11000	
+CPU		AMD	Phenom II X3 720	543	30.8	809	http://cpu.userbenchmark.com/SpeedTest/326/AMD-Phenomtm-II-X3-720-Processor	Phenom II X3 720	Heka	3 	AMD Socket AM3	45 nm	2800&nbsp;MHz	14.0x	128K / 512K / 6144K	95W	Jan 2010		
+CPU		AMD	A10-5750M APU	544	30.8	2288	http://cpu.userbenchmark.com/SpeedTest/3779/AMD-A10-5750M-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Pentium G6950	545	30.6	218	http://cpu.userbenchmark.com/SpeedTest/638/IntelR-PentiumR-CPU--------G6950----280GHz	Pentium G6950	Clarkdale	2 	Intel Socket 1156	32 nm	2800&nbsp;MHz	21.0x	64K / 256K / 3072K	73W	Jan 2010	699	
+CPU		AMD	A6-3620 APU	546	30.5	641	http://cpu.userbenchmark.com/SpeedTest/8057/AMD-A6-3620-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core M-5Y10	547	30.5	187	http://cpu.userbenchmark.com/SpeedTest/17561/IntelR-Processor-5Y10-CPU---080GHz	Core M-5Y10c	Broadwell-Y	2  / 4		14 nm	800&nbsp;MHz	8.0x	64K / 256K / 4096K	5W	Oct 2014	4750	
+CPU		Intel	Core i7 Q 820	548	30.4	623	http://cpu.userbenchmark.com/SpeedTest/3571/IntelR-CoreTM-i7-CPU-------Q-820----173GHz	Core i7-3820QM	Ivy Bridge	4  / 8	Intel Socket G2 (988B)	22 nm	2700&nbsp;MHz	27.0x	64K / 256K / 8192K	45W	Apr 2012		
+CPU		Intel	Core i7-3689Y	549	30.2	22	http://cpu.userbenchmark.com/SpeedTest/4592/IntelR-CoreTM-i7-3689Y-CPU---150GHz	Core i7-3689Y	Ivy Bridge	2  / 4	Intel BGA1023	22 nm	1500&nbsp;MHz	20.0x	64K / 256K / 4096K	13W	Jan 2013	9500	
+CPU		Intel	Core i5 M 450	550	30.1	2014	http://cpu.userbenchmark.com/SpeedTest/2006/IntelR-CoreTM-i5-CPU-------M-450----240GHz	Core i5-2450M	Sandy Bridge	2  / 4	Intel Socket G2 (988B)	32 nm	2500&nbsp;MHz	25.0x	64K / 256K / 3072K	35W	Jan 2012		
+CPU		Intel	Pentium G620	551	30.1	2061	http://cpu.userbenchmark.com/SpeedTest/2636/IntelR-PentiumR-CPU-G620---260GHz	Pentium G620	Sandy Bridge	2 	Intel Socket 1155	32 nm	2600&nbsp;MHz	26.0x	64K / 256K / 3072K	65W	May 2011	1650	
+CPU		Intel	Core i7 L 640	552	29.9	618	http://cpu.userbenchmark.com/SpeedTest/4880/IntelR-CoreTM-i7-CPU-------L-640----213GHz												
+CPU		Intel	Core2 Quad Q8200	553	29.8	4931	http://cpu.userbenchmark.com/SpeedTest/3754/IntelR-CoreTM2-Quad--CPU---Q8200----233GHz											1200	
+CPU		Intel	Core i3-2370M	554	29.7	2010	http://cpu.userbenchmark.com/SpeedTest/1959/IntelR-CoreTM-i3-2370M-CPU---240GHz	Core i3-2370M	Sandy Bridge	2  / 4	Intel Socket G2 (988B)	32 nm	2400&nbsp;MHz	24.0x	64K / 256K / 3072K	35W	Jan 2012	7100	
+CPU		Intel	Celeron G550	555	29.7	364	http://cpu.userbenchmark.com/SpeedTest/5014/IntelR-CeleronR-CPU-G550---260GHz	Celeron G550	Sandy Bridge	2 	Intel Socket 1155	32 nm	2600&nbsp;MHz	26.0x	64K / 256K / 2048K	65W	Jun 2012	380	
+CPU		Intel	Core2 Quad Q6700	556	29.6	1419	http://cpu.userbenchmark.com/SpeedTest/3748/IntelR-CoreTM2-Quad-CPU----Q6700----266GHz												
+CPU		AMD	Phenom II X2 565	557	29.5	99	http://cpu.userbenchmark.com/SpeedTest/2173/AMD-Phenomtm-II-X2-565-Processor												
+CPU		Intel	Pentium 3550M	558	29.4	158	http://cpu.userbenchmark.com/SpeedTest/9225/IntelR-PentiumR-CPU-3550M---230GHz	Pentium 3550M	Haswell	2 	Intel Socket G3	22 nm	2300&nbsp;MHz	23.0x	64K / 256K / 2048K	37W	Sep 2013		
+CPU		AMD	Phenom 9650	559	29.3	860	http://cpu.userbenchmark.com/SpeedTest/5238/AMD-Phenomtm-9650-Quad-Core-Processor	Phenom X4 9650	Agena	4 	AMD Socket AM2+	65 nm	2300&nbsp;MHz	11.5x	128K / 512K / 2048K	95W	Mar 2008		
+CPU		Intel	Core i5 M 430	560	29.3	3580	http://cpu.userbenchmark.com/SpeedTest/34/IntelR-CoreTM-i5-CPU-------M-430----227GHz	Core i5-4300M	Haswell	2  / 4	Intel Socket G3	22 nm	2600&nbsp;MHz	26.0x	64K / 256K / 3072K	37W	Sep 2013		
+CPU		Intel	Core i5-2557M	561	29.2	214	http://cpu.userbenchmark.com/SpeedTest/5422/IntelR-CoreTM-i5-2557M-CPU---170GHz	Core i5-2557M	Sandy Bridge	2  / 4	Intel BGA1023	32 nm	1700&nbsp;MHz	17.0x	64K / 256K / 3072K	17W	Jun 2011		
+CPU		Intel	Core i3 M 380	562	29.1	4092	http://cpu.userbenchmark.com/SpeedTest/919/IntelR-CoreTM-i3-CPU-------M-380----253GHz	Core i3-380M	Arrandale	2  / 4	Intel Socket G1	32 nm	2534&nbsp;MHz	19.0x	64K / 256K / 3072K	35W	Oct 2010		
+CPU		AMD	Phenom 9600	563	29	297	http://cpu.userbenchmark.com/SpeedTest/7248/AMD-Phenomtm-9600-Quad-Core-Processor	Phenom X4 9600B	Agena	4 	AMD Socket AM2+	65 nm	2300&nbsp;MHz	11.5x	128K / 512K / 2048K	95W	Apr 2008		
+CPU		Intel	Celeron G540	564	28.9	325	http://cpu.userbenchmark.com/SpeedTest/5981/IntelR-CeleronR-CPU-G540---250GHz	Celeron G540	Sandy Bridge	2 	Intel Socket 1155	32 nm	2500&nbsp;MHz	25.0x	64K / 256K / 2048K	65W	Sep 2011	2609	
+CPU		AMD	Athlon II X3 425	565	28.9	331	http://cpu.userbenchmark.com/SpeedTest/2178/AMD-Athlontm-II-X3-425-Processor	Athlon II X3 425e	Rana	3 	AMD Socket AM3	45 nm	2700&nbsp;MHz	13.5x	128K / 512K / 0K	45W	May 2011		
+CPU		AMD	A10-5757M APU	566	28.8	363	http://cpu.userbenchmark.com/SpeedTest/7160/AMD-A10-5757M-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core i3-2350M	567	28.8	4968	http://cpu.userbenchmark.com/SpeedTest/934/IntelR-CoreTM-i3-2350M-CPU---230GHz	Core i3-2350M	Sandy Bridge	2  / 4	Intel Socket G2 (988B)	32 nm	2300&nbsp;MHz	23.0x	64K / 256K / 3072K	35W	Oct 2011	4500	
+CPU		Intel	Core i3-2348M	568	28.8	885	http://cpu.userbenchmark.com/SpeedTest/2278/IntelR-CoreTM-i3-2348M-CPU---230GHz												
+CPU		Intel	Core M-5Y10c	569	28.7	785	http://cpu.userbenchmark.com/SpeedTest/23759/IntelR-CoreTM-M-5Y10c-CPU---080GHz	Core M-5Y10c	Broadwell-Y	2  / 4		14 nm	800&nbsp;MHz	8.0x	64K / 256K / 4096K	5W	Oct 2014	4750	
+CPU		Intel	Core M-5Y31	570	28.7	21	http://cpu.userbenchmark.com/SpeedTest/33034/IntelR-CoreTM-M-5Y31-CPU---090GHz	Core M-5Y31	Broadwell-Y	2  / 4		14 nm	900&nbsp;MHz	9.0x	64K / 256K / 4096K	5W	Oct 2014		
+CPU		Intel	Core M-5Y70	571	28.6	276	http://cpu.userbenchmark.com/SpeedTest/16573/IntelR-Processor-5Y70-CPU---110GHz	Core M-5Y70	Broadwell-Y	2  / 4		14 nm	1100&nbsp;MHz	11.0x	64K / 256K / 4096K	5W	Sep 2014	10998	
+CPU		AMD	A10-4600M APU	572	28.6	1486	http://cpu.userbenchmark.com/SpeedTest/1051/AMD-A10-4600M-APU-with-Radeontm-HD-Graphics												
+CPU		AMD	A6-6400K APU	573	28.5	2785	http://cpu.userbenchmark.com/SpeedTest/3048/AMD-A6-6400K-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Pentium 2020M	574	28.3	1746	http://cpu.userbenchmark.com/SpeedTest/1723/IntelR-PentiumR-CPU-2020M---240GHz	Pentium 2020M	Ivy Bridge	2 	Intel Socket G2 (988B)	22 nm	2400&nbsp;MHz	24.0x	64K / 256K / 2048K	35W	Sep 2012	4988	
+CPU		Intel	Core i7 Q 720	575	28.1	4834	http://cpu.userbenchmark.com/SpeedTest/140/IntelR-CoreTM-i7-CPU-------Q-720----160GHz	Core i7-3720QM	Ivy Bridge	4  / 8	Intel BGA1224	22 nm	2600&nbsp;MHz	26.0x	64K / 256K / 6144K	45W	Apr 2012		
+CPU		AMD	Phenom II X3 710	576	28.1	266	http://cpu.userbenchmark.com/SpeedTest/2275/AMD-Phenomtm-II-X3-710-Processor	Phenom II X3 710	Heka	3 	AMD Socket AM3	45 nm	2600&nbsp;MHz	13.0x	128K / 512K / 6144K	95W	Feb 2009		
+CPU		Intel	Core i3-4030U	577	28	4864	http://cpu.userbenchmark.com/SpeedTest/13661/IntelR-CoreTM-i3-4030U-CPU---190GHz											3809	
+CPU		Intel	Core i3-2330M	578	27.9	3658	http://cpu.userbenchmark.com/SpeedTest/1853/IntelR-CoreTM-i3-2330M-CPU---220GHz	Core i3-2330M	Sandy Bridge	2  / 4	Intel Socket G2 (988B)	32 nm	2200&nbsp;MHz	22.0x	64K / 256K / 3072K	35W	Jun 2011	4831	
+CPU		AMD	A4-6320 APU	579	27.8	139	http://cpu.userbenchmark.com/SpeedTest/12932/AMD-A4-6320-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Xeon W3505	580	27.7	165	http://cpu.userbenchmark.com/SpeedTest/12714/IntelR-XeonR-CPU-----------W3505----253GHz	Xeon W3505	Bloomfield	2 	Intel Socket 1366	45 nm	2533&nbsp;MHz	19.0x	64K / 256K / 4096K	130W	Mar 2009		
+CPU		AMD	Phenom 9550	581	27.7	846	http://cpu.userbenchmark.com/SpeedTest/2319/AMD-Phenomtm-9550-Quad-Core-Processor	Phenom X4 9550	Agena	4 	AMD Socket AM2+	65 nm	2200&nbsp;MHz	11.0x	128K / 512K / 2048K	95W	Mar 2008		
+CPU		Intel	Xeon X3220	582	27.7	213	http://cpu.userbenchmark.com/SpeedTest/4801/IntelR-XeonR-CPU-----------X3220----240GHz												
+CPU		Intel	Pentium II processor	583	27.7	32	http://cpu.userbenchmark.com/SpeedTest/167/Intel-Pentium-II-processor												
+CPU		Intel	Celeron G530	584	27.6	731	http://cpu.userbenchmark.com/SpeedTest/229/IntelR-CeleronR-CPU-G530---240GHz	Celeron G530	Sandy Bridge	2 	Intel Socket 1155	32 nm	2400&nbsp;MHz	24.0x	64K / 256K / 2048K	65W	Sep 2011	350	
+CPU		Intel	Core i3 M 370	585	27.5	4741	http://cpu.userbenchmark.com/SpeedTest/259/IntelR-CoreTM-i3-CPU-------M-370----240GHz	Core i3-2370M	Sandy Bridge	2  / 4	Intel Socket G2 (988B)	32 nm	2400&nbsp;MHz	24.0x	64K / 256K / 3072K	35W	Jan 2012		
+CPU		AMD	Phenom 9500	586	27.5	582	http://cpu.userbenchmark.com/SpeedTest/1692/AMD-Phenomtm-9500-Quad-Core-Processor	Phenom X4 9500	Agena	4 	AMD Socket AM2+	65 nm	2200&nbsp;MHz	11.0x	128K / 512K / 2048K	95W	Nov 2007		
+CPU		Intel	Core i3-2328M	587	27.4	1423	http://cpu.userbenchmark.com/SpeedTest/2488/IntelR-CoreTM-i3-2328M-CPU---220GHz	Core i3-2328M	Sandy Bridge	2  / 4	Intel Socket G2 (988B)	32 nm	2200&nbsp;MHz	22.0x	64K / 256K / 3072K	35W	Sep 2012	4499	
+CPU		Intel	Core2 Quad	588	27.4	1795	http://cpu.userbenchmark.com/SpeedTest/374/IntelR-CoreTM2-Quad-CPU-------------240GHz											1200	
+CPU		AMD	A4-6300 APU	589	27.4	1928	http://cpu.userbenchmark.com/SpeedTest/10639/AMD-A4-6300-APU-with-Radeontm-HD-Graphics											2358	
+CPU		AMD	A8-3530MX APU	590	27.3	125	http://cpu.userbenchmark.com/SpeedTest/1796/AMD-A8-3530MX-APU-with-Radeontm-HD-Graphics												
+CPU		AMD	Athlon II X2 270	591	27.3	1359	http://cpu.userbenchmark.com/SpeedTest/1939/AMD-Athlontm-II-X2-270-Processor	Athlon II X2 270	Regor	2 	AMD Socket AM3	45 nm	3400&nbsp;MHz	17.0x	128K / 1024K / 0K	65W	Jul 2011		
+CPU		Intel	Core2 Duo E8600	592	27.3	1491	http://cpu.userbenchmark.com/SpeedTest/124/IntelR-CoreTM2-Duo-CPU-----E8600----333GHz												
+CPU		AMD	A8-5550M APU	593	27.3	814	http://cpu.userbenchmark.com/SpeedTest/5035/AMD-A8-5550M-APU-with-Radeontm-HD-Graphics												
+CPU		AMD	Athlon II X2 265	594	27.2	162	http://cpu.userbenchmark.com/SpeedTest/986/AMD-Athlontm-II-X2-265-Processor	Athlon II X2 265	Regor	2 	AMD Socket AM3	45 nm	3300&nbsp;MHz	16.5x	128K / 1024K / 0K	65W	Sep 2010		
+CPU		AMD	Phenom II X2 560	595	27.1	509	http://cpu.userbenchmark.com/SpeedTest/5408/AMD-Phenomtm-II-X2-560-Processor	Phenom II X2 560 BE	Callisto	2 	AMD Socket AM3	45 nm	3300&nbsp;MHz	16.5x	128K / 512K / 6144K	80W	Sep 2010		
+CPU	BX80562Q6600	Intel	Core2 Quad Q6600	596	27.1	16861	http://cpu.userbenchmark.com/Intel-Core2-Quad-Q6600/Rating/1980												
+CPU		Intel	Core i3-2310M	597	26.7	5018	http://cpu.userbenchmark.com/SpeedTest/159/IntelR-CoreTM-i3-2310M-CPU---210GHz	Core i3-2310M	Sandy Bridge	2  / 4	Intel Socket G2 (988B)	32 nm	2100&nbsp;MHz	21.0x	64K / 256K / 3072K	35W	Feb 2011	3780	
+CPU		AMD	A6-5400K APU	598	26.7	1641	http://cpu.userbenchmark.com/SpeedTest/4113/AMD-A6-5400K-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core M-5Y51	599	26.6	121	http://cpu.userbenchmark.com/SpeedTest/24458/IntelR-CoreTM-M-5Y51-CPU---110GHz	Core M-5Y51	Broadwell-Y	2  / 4		14 nm	1100&nbsp;MHz	11.0x	64K / 256K / 4096K	5W	Oct 2014	8980	
+CPU		AMD	Phenom II X2 555	600	26.6	1080	http://cpu.userbenchmark.com/SpeedTest/2917/AMD-Phenomtm-II-X2-555-Processor	Phenom II X2 555 BE	Callisto	2 	AMD Socket AM3	45 nm	3200&nbsp;MHz	16.0x	128K / 512K / 6144K	80W	Jan 2010	260	
+CPU		AMD	A8-3510MX APU	601	26.4	146	http://cpu.userbenchmark.com/SpeedTest/5873/AMD-A8-3510MX-APU-with-Radeontm-HD-Graphics												
+CPU		AMD	Phenom II N950	602	26.4	80	http://cpu.userbenchmark.com/SpeedTest/213/AMD-Phenomtm-II-N950-Quad-Core-Processor												
+CPU		Intel	Core M-5Y10a	603	26.4	5	http://cpu.userbenchmark.com/SpeedTest/26061/IntelR-Processor-5Y10a-CPU---080GHz	Core M-5Y10a	Broadwell-Y	2  / 4		14 nm	800&nbsp;MHz	8.0x	64K / 256K / 4096K	5W	Sep 2014		
+CPU		Intel	Core i5-4300Y	604	26.3	228	http://cpu.userbenchmark.com/SpeedTest/8659/IntelR-CoreTM-i5-4300Y-CPU---160GHz												
+CPU		Intel	Xeon E5345	605	26.3	81	http://cpu.userbenchmark.com/SpeedTest/10151/IntelR-XeonR-CPU-----------E5345----233GHz												
+CPU		Intel	Xeon W3503	606	26.2	355	http://cpu.userbenchmark.com/SpeedTest/3723/IntelR-XeonR-CPU-----------W3503----240GHz	Xeon W3503	Bloomfield	2 	Intel Socket 1366	45 nm	2400&nbsp;MHz	18.0x	64K / 256K / 4096K	130W	Mar 2009		
+CPU		Intel	Xeon E5405	607	25.9	184	http://cpu.userbenchmark.com/SpeedTest/25434/IntelR-XeonR-CPU-----------E5405----200GHz												
+CPU		Intel	Core i3 M 350	608	25.9	3178	http://cpu.userbenchmark.com/SpeedTest/572/IntelR-CoreTM-i3-CPU-------M-350----227GHz	Core i3-2350M	Sandy Bridge	2  / 4	Intel Socket G2 (988B)	32 nm	2300&nbsp;MHz	23.0x	64K / 256K / 3072K	35W	Oct 2011		
+CPU		Intel	Pentium E6800	609	25.9	154	http://cpu.userbenchmark.com/SpeedTest/4231/PentiumR-Dual-Core--CPU------E6800----333GHz	Pentium E6800	Wolfdale	2 	Intel Socket 775	45 nm	3333&nbsp;MHz	12.5x	64K / 2048K / 0K	65W	Aug 2010	728	
+CPU		Intel	Pentium B980	610	25.8	780	http://cpu.userbenchmark.com/SpeedTest/6036/IntelR-PentiumR-CPU-B980---240GHz	Pentium B980	Sandy Bridge	2 	Intel Socket G2 (988B)	32 nm	2400&nbsp;MHz	24.0x	64K / 256K / 2048K	35W	Sep 2012	4730	
+CPU		AMD	A10-5745M APU	611	25.8	1555	http://cpu.userbenchmark.com/SpeedTest/4194/AMD-A10-5745M-APU-with-Radeontm-HD-Graphics												
+CPU		AMD	Athlon II X2 260	612	25.7	1213	http://cpu.userbenchmark.com/SpeedTest/4651/AMD-Athlontm-II-X2-260-Processor	Athlon II X2 260	Regor	2 	AMD Socket AM3	45 nm	3200&nbsp;MHz	16.0x	128K / 1024K / 0K	65W	May 2010		
+CPU		Intel	Core i3-3227U	613	25.6	1474	http://cpu.userbenchmark.com/SpeedTest/5042/IntelR-CoreTM-i3-3227U-CPU---190GHz	Core i3-3227U	Ivy Bridge	2  / 4	Intel BGA1023	22 nm	1900&nbsp;MHz	19.0x	64K / 256K / 3072K	17W	Jan 2013	5450	
+CPU		Intel	Core2 Duo E8500	614	25.6	5482	http://cpu.userbenchmark.com/SpeedTest/13/IntelR-CoreTM2-Duo-CPU-----E8500----316GHz												
+CPU		AMD	Phenom II X2 550	615	25.5	976	http://cpu.userbenchmark.com/SpeedTest/2418/AMD-Phenomtm-II-X2-550-Processor	Phenom II X2 550	Callisto	2 	AMD Socket AM3	45 nm	3100&nbsp;MHz	15.5x	128K / 512K / 6144K	80W	Nov 2009	780	
+CPU		Intel	Xeon E3110	616	25.5	98	http://cpu.userbenchmark.com/SpeedTest/4226/IntelR-XeonR-CPU-----------E3110----300GHz												
+CPU		Intel	Core i7 L 620	617	25.5	123	http://cpu.userbenchmark.com/SpeedTest/952/IntelR-CoreTM-i7-CPU-------L-620----200GHz												
+CPU		Intel	Core2 Quad Q9000	618	25.4	270	http://cpu.userbenchmark.com/SpeedTest/5898/IntelR-CoreTM2-Quad--CPU---Q9000----200GHz												
+CPU		AMD	Phenom II N930	619	25.4	167	http://cpu.userbenchmark.com/SpeedTest/6654/AMD-Phenomtm-II-N930-Quad-Core-Processor												
+CPU		AMD	Athlon II X2 255	620	25.2	907	http://cpu.userbenchmark.com/SpeedTest/6225/AMD-Athlontm-II-X2-255-Processor	Athlon II X2 255	Regor	2 	AMD Socket AM3	45 nm	3100&nbsp;MHz	15.5x	128K / 1024K / 0K	65W	Jan 2010	455	
+CPU		Intel	Core i3-4005U	621	25.2	6100	http://cpu.userbenchmark.com/SpeedTest/7028/IntelR-CoreTM-i3-4005U-CPU---170GHz	Core i3-4005U	Haswell	2  / 4	Intel BGA1168	22 nm	1700&nbsp;MHz	17.0x	64K / 256K / 3072K	15W	Sep 2013	3180	
+CPU		Intel	Pentium E6700	622	25.1	979	http://cpu.userbenchmark.com/SpeedTest/2030/PentiumR-Dual-Core--CPU------E6700----320GHz	Pentium E6700	Wolfdale	2 	Intel Socket 775	45 nm	3200&nbsp;MHz	12.0x	64K / 2048K / 0K	65W	May 2010		
+CPU		Intel	Core i3-4010U	623	25	2455	http://cpu.userbenchmark.com/SpeedTest/4821/IntelR-CoreTM-i3-4010U-CPU---170GHz	Core i3-4010U	Haswell	2  / 4	Intel BGA1168	22 nm	1700&nbsp;MHz	17.0x	64K / 256K / 3072K	15W	Jun 2013	4999	
+CPU		AMD	A4-5300 APU	624	25	1349	http://cpu.userbenchmark.com/SpeedTest/3554/AMD-A4-5300-APU-with-Radeontm-HD-Graphics											2350	
+CPU		Intel	Core i3 M 330	625	24.9	3255	http://cpu.userbenchmark.com/SpeedTest/484/IntelR-CoreTM-i3-CPU-------M-330----213GHz	Core i3-2330M	Sandy Bridge	2  / 4	Intel Socket G2 (988B)	32 nm	2200&nbsp;MHz	22.0x	64K / 256K / 3072K	35W	Jun 2011		
+CPU		AMD	A8-7410 APU	626	24.8	4779	http://cpu.userbenchmark.com/SpeedTest/33754/AMD-A8-7410-APU-with-AMD-Radeon-R5-Graphics												
+CPU		Intel	Core2 Duo T9900	627	24.8	285	http://cpu.userbenchmark.com/SpeedTest/972/IntelR-CoreTM2-Duo-CPU-----T9900----306GHz												
+CPU		AMD	Athlon II X2 B24	628	24.8	394	http://cpu.userbenchmark.com/SpeedTest/6359/AMD-Athlontm-II-X2-B24-Processor												
+CPU		AMD	Athlon 5350 APU R3	629	24.8	1197	http://cpu.userbenchmark.com/SpeedTest/10020/AMD-Athlontm-5350-APU-with-Radeontm-R3												
+CPU		Intel	Pentium B970	630	24.8	668	http://cpu.userbenchmark.com/SpeedTest/559/IntelR-PentiumR-CPU-B970---230GHz	Pentium B970	Sandy Bridge	2 	Intel Socket G2 (988B)	32 nm	2300&nbsp;MHz	23.0x	64K / 256K / 2048K	35W	Jan 2012	3780	
+CPU		Intel	Pentium 3805U	631	24.7	189	http://cpu.userbenchmark.com/SpeedTest/34360/IntelR-PentiumR-3805U---190GHz	Pentium 3805U	Broadwell-U	2 		14 nm	1900&nbsp;MHz	19.0x	64K / 256K / 2048K	15W	Mar 2015	4080	
+CPU		Intel	Pentium E5800	632	24.6	1678	http://cpu.userbenchmark.com/SpeedTest/3092/PentiumR-Dual-Core--CPU------E5800----320GHz	Pentium E5800	Wolfdale	2 	Intel Socket 775	45 nm	3200&nbsp;MHz	16.0x	64K / 2048K / 0K	65W	Nov 2010	589	
+CPU		AMD	Athlon 64 X2 Dual Core 6400+	633	24.6	295	http://cpu.userbenchmark.com/SpeedTest/5653/AMD-Athlontm-64-X2-Dual-Core-Processor-6400-												
+CPU		AMD	Phenom II X2 545	634	24.5	291	http://cpu.userbenchmark.com/SpeedTest/8398/AMD-Phenomtm-II-X2-545-Processor	Phenom II X2 545	Callisto	2 	AMD Socket AM3	45 nm	3000&nbsp;MHz	15.0x	128K / 512K / 6144K	80W	Jun 2009		
+CPU		Intel	Core2 Duo E8400	635	24.5	17467	http://cpu.userbenchmark.com/Intel-Core2-Duo-E8400/Rating/2720												
+CPU		Intel	Core i5-2467M	636	24.5	1042	http://cpu.userbenchmark.com/SpeedTest/854/IntelR-CoreTM-i5-2467M-CPU---160GHz	Core i5-2467M	Sandy Bridge	2  / 4	Intel BGA1023	32 nm	1600&nbsp;MHz	16.0x	64K / 256K / 3072K	17W	Jun 2011	6980	
+CPU		AMD	A10-4655M APU	637	24.5	336	http://cpu.userbenchmark.com/SpeedTest/6343/AMD-A10-4655M-APU-with-Radeontm-HD-Graphics												
+CPU		AMD	Athlon II X2 250	638	24.4	4350	http://cpu.userbenchmark.com/SpeedTest/1064/AMD-Athlontm-II-X2-250-Processor	Athlon II X2 250e	Regor	2 	AMD Socket AM3	45 nm	3000&nbsp;MHz	15.0x	128K / 1024K / 0K	45W	Sep 2010	1180	
+CPU		AMD	A8-3520M APU	639	24.3	350	http://cpu.userbenchmark.com/SpeedTest/6369/AMD-A8-3520M-APU-with-Radeontm-HD-Graphics												
+CPU		AMD	A8-4500M APU	640	24.2	2680	http://cpu.userbenchmark.com/SpeedTest/758/AMD-A8-4500M-APU-with-Radeontm-HD-Graphics												
+CPU		AMD	A6-3500 APU	641	24.2	539	http://cpu.userbenchmark.com/SpeedTest/4150/AMD-A6-3500-APU-with-Radeontm-HD-Graphics												
+CPU		AMD	Phenom 8650 Triple-Core	642	24.2	385	http://cpu.userbenchmark.com/SpeedTest/4548/AMD-Phenomtm-8650-Triple-Core-Processor												
+CPU		Intel	Pentium B960	643	24.1	2532	http://cpu.userbenchmark.com/SpeedTest/1038/IntelR-PentiumR-CPU-B960---220GHz	Pentium B960	Sandy Bridge	2 	Intel Socket G2 (988B)	32 nm	2200&nbsp;MHz	22.0x	64K / 256K / 2048K	35W	Oct 2011	3499	
+CPU		Intel	Core i3-3217U	644	24.1	5881	http://cpu.userbenchmark.com/SpeedTest/1643/IntelR-CoreTM-i3-3217U-CPU---180GHz	Core i3-3217UE	Ivy Bridge	2  / 4	Intel BGA1023	22 nm	1600&nbsp;MHz	16.0x	64K / 256K / 3072K	17W	Aug 2012	4009	
+CPU		Intel	Core i5-4210Y	645	24	214	http://cpu.userbenchmark.com/SpeedTest/6358/IntelR-CoreTM-i5-4210Y-CPU---150GHz											9850	
+CPU		Intel	Core2 Extreme X9100	646	24	156	http://cpu.userbenchmark.com/SpeedTest/6202/IntelR-CoreTM2-Extreme-CPU-X9100----306GHz												
+CPU		Intel	Core2 Duo E7600	647	24	796	http://cpu.userbenchmark.com/SpeedTest/4924/IntelR-CoreTM2-Duo-CPU-----E7600----306GHz												
+CPU		AMD	Phenom II N660	648	23.7	137	http://cpu.userbenchmark.com/SpeedTest/9034/AMD-Phenomtm-II-N660-Dual-Core-Processor												
+CPU		AMD	Athlon II X2 245	649	23.7	1616	http://cpu.userbenchmark.com/SpeedTest/2018/AMD-Athlontm-II-X2-245-Processor	Athlon II X2 245e	Regor	2 	AMD Socket AM3	45 nm	2900&nbsp;MHz	14.5x	128K / 1024K / 0K	45W	May 2010	420	
+CPU		AMD	A8-6410 APU R5 Graphics	650	23.6	4447	http://cpu.userbenchmark.com/SpeedTest/12263/AMD-A8-6410-APU-with-AMD-Radeon-R5-Graphics												
+CPU		Intel	Pentium E6600	651	23.5	983	http://cpu.userbenchmark.com/SpeedTest/988/PentiumR-Dual-Core--CPU------E6600----306GHz	Pentium E6600	Wolfdale	2 	Intel Socket 775	45 nm	3067&nbsp;MHz	11.5x	64K / 2048K / 0K	65W	Jan 2010	589	
+CPU		AMD	A8-5545M APU	652	23.4	661	http://cpu.userbenchmark.com/SpeedTest/9308/AMD-A8-5545M-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core2 Duo E7500	653	23.3	8134	http://cpu.userbenchmark.com/SpeedTest/987/IntelR-CoreTM2-Duo-CPU-----E7500----293GHz												
+CPU		Intel	Core2 Duo T9800	654	23.3	179	http://cpu.userbenchmark.com/SpeedTest/7044/IntelR-CoreTM2-Duo-CPU-----T9800----293GHz												
+CPU		Intel	Core2 Duo E8300	655	23.3	404	http://cpu.userbenchmark.com/SpeedTest/1068/IntelR-CoreTM2-Duo-CPU-----E8300----283GHz												
+CPU		AMD	Athlon 7850	656	23.2	207	http://cpu.userbenchmark.com/SpeedTest/2660/AMD-Athlontm-7850-Dual-Core-Processor	Athlon X2 7850 BE	Kuma	2 	AMD Socket AM2+	65 nm	2800&nbsp;MHz	14.0x	128K / 512K / 2048K	95W	Apr 2009	540	
+CPU		AMD	Athlon 64 X2 Dual Core 6000+	657	23.2	1874	http://cpu.userbenchmark.com/SpeedTest/5708/AMD-Athlontm-64-X2-Dual-Core-Processor-6000-												
+CPU		AMD	Phenom 9150e	658	23.1	274	http://cpu.userbenchmark.com/SpeedTest/7599/AMD-Phenomtm-9150e-Quad-Core-Processor	Phenom X4 9150e	Agena	4 	AMD Socket AM2+	65 nm	1800&nbsp;MHz	9.0x	128K / 512K / 2048K	65W	Jul 2008		
+CPU		Intel	Pentium E6500	659	22.9	1189	http://cpu.userbenchmark.com/SpeedTest/720/PentiumR-Dual-Core--CPU------E6500----293GHz	Pentium E6500	Wolfdale	2 	Intel Socket 775	45 nm	2933&nbsp;MHz	11.0x	64K / 2048K / 0K	65W	Aug 2009	1999	
+CPU		AMD	A6-3410MX APU	660	22.9	263	http://cpu.userbenchmark.com/SpeedTest/5327/AMD-A6-3410MX-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Pentium B950	661	22.9	1380	http://cpu.userbenchmark.com/SpeedTest/1968/IntelR-PentiumR-CPU-B950---210GHz	Pentium B950	Sandy Bridge	2 	Intel Socket G2 (988B)	32 nm	2100&nbsp;MHz	21.0x	64K / 256K / 2048K	35W	Jun 2011	3688	
+CPU		Intel	Pentium E5700	662	22.8	3802	http://cpu.userbenchmark.com/SpeedTest/976/PentiumR-Dual-Core--CPU------E5700----300GHz	Pentium E5700	Wolfdale	2 	Intel Socket 775	45 nm	3000&nbsp;MHz	15.0x	64K / 2048K / 0K	65W	Aug 2010	649	
+CPU		Intel	Core i5-3339Y	663	22.8	105	http://cpu.userbenchmark.com/SpeedTest/3454/IntelR-CoreTM-i5-3339Y-CPU---150GHz	Core i5-3339Y	Ivy Bridge	2 	Intel BGA1023	22 nm	1500&nbsp;MHz	15.0x	64K / 256K / 3072K	13W	Jan 2013	8890	
+CPU		AMD	A4-4000 APU	664	22.8	936	http://cpu.userbenchmark.com/SpeedTest/8144/AMD-A4-4000-APU-with-Radeontm-HD-Graphics												
+CPU		AMD	Phenom II P960	665	22.8	285	http://cpu.userbenchmark.com/SpeedTest/1991/AMD-Phenomtm-II-P960-Quad-Core-Processor												
+CPU		AMD	A6-3420M APU	666	22.8	1127	http://cpu.userbenchmark.com/SpeedTest/649/AMD-A6-3420M-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core2 Duo P9700	667	22.7	131	http://cpu.userbenchmark.com/SpeedTest/3330/IntelR-CoreTM2-Duo-CPU-----P9700----280GHz												
+CPU		AMD	Athlon II X2 240	668	22.6	1737	http://cpu.userbenchmark.com/SpeedTest/4133/AMD-Athlontm-II-X2-240-Processor	Athlon II X2 240e	Regor	2 	AMD Socket AM3	45 nm	2800&nbsp;MHz	14.0x	128K / 1024K / 0K	45W	Oct 2009	8698	
+CPU		AMD	Phenom II N850	669	22.6	81	http://cpu.userbenchmark.com/SpeedTest/6473/AMD-Phenomtm-II-N850-Triple-Core-Processor												
+CPU		AMD	Athlon X2 240	670	22.6	66	http://cpu.userbenchmark.com/SpeedTest/8553/AMD-Athlontm-X2-240-Processor	Athlon II X2 240e	Regor	2 	AMD Socket AM3	45 nm	2800&nbsp;MHz	14.0x	128K / 1024K / 0K	45W	Oct 2009	5710	
+CPU		AMD	A4-3400 APU	671	22.5	616	http://cpu.userbenchmark.com/SpeedTest/6076/AMD-A4-3400-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Celeron 1005M	672	22.5	557	http://cpu.userbenchmark.com/SpeedTest/5234/IntelR-CeleronR-CPU-1005M---190GHz												
+CPU		AMD	A6-5200 APU	673	22.4	2260	http://cpu.userbenchmark.com/SpeedTest/4574/AMD-A6-5200-APU-with-RadeonTM-HD-Graphics											430	
+CPU		AMD	Athlon II X2 220	674	22.4	1046	http://cpu.userbenchmark.com/SpeedTest/5455/AMD-Athlontm-II-X2-220-Processor	Athlon II X2 220	Regor	2 	AMD Socket AM3	45 nm	2800&nbsp;MHz	14.0x	128K / 512K / 0K	65W	Sep 2010		
+CPU		AMD	A8-7100 APU	675	22.4	259	http://cpu.userbenchmark.com/SpeedTest/20429/AMD-A8-7100-Radeon-R5-8-Compute-Cores-4C-4G												
+CPU		Intel	Core i5-4202Y	676	22.3	214	http://cpu.userbenchmark.com/SpeedTest/6438/IntelR-CoreTM-i5-4202Y-CPU---160GHz											4998	
+CPU		Intel	Pentium E6300	677	22.3	699	http://cpu.userbenchmark.com/SpeedTest/3310/PentiumR-Dual-Core--CPU------E6300----280GHz	Pentium E6300	Wolfdale	2 	Intel Socket 775	45 nm	2800&nbsp;MHz	10.5x	64K / 2048K / 0K	65W	May 2009		
+CPU		AMD	A8-3500M APU	678	22.1	371	http://cpu.userbenchmark.com/SpeedTest/5434/AMD-A8-3500M-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core2 Duo E7400	679	22.1	3450	http://cpu.userbenchmark.com/SpeedTest/2077/IntelR-CoreTM2-Duo-CPU-----E7400----280GHz												
+CPU		Intel	Pentium B940	680	22.1	767	http://cpu.userbenchmark.com/SpeedTest/2724/IntelR-PentiumR-CPU-B940---200GHz	Pentium B940	Sandy Bridge	2 	Intel Socket G2 (988B)	32 nm	2000&nbsp;MHz	20.0x	64K / 256K / 2048K	35W	Jun 2011	3409	
+CPU		AMD	Phenom 8450 Triple-Core	681	22	472	http://cpu.userbenchmark.com/SpeedTest/3789/AMD-Phenomtm-8450-Triple-Core-Processor												
+CPU		AMD	Athlon 7750	682	21.9	692	http://cpu.userbenchmark.com/SpeedTest/3774/AMD-Athlontm-7750-Dual-Core-Processor	Athlon X2 7750 BE	Kuma	2 	AMD Socket AM2+	65 nm	2700&nbsp;MHz	13.5x	128K / 512K / 2048K	95W	Dec 2008		
+CPU		Intel	Pentium J2900	683	21.9	686	http://cpu.userbenchmark.com/SpeedTest/12727/IntelR-PentiumR-CPU--J2900----241GHz											2698	
+CPU		AMD	Phenom II P940	684	21.8	34	http://cpu.userbenchmark.com/SpeedTest/12706/AMD-Phenomtm-II-P940-Quad-Core-Processor												
+CPU		AMD	Athlon 64 X2 Dual Core 5600+	685	21.7	1080	http://cpu.userbenchmark.com/SpeedTest/2183/AMD-Athlontm-64-X2-Dual-Core-Processor-5600-												
+CPU		Intel	Pentium P6200	686	21.7	1483	http://cpu.userbenchmark.com/SpeedTest/4539/IntelR-PentiumR-CPU--------P6200----213GHz	Pentium P6200	Arrandale	2 	Intel Socket G1	32 nm	2133&nbsp;MHz	16.0x	64K / 256K / 3072K	35W	Sep 2010	3900	
+CPU		Intel	Pentium E5500	687	21.6	1430	http://cpu.userbenchmark.com/SpeedTest/2012/PentiumR-Dual-Core--CPU------E5500----280GHz	Pentium E5500	Wolfdale	2 	Intel Socket 775	45 nm	2800&nbsp;MHz	14.0x	64K / 2048K / 0K	65W	Apr 2010	560	
+CPU		AMD	Athlon II X2 215	688	21.6	1027	http://cpu.userbenchmark.com/SpeedTest/885/AMD-Athlontm-II-X2-215-Processor	Athlon II X2 215	Regor	2 	AMD Socket AM3	45 nm	2700&nbsp;MHz	13.5x	128K / 512K / 0K	65W	Oct 2009		
+CPU		Intel	Core2 Duo T9600	689	21.5	1230	http://cpu.userbenchmark.com/SpeedTest/1795/IntelR-CoreTM2-Duo-CPU-----T9600----280GHz												
+CPU		Intel	Core2 Duo E8200	690	21.5	1274	http://cpu.userbenchmark.com/SpeedTest/3200/IntelR-CoreTM2-Duo-CPU-----E8200----266GHz												
+CPU		Intel	Pentium 2127U	691	21.4	279	http://cpu.userbenchmark.com/SpeedTest/3354/IntelR-PentiumR-CPU-2127U---190GHz												
+CPU		Intel	Xeon E5335	692	21.4	45	http://cpu.userbenchmark.com/SpeedTest/24658/IntelR-XeonR-CPU-----------E5335----200GHz												
+CPU		AMD	Athlon 64 X2 Dual Core 5400+	693	21.4	278	http://cpu.userbenchmark.com/SpeedTest/4069/AMD-Athlontm-64-X2-Dual-Core-Processor-5400-												
+CPU		Intel	Celeron 1037U	694	21.3	464	http://cpu.userbenchmark.com/SpeedTest/3597/IntelR-CeleronR-CPU-1037U---180GHz	Celeron 1037U	Ivy Bridge	2 	Intel BGA1023	22 nm	1800&nbsp;MHz	18.0x	64K / 256K / 2048K	17W	Jan 2013	3498	
+CPU		Intel	Core2 Duo T9500	695	21.3	300	http://cpu.userbenchmark.com/SpeedTest/4254/IntelR-CoreTM2-Duo-CPU-----T9500----260GHz												
+CPU		AMD	Phenom II N830	696	21.2	198	http://cpu.userbenchmark.com/SpeedTest/690/AMD-Phenomtm-II-N830-Triple-Core-Processor												
+CPU		Intel	Core2 Duo P8800	697	21.1	268	http://cpu.userbenchmark.com/SpeedTest/2429/IntelR-CoreTM2-Duo-CPU-----P8800----266GHz												
+CPU		Intel	Core2 Duo E6850	698	21.1	1318	http://cpu.userbenchmark.com/SpeedTest/681/IntelR-CoreTM2-Duo-CPU-----E6850----300GHz												
+CPU		Intel	Celeron 1000M	699	21	608	http://cpu.userbenchmark.com/SpeedTest/5059/IntelR-CeleronR-CPU-1000M---180GHz	Celeron 1000M	Ivy Bridge	2 	Intel Socket G2 (988B)	22 nm	1800&nbsp;MHz	18.0x	64K / 256K / 2048K	35W	Jan 2013	2780	
+CPU		Intel	Core2 Duo E7300	700	21	1862	http://cpu.userbenchmark.com/SpeedTest/2080/IntelR-CoreTM2-Duo-CPU-----E7300----266GHz											5399	
+CPU		Intel	Pentium E5400	701	21	2861	http://cpu.userbenchmark.com/SpeedTest/4475/PentiumR-Dual-Core--CPU------E5400----270GHz	Pentium E5400	Wolfdale	2 	Intel Socket 775	45 nm	2700&nbsp;MHz	13.5x	64K / 2048K / 0K	65W	Jan 2009	499	
+CPU		Intel	Core i5-2537M	702	21	144	http://cpu.userbenchmark.com/SpeedTest/3186/IntelR-CoreTM-i5-2537M-CPU---140GHz	Core i5-2537M	Sandy Bridge	2  / 4	Intel BGA1023	32 nm	1400&nbsp;MHz	14.0x	64K / 256K / 3072K	17W	Feb 2011	14580	
+CPU		Intel	Pentium D 3.73GHz	703	21	21	http://cpu.userbenchmark.com/SpeedTest/10162/IntelR-PentiumR-D-CPU-373GHz												
+CPU		Intel	Core2 Duo T9550	704	20.9	422	http://cpu.userbenchmark.com/SpeedTest/6301/IntelR-CoreTM2-Duo-CPU-----T9550----266GHz												
+CPU		Intel	Xeon E5320	705	20.9	37	http://cpu.userbenchmark.com/SpeedTest/24377/IntelR-XeonR-CPU-----------E5320----186GHz												
+CPU		AMD	A4-3300 APU	706	20.8	506	http://cpu.userbenchmark.com/SpeedTest/4728/AMD-A4-3300-APU-with-Radeontm-HD-Graphics											1700	
+CPU		Intel	Core2 X6800	707	20.8	107	http://cpu.userbenchmark.com/SpeedTest/8640/IntelR-CoreTM2-CPU---------X6800----293GHz												
+CPU		Intel	Pentium 2117U	708	20.7	963	http://cpu.userbenchmark.com/SpeedTest/6356/IntelR-PentiumR-CPU-2117U---180GHz	Pentium 2117U	Ivy Bridge	2 	Intel BGA1023	22 nm	1800&nbsp;MHz	18.0x	64K / 256K / 2048K	17W	Sep 2012	3399	
+CPU		Intel	Core i3-4012Y	709	20.7	139	http://cpu.userbenchmark.com/SpeedTest/12259/IntelR-CoreTM-i3-4012Y-CPU---150GHz											4498	
+CPU		Intel	Pentium N3710	710	20.7	1295	http://cpu.userbenchmark.com/SpeedTest/141841/IntelR-PentiumR-CPU--N3710----160GHz											2599	
+CPU		Intel	Pentium P6100	711	20.6	1298	http://cpu.userbenchmark.com/SpeedTest/756/IntelR-PentiumR-CPU--------P6100----200GHz	Pentium P6100	Arrandale	2 	Intel Socket G1	32 nm	2000&nbsp;MHz	15.0x	64K / 256K / 3072K	35W	Sep 2010	3480	
+CPU		Intel	Celeron E3400	712	20.5	770	http://cpu.userbenchmark.com/SpeedTest/5119/IntelR-CeleronR-CPU--------E3400----260GHz	Celeron E3400	Wolfdale	2 	Intel Socket 775	45 nm	2600&nbsp;MHz	13.0x	64K / 1024K / 0K	65W	Jan 2010	600	
+CPU		Intel	Atom x7-Z8700	713	20.5	536	http://cpu.userbenchmark.com/SpeedTest/27122/IntelR-AtomTM-x7-Z8700--CPU---160GHz											2160	
+CPU		AMD	A6-3400M APU	714	20.5	900	http://cpu.userbenchmark.com/SpeedTest/491/AMD-A6-3400M-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Pentium N3530	715	20.5	1149	http://cpu.userbenchmark.com/SpeedTest/11468/IntelR-PentiumR-CPU--N3530----216GHz											3809	
+CPU		AMD	Athlon 64 X2 Dual Core 5200+	716	20.4	1526	http://cpu.userbenchmark.com/SpeedTest/1721/AMD-Athlontm-64-X2-Dual-Core-Processor-5200-												
+CPU		Intel	Core2 Duo P9600	717	20.2	164	http://cpu.userbenchmark.com/SpeedTest/8493/IntelR-CoreTM2-Duo-CPU-----P9600----266GHz												
+CPU		Intel	Pentium E5300	718	20.2	3566	http://cpu.userbenchmark.com/SpeedTest/38/PentiumR-Dual-Core--CPU------E5300----260GHz	Pentium E5300	Wolfdale	2 	Intel Socket 775	45 nm	2600&nbsp;MHz	13.0x	64K / 2048K / 0K	65W	Nov 2008	460	
+CPU		Intel	Core2 Duo E7200	719	20.2	1558	http://cpu.userbenchmark.com/SpeedTest/1876/IntelR-CoreTM2-Duo-CPU-----E7200----253GHz												
+CPU		Intel	Celeron J1900	720	20.1	1106	http://cpu.userbenchmark.com/SpeedTest/10898/IntelR-CeleronR-CPU--J1900----199GHz											699	
+CPU		AMD	A4-6210 APU R3 Graphics	721	20	1039	http://cpu.userbenchmark.com/SpeedTest/12438/AMD-A4-6210-APU-with-AMD-Radeon-R3-Graphics												
+CPU		Intel	Core2 Duo P9500	722	19.9	119	http://cpu.userbenchmark.com/SpeedTest/5851/IntelR-CoreTM2-Duo-CPU-----P9500----253GHz												
+CPU		AMD	Turion II Ultra Mobile M600	723	19.9	82	http://cpu.userbenchmark.com/SpeedTest/5449/AMD-Turiontm-II-Ultra-Dual-Core-Mobile-M600												
+CPU		AMD	Athlon 64 X2 Dual Core 5000+	724	19.9	1753	http://cpu.userbenchmark.com/SpeedTest/2324/AMD-Athlontm-64-X2-Dual-Core-Processor-5000-												
+CPU		Intel	Core2 Duo T9400	725	19.8	945	http://cpu.userbenchmark.com/SpeedTest/3645/IntelR-CoreTM2-Duo-CPU-----T9400----253GHz												
+CPU		Intel	Celeron 3205U	726	19.8	118	http://cpu.userbenchmark.com/SpeedTest/28911/IntelR-CeleronR-3205U---150GHz	Celeron 3205U	Broadwell-U	2 		14 nm	1500&nbsp;MHz	15.0x	64K / 256K / 2048K	15W	Mar 2015	1690	
+CPU		Intel	Celeron B830	727	19.7	611	http://cpu.userbenchmark.com/SpeedTest/8441/IntelR-CeleronR-CPU-B830---180GHz	Celeron B830	Sandy Bridge	2 	Intel Socket G2 (988B)	32 nm	1800&nbsp;MHz	18.0x	64K / 256K / 2048K	35W	Sep 2012		
+CPU		Intel	Celeron E3300	728	19.7	544	http://cpu.userbenchmark.com/SpeedTest/5787/IntelR-CeleronR-CPU--------E3300----250GHz	Celeron E3300	Wolfdale	2 	Intel Socket 775	45 nm	2500&nbsp;MHz	12.5x	64K / 1024K / 0K	65W	Aug 2009	350	
+CPU		Intel	Pentium N3700	729	19.7	2287	http://cpu.userbenchmark.com/SpeedTest/33474/IntelR-PentiumR-CPU--N3700----160GHz											2298	
+CPU		AMD	A6-4400M APU	730	19.5	1410	http://cpu.userbenchmark.com/SpeedTest/1745/AMD-A6-4400M-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Pentium N3520	731	19.5	468	http://cpu.userbenchmark.com/SpeedTest/7431/IntelR-PentiumR-CPU--N3520----216GHz											4009	
+CPU		Dual	Core AMD Opteron 180	732	19.5	47	http://cpu.userbenchmark.com/SpeedTest/3409/Dual-Core-AMD-Opterontm-Processor-180												
+CPU		Intel	Pentium E5200	733	19.4	3394	http://cpu.userbenchmark.com/SpeedTest/1599/PentiumR-Dual-Core--CPU------E5200----250GHz	Pentium E5200	Wolfdale	2 	Intel Socket 775	45 nm	2500&nbsp;MHz	12.5x	64K / 2048K / 0K	65W	Aug 2008	520	
+CPU		Intel	Core2 Duo T9300	734	19.4	1089	http://cpu.userbenchmark.com/SpeedTest/2444/IntelR-CoreTM2-Duo-CPU-----T9300----250GHz												
+CPU		Intel	Core2 Duo P8700	735	19.4	2173	http://cpu.userbenchmark.com/SpeedTest/581/IntelR-CoreTM2-Duo-CPU-----P8700----253GHz											6750	
+CPU		AMD	A8-4555M APU	736	19.4	528	http://cpu.userbenchmark.com/SpeedTest/3647/AMD-A8-4555M-APU-with-Radeontm-HD-Graphics												
+CPU		AMD	Athlon Dual Core 4850e	737	19.3	211	http://cpu.userbenchmark.com/SpeedTest/3970/AMD-Athlontm-Dual-Core-Processor-4850e												
+CPU		Intel	Core i3-2375M	738	19.3	250	http://cpu.userbenchmark.com/SpeedTest/5058/IntelR-CoreTM-i3-2375M-CPU---150GHz											3880	
+CPU		Intel	Core2 Duo P9400	739	19.3	238	http://cpu.userbenchmark.com/SpeedTest/5017/IntelR-CoreTM2-Duo-CPU-----P9400----240GHz												
+CPU		Intel	Atom Z3770	740	19.2	100	http://cpu.userbenchmark.com/SpeedTest/5592/IntelR-AtomTM-CPU--Z3770----146GHz	Atom Z3770	Bay Trail-T	4 	Intel BGA1380	22 nm	1467&nbsp;MHz	11.0x	64K / 512K / 0K	8W	Sep 2013	6999	
+CPU		AMD	Athlon 64 X2 Dual Core 4800+	741	19.1	722	http://cpu.userbenchmark.com/SpeedTest/2246/AMD-Athlontm-64-X2-Dual-Core-Processor-4800-												
+CPU		Intel	Atom Z3775	742	19.1	376	http://cpu.userbenchmark.com/SpeedTest/12464/IntelR-AtomTM-CPU--Z3775----146GHz											3998	
+CPU		Intel	Celeron E3200	743	19	221	http://cpu.userbenchmark.com/SpeedTest/6422/IntelR-CeleronR-CPU--------E3200----240GHz	Celeron E3200	Wolfdale	2 	Intel Socket 775	45 nm	2400&nbsp;MHz	12.0x	64K / 1024K / 0K	65W	Aug 2009		
+CPU		Intel	Core2 Duo T8300	744	18.8	798	http://cpu.userbenchmark.com/SpeedTest/1921/IntelR-CoreTM2-Duo-CPU-----T8300----240GHz											9980	
+CPU		Intel	Xeon E5310	745	18.7	10	http://cpu.userbenchmark.com/SpeedTest/21579/IntelR-XeonR-CPU-----------E5310----160GHz												
+CPU		Intel	Core2 6700	746	18.6	711	http://cpu.userbenchmark.com/SpeedTest/3850/IntelR-CoreTM2-CPU----------6700----266GHz												
+CPU		AMD	A4-4300M APU	747	18.6	419	http://cpu.userbenchmark.com/SpeedTest/2001/AMD-A4-4300M-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Celeron B820	748	18.6	592	http://cpu.userbenchmark.com/SpeedTest/7064/IntelR-CeleronR-CPU-B820---170GHz	Celeron B820	Sandy Bridge	2 	Intel Socket G2 (988B)	32 nm	1700&nbsp;MHz	17.0x	64K / 256K / 2048K	35W	Jul 2012		
+CPU		AMD	Athlon 64 X2 Dual Core 4600+	749	18.6	688	http://cpu.userbenchmark.com/SpeedTest/8715/AMD-Athlontm-64-X2-Dual-Core-Processor-4600-												
+CPU		Intel	Core2 Duo P8600	750	18.6	2599	http://cpu.userbenchmark.com/SpeedTest/753/IntelR-CoreTM2-Duo-CPU-----P8600----240GHz												
+CPU		AMD	Athlon II P360	751	18.5	343	http://cpu.userbenchmark.com/SpeedTest/3956/AMD-Athlontm-II-P360-Dual-Core-Processor											4086	
+CPU		Intel	Celeron 1017U	752	18.4	316	http://cpu.userbenchmark.com/SpeedTest/3839/IntelR-CeleronR-CPU-1017U---160GHz											2880	
+CPU		Intel	Core2 Duo E6750	753	18.3	2724	http://cpu.userbenchmark.com/SpeedTest/729/IntelR-CoreTM2-Duo-CPU-----E6750----266GHz												
+CPU		Intel	Core i3-2367M	754	18.2	556	http://cpu.userbenchmark.com/SpeedTest/526/IntelR-CoreTM-i3-2367M-CPU---140GHz	Core i3-2367M	Sandy Bridge	2  / 4	Intel BGA1023	32 nm	1400&nbsp;MHz	14.0x	64K / 256K / 3072K	17W	Oct 2011	6350	
+CPU		Intel	Core2 Duo E4700	755	17.9	289	http://cpu.userbenchmark.com/SpeedTest/669/IntelR-CoreTM2-Duo-CPU-----E4700----260GHz												
+CPU		Intel	Celeron B815	756	17.9	520	http://cpu.userbenchmark.com/SpeedTest/3210/IntelR-CeleronR-CPU-B815---160GHz	Celeron B815	Sandy Bridge	2 	Intel Socket G2 (988B)	32 nm	1600&nbsp;MHz	16.0x	64K / 256K / 2048K	35W	Jan 2012	2990	
+CPU		Intel	Core2 Duo P7570	757	17.8	66	http://cpu.userbenchmark.com/SpeedTest/7581/IntelR-CoreTM2-Duo-CPU-----P7570----226GHz												
+CPU		AMD	A4-3330MX APU	758	17.8	165	http://cpu.userbenchmark.com/SpeedTest/6834/AMD-A4-3330MX-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core2 Duo P9300	759	17.7	89	http://cpu.userbenchmark.com/SpeedTest/602/IntelR-CoreTM2-Duo-CPU-----P9300----226GHz												
+CPU		Intel	Core i3-2365M	760	17.7	456	http://cpu.userbenchmark.com/SpeedTest/2519/IntelR-CoreTM-i3-2365M-CPU---140GHz											4060	
+CPU		Intel	Core2 Duo P8400	761	17.6	2039	http://cpu.userbenchmark.com/SpeedTest/307/IntelR-CoreTM2-Duo-CPU-----P8400----226GHz												
+CPU		AMD	Athlon II P340	762	17.6	580	http://cpu.userbenchmark.com/SpeedTest/380/AMD-Athlontm-II-P340-Dual-Core-Processor											4880	
+CPU		AMD	Turion II Neo N54L	763	17.6	67	http://cpu.userbenchmark.com/SpeedTest/7165/AMD-Turiontm-II-Neo-N54L-Dual-Core-Processor												
+CPU		Intel	Pentium T4500	764	17.5	1512	http://cpu.userbenchmark.com/SpeedTest/2148/PentiumR-Dual-Core-CPU-------T4500----230GHz	Pentium Dual-Core T4500	Penryn	2 	Intel Socket P	45 nm	2300&nbsp;MHz	11.5x	64K / 1024K / 0K	35W	Jan 2010	2995	
+CPU		Intel	Celeron N2930	765	17.5	444	http://cpu.userbenchmark.com/SpeedTest/13386/IntelR-CeleronR-CPU--N2930----183GHz	Celeron N2930	Bay Trail-M	4 	Intel BGA1170	22 nm	1830&nbsp;MHz	0.0x	56K / 512K / 0K	7W	Feb 2014	1850	
+CPU		Intel	Celeron 2957U	766	17.4	535	http://cpu.userbenchmark.com/SpeedTest/12071/IntelR-CeleronR-2957U---140GHz											1570	
+CPU		AMD	Athlon Dual Core 4450B	767	17.4	110	http://cpu.userbenchmark.com/SpeedTest/3166/AMD-Athlontm-Dual-Core-Processor-4450B												
+CPU		AMD	Athlon II P320	768	17.3	736	http://cpu.userbenchmark.com/SpeedTest/1942/AMD-Athlontm-II-P320-Dual-Core-Processor											4888	
+CPU		AMD	Athlon 64 X2 Dual Core 4400+	769	17.3	954	http://cpu.userbenchmark.com/SpeedTest/2330/AMD-Athlontm-64-X2-Dual-Core-Processor-4400-												
+CPU		Intel	Celeron N3150	770	17.3	678	http://cpu.userbenchmark.com/SpeedTest/28103/IntelR-CeleronR-CPU--N3150----160GHz											1990	
+CPU		Intel	Core2 Duo P7550	771	17.3	255	http://cpu.userbenchmark.com/SpeedTest/3099/IntelR-CoreTM2-Duo-CPU-----P7550----226GHz												
+CPU		Intel	Core i5 U 470	772	17.3	118	http://cpu.userbenchmark.com/SpeedTest/6244/IntelR-CoreTM-i5-CPU-------U-470----133GHz												
+CPU		AMD	Athlon X2 Dual Core BE-2400	773	17.3	29	http://cpu.userbenchmark.com/SpeedTest/10300/AMD-Athlontm-X2-Dual-Core-Processor-BE-2400												
+CPU		Intel	Celeron 1007U	774	17.2	1034	http://cpu.userbenchmark.com/SpeedTest/3995/IntelR-CeleronR-CPU-1007U---150GHz	Celeron 1007U	Ivy Bridge	2 	Intel BGA1023	22 nm	1500&nbsp;MHz	15.0x	64K / 256K / 2048K	17W	Jan 2013	1999	
+CPU		Dual-Core	AMD Opteron 1214	775	17.2	11	http://cpu.userbenchmark.com/SpeedTest/7078/Dual-Core-AMD-Opterontm-Processor-1214												
+CPU		AMD	Turion II Mobile M500	776	17.1	184	http://cpu.userbenchmark.com/SpeedTest/2912/AMD-Turiontm-II-Dual-Core-Mobile-M500												
+CPU		AMD	Athlon II M320	777	17.1	258	http://cpu.userbenchmark.com/SpeedTest/4506/AMD-Athlontm-II-Dual-Core-M320												
+CPU		Intel	Core2 Duo T6670	778	17	487	http://cpu.userbenchmark.com/SpeedTest/2964/IntelR-CoreTM2-Duo-CPU-----T6670----220GHz												
+CPU		Intel	Core2 Duo T7700	779	17	507	http://cpu.userbenchmark.com/SpeedTest/2770/IntelR-CoreTM2-Duo-CPU-----T7700----240GHz												
+CPU		AMD	A4-5000 APU	780	17	1859	http://cpu.userbenchmark.com/SpeedTest/5321/AMD-A4-5000-APU-with-RadeonTM-HD-Graphics											409	
+CPU		Intel	Celeron 887	781	17	142	http://cpu.userbenchmark.com/SpeedTest/24/IntelR-CeleronR-CPU-887---150GHz	Celeron 887	Sandy Bridge	2 	Intel BGA1023	32 nm	1500&nbsp;MHz	15.0x	64K / 256K / 2048K	17W	Sep 2012	2480	
+CPU		AMD	Athlon Dual Core 4450e	782	17	124	http://cpu.userbenchmark.com/SpeedTest/9437/AMD-Athlontm-Dual-Core-Processor-4450e												
+CPU		AMD	Athlon 64 X2 Dual Core 4200+	783	16.9	1235	http://cpu.userbenchmark.com/SpeedTest/3258/AMD-Athlontm-64-X2-Dual-Core-Processor-4200-												
+CPU		Intel	Core2 Duo L9600	784	16.9	52	http://cpu.userbenchmark.com/SpeedTest/1700/IntelR-CoreTM2-Duo-CPU-----L9600----213GHz												
+CPU		Intel	Pentium T4400	785	16.8	1690	http://cpu.userbenchmark.com/SpeedTest/1886/PentiumR-Dual-Core-CPU-------T4400----220GHz	Pentium Dual-Core T4400	Penryn	2 	Intel Socket P	45 nm	2200&nbsp;MHz	11.0x	64K / 1024K / 0K	35W	Dec 2009	3995	
+CPU		AMD	A4-3305M APU	786	16.8	353	http://cpu.userbenchmark.com/SpeedTest/6638/AMD-A4-3305M-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core2 Duo T6600	787	16.7	2093	http://cpu.userbenchmark.com/SpeedTest/242/IntelR-CoreTM2-Duo-CPU-----T6600----220GHz												
+CPU		Intel	Core2 Duo T8100	788	16.7	746	http://cpu.userbenchmark.com/SpeedTest/2334/IntelR-CoreTM2-Duo-CPU-----T8100----210GHz												
+CPU		Intel	Core2 6600	789	16.7	1878	http://cpu.userbenchmark.com/SpeedTest/984/IntelR-CoreTM2-CPU----------6600----240GHz												
+CPU		Intel	Core i3-2357M	790	16.6	55	http://cpu.userbenchmark.com/SpeedTest/6916/IntelR-CoreTM-i3-2357M-CPU---130GHz	Core i3-2357M	Sandy Bridge	2  / 4	Intel BGA1023	32 nm	1300&nbsp;MHz	13.0x	64K / 256K / 3072K	17W	Jun 2011	5010	
+CPU		Intel	Core2 Duo P7450	791	16.6	741	http://cpu.userbenchmark.com/SpeedTest/1597/IntelR-CoreTM2-Duo-CPU-----P7450----213GHz												
+CPU		Intel	Celeron B800	792	16.5	478	http://cpu.userbenchmark.com/SpeedTest/6775/IntelR-CeleronR-CPU-B800---150GHz	Celeron B800	Sandy Bridge	2 	Intel Socket G2 (988B)	32 nm	1500&nbsp;MHz	15.0x	64K / 256K / 2048K	35W	Jun 2011		
+CPU		Intel	Core2 Duo T6570	793	16.3	674	http://cpu.userbenchmark.com/SpeedTest/438/IntelR-CoreTM2-Duo-CPU-----T6570----210GHz												
+CPU		AMD	Opteron 4171 HE	794	16.3	21	http://cpu.userbenchmark.com/SpeedTest/5977/AMD-Opterontm-Processor-4171-HE												
+CPU		AMD	A4-3300M APU	795	16.2	447	http://cpu.userbenchmark.com/SpeedTest/12812/AMD-A4-3300M-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core2 Duo E4600	796	16.2	1645	http://cpu.userbenchmark.com/SpeedTest/2191/IntelR-CoreTM2-Duo-CPU-----E4600----240GHz												
+CPU		Intel	Celeron N2920	797	16.2	341	http://cpu.userbenchmark.com/SpeedTest/8725/IntelR-CeleronR-CPU--N2920----186GHz	Celeron N2920	Bay Trail-M	4 	Intel BGA1170	22 nm	1860&nbsp;MHz	0.0x	56K / 512K / 0K	7W	Dec 2013	3009	
+CPU		Intel	Core i3 U 380	798	16.1	159	http://cpu.userbenchmark.com/SpeedTest/8152/IntelR-CoreTM-i3-CPU-------U-380----133GHz												
+CPU		Intel	Core2 Duo T6500	799	16	850	http://cpu.userbenchmark.com/SpeedTest/3474/IntelR-CoreTM2-Duo-CPU-----T6500----210GHz											4880	
+CPU		Intel	Pentium 987	800	16	298	http://cpu.userbenchmark.com/SpeedTest/4947/IntelR-PentiumR-CPU-987---150GHz	Pentium 987	Sandy Bridge	2 	Intel BGA1023	32 nm	1500&nbsp;MHz	15.0x	64K / 256K / 2048K	17W	Feb 2013	3190	
+CPU		Intel	Celeron Dual Core T3300	801	16	136	http://cpu.userbenchmark.com/SpeedTest/8823/CeleronR-Dual-Core-CPU-------T3300----200GHz												
+CPU	BX80557E6550	Intel	Core2 Duo E6550	802	15.9	3008	http://cpu.userbenchmark.com/Intel-Core2-Duo-E6550/Rating/568												
+CPU		Intel	Pentium T4300	803	15.9	1529	http://cpu.userbenchmark.com/SpeedTest/2938/PentiumR-Dual-Core-CPU-------T4300----210GHz	Pentium Dual-Core T4300	Penryn	2 	Intel Socket P	45 nm	2100&nbsp;MHz	10.5x	64K / 1024K / 0K	35W	Apr 2009	3998	
+CPU		AMD	Athlon 64 X2 Dual Core 4000+	804	15.9	836	http://cpu.userbenchmark.com/SpeedTest/2436/AMD-Athlontm-64-X2-Dual-Core-Processor-4000-												
+CPU		Intel	Core2 T7600	805	15.9	213	http://cpu.userbenchmark.com/SpeedTest/2765/IntelR-CoreTM2-CPU---------T7600----233GHz												
+CPU		AMD	AthlonX2 DualCore QL-66	806	15.8	35	http://cpu.userbenchmark.com/SpeedTest/7383/AMD-AthlontmX2-DualCore-QL-66												
+CPU		AMD	Athlon II M300	807	15.8	385	http://cpu.userbenchmark.com/SpeedTest/5992/AMD-Athlontm-II-Dual-Core-M300												
+CPU		Intel	Atom Z3740	808	15.6	581	http://cpu.userbenchmark.com/SpeedTest/3256/IntelR-AtomTM-CPU--Z3740----133GHz	Atom Z3740	Bay Trail-T	4 	Intel BGA1380	22 nm	1333&nbsp;MHz	10.0x	64K / 512K / 0K	2W	Sep 2013	4098	
+CPU		Intel	Core2 Duo P7350	809	15.6	704	http://cpu.userbenchmark.com/SpeedTest/1998/IntelR-CoreTM2-Duo-CPU-----P7350----200GHz												
+CPU		Intel	Celeron 877	810	15.3	160	http://cpu.userbenchmark.com/SpeedTest/6414/IntelR-CeleronR-CPU-877---140GHz	Celeron 877	Sandy Bridge	2 	Intel BGA1023	32 nm	1400&nbsp;MHz	14.0x	64K / 256K / 2048K	17W	Jul 2012		
+CPU		Intel	Core2 Duo T6400	811	15.2	1294	http://cpu.userbenchmark.com/SpeedTest/2405/IntelR-CoreTM2-Duo-CPU-----T6400----200GHz											4999	
+CPU		Intel	Pentium T4200	812	15.2	1348	http://cpu.userbenchmark.com/SpeedTest/451/PentiumR-Dual-Core-CPU-------T4200----200GHz	Pentium Dual-Core T4200	Penryn	2 	Intel Socket P	45 nm	2000&nbsp;MHz	10.0x	64K / 1024K / 0K	35W	Jan 2009	4599	
+CPU		Intel	Pentium D 3.40GHz	813	15.2	1114	http://cpu.userbenchmark.com/SpeedTest/5820/IntelR-PentiumR-D-CPU-340GHz												
+CPU		AMD	Sempron 145	814	15.2	615	http://cpu.userbenchmark.com/SpeedTest/6487/AMD-Semprontm-145-Processor	Sempron 145	Sargas	1 	AMD Socket AM3	45 nm	2800&nbsp;MHz	14.0x	128K / 1024K / 0K	45W	Sep 2010	279	
+CPU		Intel	Core2 6420	815	15.1	634	http://cpu.userbenchmark.com/SpeedTest/1967/IntelR-CoreTM2-CPU----------6420----213GHz												
+CPU		AMD	Athlon X2 Dual Core BE-2300	816	15.1	15	http://cpu.userbenchmark.com/SpeedTest/12410/AMD-Athlontm-X2-Dual-Core-Processor-BE-2300												
+CPU		Intel	Core2 Duo E4500	817	15.1	2344	http://cpu.userbenchmark.com/SpeedTest/65/IntelR-CoreTM2-Duo-CPU-----E4500----220GHz												
+CPU		AMD	Athlon 64 X2 Dual Core 3800+	818	15.1	970	http://cpu.userbenchmark.com/SpeedTest/2362/AMD-Athlontm-64-X2-Dual-Core-Processor-3800-												
+CPU		Intel	Pentium Dual E2200	819	15	2058	http://cpu.userbenchmark.com/SpeedTest/1712/IntelR-PentiumR-Dual--CPU--E2200----220GHz	Pentium Dual-Core E2200	Allendale	2 	Intel Socket 775	65 nm	2200&nbsp;MHz	11.0x	64K / 1024K / 0K	65W	Dec 2007	3500	
+CPU		AMD	A6-4455M APU	820	14.9	453	http://cpu.userbenchmark.com/SpeedTest/5941/AMD-A6-4455M-APU-with-Radeontm-HD-Graphics											6598	
+CPU		AMD	Turion X2 Ultra Mobile ZM-82	821	14.9	72	http://cpu.userbenchmark.com/SpeedTest/2211/AMD-Turiontm-X2-Ultra-Dual-Core-Mobile-ZM-82												
+CPU		Intel	Core2 Duo L9400	822	14.9	267	http://cpu.userbenchmark.com/SpeedTest/5525/IntelR-CoreTM2-Duo-CPU-----L9400----186GHz												
+CPU		Intel	Core i3 U 330	823	14.9	97	http://cpu.userbenchmark.com/SpeedTest/1602/IntelR-CoreTM-i3-CPU-------U-330----120GHz												
+CPU		AMD	Athlon X2 Dual-Core QL-65	824	14.9	145	http://cpu.userbenchmark.com/SpeedTest/4672/AMD-Athlontm-X2-Dual-Core-QL-65												
+CPU		AMD	Athlon 64 X2 Dual Core 3600+	825	14.9	227	http://cpu.userbenchmark.com/SpeedTest/5235/AMD-Athlontm-64-X2-Dual-Core-Processor-3600-												
+CPU		AMD	E2-3000M APU	826	14.8	207	http://cpu.userbenchmark.com/SpeedTest/6063/AMD-E2-3000M-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Celeron Dual Core T3100	827	14.8	226	http://cpu.userbenchmark.com/SpeedTest/1715/CeleronR-Dual-Core-CPU-------T3100----190GHz												
+CPU		AMD	Turion 64 X2 Mobile Technology TL-60	828	14.8	355	http://cpu.userbenchmark.com/SpeedTest/2315/AMD-Turiontm-64-X2-Mobile-Technology-TL-60												
+CPU		Intel	Core2 6400	829	14.7	1680	http://cpu.userbenchmark.com/SpeedTest/106/IntelR-CoreTM2-CPU----------6400----213GHz												
+CPU		Intel	Core2 Duo T5900	830	14.7	83	http://cpu.userbenchmark.com/SpeedTest/2376/IntelR-CoreTM2-Duo-CPU-----T5900----220GHz												
+CPU		Intel	Pentium 4 3.80GHz	831	14.6	64	http://cpu.userbenchmark.com/SpeedTest/11003/--------------IntelR-PentiumR-4-CPU-380GHz												
+CPU		AMD	Sempron 140	832	14.6	532	http://cpu.userbenchmark.com/SpeedTest/3248/AMD-Semprontm-140-Processor	Sempron 140	Sargas	1 	AMD Socket AM3	45 nm	2700&nbsp;MHz	13.5x	128K / 1024K / 0K	45W	Jul 2009		
+CPU		Intel	Core2 Duo T7500	833	14.6	1250	http://cpu.userbenchmark.com/SpeedTest/867/IntelR-CoreTM2-Duo-CPU-----T7500----220GHz												
+CPU		Intel	Pentium 967	834	14.5	70	http://cpu.userbenchmark.com/SpeedTest/4152/IntelR-PentiumR-CPU-967---130GHz	Pentium 967	Sandy Bridge	2 	Intel BGA1023	32 nm	1300&nbsp;MHz	13.0x	64K / 256K / 2048K	17W	Oct 2011		
+CPU		Intel	Atom Z3740D	835	14.5	126	http://cpu.userbenchmark.com/SpeedTest/3287/IntelR-AtomTM-CPU--Z3740D---133GHz											2450	
+CPU		Intel	Celeron E1500	836	14.4	69	http://cpu.userbenchmark.com/SpeedTest/8605/IntelR-CeleronR-CPU--------E1500----220GHz	Celeron E1500	Allendale	2 	Intel Socket 775	65 nm	2200&nbsp;MHz	11.0x	64K / 512K / 0K	65W	Nov 2008		
+CPU		AMD	Turion X2 Dual-Core Mobile RM-70	837	14.4	164	http://cpu.userbenchmark.com/SpeedTest/199/AMD-Turiontm-X2-Dual-Core-Mobile-RM-70												
+CPU		Intel	Pentium D 3.20GHz	838	14.4	331	http://cpu.userbenchmark.com/SpeedTest/1730/--------------IntelR-PentiumR-D-CPU-320GHz												
+CPU		AMD	Athlon X2 Dual-Core QL-64	839	14.3	145	http://cpu.userbenchmark.com/SpeedTest/3720/AMD-Athlontm-X2-Dual-Core-QL-64												
+CPU		Intel	Pentium Dual T3400	840	14.2	688	http://cpu.userbenchmark.com/SpeedTest/5174/IntelR-PentiumR-Dual--CPU--T3400----216GHz												
+CPU		Intel	Core2 Duo T5850	841	14.2	124	http://cpu.userbenchmark.com/SpeedTest/6522/IntelR-CoreTM2-Duo-CPU-----T5850----216GHz												
+CPU		AMD	Turion 64 X2 Mobile Technology TL-58	842	14.2	183	http://cpu.userbenchmark.com/SpeedTest/817/AMD-Turiontm-64-X2-Mobile-Technology-TL-58												
+CPU		Intel	Core2 T7400	843	14.1	175	http://cpu.userbenchmark.com/SpeedTest/5780/IntelR-CoreTM2-CPU---------T7400----216GHz												
+CPU		Intel	Core2 4400	844	14	574	http://cpu.userbenchmark.com/SpeedTest/5093/IntelR-CoreTM2-CPU----------4400----200GHz												
+CPU		AMD	AthlonX2 DualCore QL-60	845	13.9	11	http://cpu.userbenchmark.com/SpeedTest/6294/AMD-AthlontmX2-DualCore-QL-60												
+CPU		Intel	Core2 Duo E4400	846	13.7	378	http://cpu.userbenchmark.com/SpeedTest/3549/IntelR-CoreTM2-Duo-CPU-----E4400----200GHz												
+CPU		Intel	Celeron E1400	847	13.7	106	http://cpu.userbenchmark.com/SpeedTest/2849/IntelR-CeleronR-CPU--------E1400----200GHz	Celeron E1400	Allendale	2 	Intel Socket 775	65 nm	2000&nbsp;MHz	10.0x	64K / 512K / 0K	65W	Apr 2008		
+CPU		AMD	Athlon 64 4000+	848	13.6	24	http://cpu.userbenchmark.com/SpeedTest/10241/AMD-Athlontm-64-Processor-4000-	Athlon 64 4000+	Orleans	1 	AMD Socket AM2	90 nm	2600&nbsp;MHz	13.0x	128K / 512K / 0K	62W	Feb 2007		
+CPU		AMD	Athlon LE-1640	849	13.5	134	http://cpu.userbenchmark.com/SpeedTest/7308/AMD-Athlontm-Processor-LE-1640	Athlon 64 LE-1640	Lima	1 	AMD Socket AM2	65 nm	2700&nbsp;MHz	13.5x	128K / 512K / 0K	45W	Apr 2008		
+CPU		Intel	Core2 Duo T5870	850	13.5	463	http://cpu.userbenchmark.com/SpeedTest/5377/IntelR-CoreTM2-Duo-CPU-----T5870----200GHz												
+CPU		Intel	Core2 Duo T7300	851	13.5	910	http://cpu.userbenchmark.com/SpeedTest/2508/IntelR-CoreTM2-Duo-CPU-----T7300----200GHz												
+CPU		AMD	Athlon 64 X2 Dual Core TK-55	852	13.4	129	http://cpu.userbenchmark.com/SpeedTest/1927/AMD-Athlontm-64-X2-Dual-Core-Processor-TK-55												
+CPU		AMD	A4-4355M APU	853	13.3	103	http://cpu.userbenchmark.com/SpeedTest/10814/AMD-A4-4355M-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Core2 Duo U9600	854	13.3	137	http://cpu.userbenchmark.com/SpeedTest/4270/IntelR-CoreTM2-Duo-CPU-----U9600----160GHz												
+CPU		Intel	Core2 Duo L9300	855	13.3	57	http://cpu.userbenchmark.com/SpeedTest/5639/IntelR-CoreTM2-Duo-CPU-----L9300----160GHz												
+CPU		AMD	Turion 64 X2 Mobile Technology TL-56	856	13.2	123	http://cpu.userbenchmark.com/SpeedTest/2456/AMD-Turiontm-64-X2-Mobile-Technology-TL-56												
+CPU		Intel	Core2 Duo T7250	857	13.2	956	http://cpu.userbenchmark.com/SpeedTest/1781/IntelR-CoreTM2-Duo-CPU-----T7250----200GHz												
+CPU		Intel	Pentium Dual E2180	858	13.2	1769	http://cpu.userbenchmark.com/SpeedTest/814/IntelR-PentiumR-Dual--CPU--E2180----200GHz	Pentium Dual-Core E2180	Allendale	2 	Intel Socket 775	65 nm	2000&nbsp;MHz	10.0x	64K / 1024K / 0K	65W	Aug 2007		
+CPU		Intel	Core2 T7200	859	13.2	782	http://cpu.userbenchmark.com/SpeedTest/248/IntelR-CoreTM2-CPU---------T7200----200GHz												
+CPU		Intel	Pentium Dual T3200	860	13.2	634	http://cpu.userbenchmark.com/SpeedTest/2235/IntelR-PentiumR-Dual--CPU--T3200----200GHz												
+CPU		Intel	Core2 Duo T5750	861	13.1	532	http://cpu.userbenchmark.com/SpeedTest/6581/IntelR-CoreTM2-Duo-CPU-----T5750----200GHz												
+CPU		Intel	Core2 Duo T5800	862	13.1	889	http://cpu.userbenchmark.com/SpeedTest/2272/IntelR-CoreTM2-Duo-CPU-----T5800----200GHz												
+CPU		Intel	Core2 6320	863	13	421	http://cpu.userbenchmark.com/SpeedTest/4501/IntelR-CoreTM2-CPU----------6320----186GHz												
+CPU		Intel	Core2 6300	864	12.9	1803	http://cpu.userbenchmark.com/SpeedTest/2521/IntelR-CoreTM2-CPU----------6300----186GHz												
+CPU		Intel	Pentium D 3.00GHz	865	12.8	1365	http://cpu.userbenchmark.com/SpeedTest/3363/IntelR-PentiumR-D-CPU-300GHz												
+CPU		Intel	2160	866	12.8	231	http://cpu.userbenchmark.com/SpeedTest/1800/Genuine-IntelR-CPU------------2160----180GHz	Pentium Dual-Core E2160	Allendale	2 	Intel Socket 775	65 nm	1800&nbsp;MHz	9.0x	64K / 1024K / 0K	65W	Jun 2007	7888	
+CPU		Intel	Core2 4300	867	12.8	741	http://cpu.userbenchmark.com/SpeedTest/977/IntelR-CoreTM2-CPU----------4300----180GHz												
+CPU		Intel	Celeron N2840	868	12.7	4679	http://cpu.userbenchmark.com/SpeedTest/16086/IntelR-CeleronR-CPU--N2840----216GHz	Celeron N2840	Bay Trail-M	2 	Intel BGA1170	22 nm	2160&nbsp;MHz	0.0x	56K / 512K / 0K	7W	May 2014	1880	
+CPU		Intel	Core2 Duo T5670	869	12.6	215	http://cpu.userbenchmark.com/SpeedTest/3564/IntelR-CoreTM2-Duo-CPU-----T5670----180GHz											5800	
+CPU		AMD	Athlon 64 X2 Dual Core TK-53	870	12.4	61	http://cpu.userbenchmark.com/SpeedTest/9182/AMD-Athlontm-64-X2-Dual-Core-Processor-TK-53												
+CPU		Intel	Pentium Dual E2160	871	12.4	1270	http://cpu.userbenchmark.com/SpeedTest/2113/IntelR-PentiumR-Dual--CPU--E2160----180GHz	Pentium Dual-Core E2160	Allendale	2 	Intel Socket 775	65 nm	1800&nbsp;MHz	9.0x	64K / 1024K / 0K	65W	Jun 2007	3500	
+CPU		Intel	Core2 Duo T7100	872	12.4	426	http://cpu.userbenchmark.com/SpeedTest/2268/IntelR-CoreTM2-Duo-CPU-----T7100----180GHz												
+CPU		AMD	V140	873	12.3	172	http://cpu.userbenchmark.com/SpeedTest/1003/AMD-V140-Processor											15150	
+CPU		AMD	V120	874	12.2	127	http://cpu.userbenchmark.com/SpeedTest/5365/AMD-V120-Processor											549	
+CPU		Intel	Core2 T5600	875	12.2	357	http://cpu.userbenchmark.com/SpeedTest/6306/IntelR-CoreTM2-CPU---------T5600----183GHz												
+CPU		AMD	Athlon 64 3800+	876	12.2	88	http://cpu.userbenchmark.com/SpeedTest/2391/AMD-Athlontm-64-Processor-3800-	Athlon 64 3800+	Windsor	1 	AMD Socket AM2	90 nm	2400&nbsp;MHz	12.0x	128K / 512K / 0K	62W	Feb 2007		
+CPU		Intel	Celeron N2820	877	12.2	418	http://cpu.userbenchmark.com/SpeedTest/5994/IntelR-CeleronR-CPU--N2820----213GHz	Celeron N2820	Bay Trail-M	2 	Intel BGA1170	22 nm	2170&nbsp;MHz	0.0x	56K / 512K / 0K	7W	Dec 2013	1538	
+CPU		AMD	Turion II Neo N40L	878	12.1	46	http://cpu.userbenchmark.com/SpeedTest/7/AMD-Turiontm-II-Neo-N40L-Dual-Core-Processor												
+CPU		Intel	Pentium Dual T2390	879	12.1	306	http://cpu.userbenchmark.com/SpeedTest/2090/IntelR-PentiumR-Dual--CPU--T2390----186GHz											8899	
+CPU		AMD	Athlon 64 3400+	880	12	22	http://cpu.userbenchmark.com/SpeedTest/1056/AMD-Athlontm-64-Processor-3400-	Athlon 64 3400+	Newark	1 	AMD Socket 754	130 nm	2200&nbsp;MHz	11.0x	128K / 1024K / 0K	83W	Apr 2005		
+CPU		Intel	Pentium 4 3.40GHz	881	12	402	http://cpu.userbenchmark.com/SpeedTest/293/--------------IntelR-PentiumR-4-CPU-340GHz												
+CPU		Intel	Celeron N2830	882	11.9	2094	http://cpu.userbenchmark.com/SpeedTest/12104/IntelR-CeleronR-CPU--N2830----216GHz	Celeron N2830	Bay Trail-M	2 	Intel BGA1170	22 nm	2160&nbsp;MHz	0.0x	56K / 512K / 0K	7W	Feb 2014	1800	
+CPU		AMD	Turion 64 X2 Mobile Technology TL-52	883	11.8	57	http://cpu.userbenchmark.com/SpeedTest/1892/AMD-Turiontm-64-X2-Mobile-Technology-TL-52												
+CPU		Intel	T2600	884	11.8	56	http://cpu.userbenchmark.com/SpeedTest/4124/Genuine-IntelR-CPU-----------T2600----216GHz	Core Duo T2600	Yonah	2 	Intel Socket 479	65 nm	2166&nbsp;MHz	13.0x	64K / 2048K / 0K	31W	Jan 2006		
+CPU		Intel	Core2 Duo T5550	885	11.8	385	http://cpu.userbenchmark.com/SpeedTest/1673/IntelR-CoreTM2-Duo-CPU-----T5550----183GHz												
+CPU		Intel	Celeron 847	886	11.8	731	http://cpu.userbenchmark.com/SpeedTest/457/IntelR-CeleronR-CPU-847---110GHz	Celeron 847	Sandy Bridge	2 	Intel BGA1023	32 nm	1100&nbsp;MHz	11.0x	64K / 256K / 2048K	17W	Jun 2011	2210	
+CPU		Intel	Pentium D 2.80GHz	887	11.6	1233	http://cpu.userbenchmark.com/SpeedTest/267/--------------IntelR-PentiumR-D-CPU-280GHz												
+CPU		Intel	Celeron U3400	888	11.6	29	http://cpu.userbenchmark.com/SpeedTest/5136/IntelR-CeleronR-CPU--------U3400----107GHz												
+CPU		Intel	Pentium Dual T2370	889	11.5	230	http://cpu.userbenchmark.com/SpeedTest/4795/IntelR-PentiumR-Dual--CPU--T2370----173GHz												
+CPU		Intel	Pentium D 2.66GHz	890	11.4	173	http://cpu.userbenchmark.com/SpeedTest/4781/-------------IntelR-PentiumR-D--CPU-266GHz												
+CPU		Intel	T2500	891	11.3	155	http://cpu.userbenchmark.com/SpeedTest/1958/Genuine-IntelR-CPU-----------T2500----200GHz	Core Duo T2500	Yonah	2 	Intel Socket 479	65 nm	1992&nbsp;MHz	12.0x	64K / 2048K / 0K	31W	Jan 2006		
+CPU		AMD	Athlon 64 3500+	892	11.3	212	http://cpu.userbenchmark.com/SpeedTest/2498/AMD-Athlontm-64-Processor-3500-	Athlon 64 3500+	Windsor	1 	AMD Socket AM2	90 nm	2200&nbsp;MHz	11.0x	128K / 512K / 0K	62W	Feb 2007		
+CPU		Intel	Core2 T5300	893	11.3	102	http://cpu.userbenchmark.com/SpeedTest/2288/IntelR-CoreTM2-CPU---------T5300----173GHz												
+CPU		Intel	Core2 T5500	894	11.3	540	http://cpu.userbenchmark.com/SpeedTest/2561/IntelR-CoreTM2-CPU---------T5500----166GHz												
+CPU		Intel	Core2 Duo U9400	895	11.3	222	http://cpu.userbenchmark.com/SpeedTest/12007/IntelR-CoreTM2-Duo-CPU-----U9400----140GHz												
+CPU		Intel	Celeron 900	896	11.2	751	http://cpu.userbenchmark.com/SpeedTest/4381/IntelR-CeleronR-CPU----------900----220GHz	Celeron G3900	Skylake	2 	Intel Socket 1151	14 nm	2800&nbsp;MHz	28.0x	64K / 256K / 4096K	51W	Sep 2015	2090	
+CPU		Intel	Pentium 4 3.06GHz	897	11.2	291	http://cpu.userbenchmark.com/SpeedTest/614/--------------IntelR-PentiumR-4-CPU-306GHz												
+CPU		AMD	Athlon Neo X2 Dual Core L335	898	11.2	72	http://cpu.userbenchmark.com/SpeedTest/4043/AMD-Athlontm-Neo-X2-Dual-Core-Processor-L335												
+CPU		Intel	2140	899	11.2	356	http://cpu.userbenchmark.com/SpeedTest/6453/Genuine-IntelR-CPU------------2140----160GHz	Pentium Dual-Core E2140	Allendale	2 	Intel Socket 775	65 nm	1600&nbsp;MHz	8.0x	64K / 1024K / 0K	65W	Jun 2007	680	
+CPU		Intel	Core2 Duo T5450	900	11.1	379	http://cpu.userbenchmark.com/SpeedTest/5075/IntelR-CoreTM2-Duo-CPU-----T5450----166GHz												
+CPU		Intel	Celeron N3050	901	11	2724	http://cpu.userbenchmark.com/SpeedTest/31154/IntelR-CeleronR-CPU--N3050----160GHz											1898	
+CPU		Intel	U7300	902	10.9	500	http://cpu.userbenchmark.com/SpeedTest/4246/Genuine-IntelR-CPU-----------U7300----130GHz												
+CPU		Intel	Pentium Dual E2140	903	10.9	619	http://cpu.userbenchmark.com/SpeedTest/4944/IntelR-PentiumR-Dual--CPU--E2140----160GHz	Pentium Dual-Core E2140	Allendale	2 	Intel Socket 775	65 nm	1600&nbsp;MHz	8.0x	64K / 1024K / 0K	65W	Jun 2007		
+CPU		Intel	Core2 T5200	904	10.8	103	http://cpu.userbenchmark.com/SpeedTest/11616/IntelR-CoreTM2-CPU---------T5200----160GHz												
+CPU		Intel	Core Duo T2350	905	10.7	74	http://cpu.userbenchmark.com/SpeedTest/3830/IntelR-CoreTM-Duo-CPU------T2350----186GHz												
+CPU		Intel	Core2 Duo L7500	906	10.7	80	http://cpu.userbenchmark.com/SpeedTest/6265/IntelR-CoreTM2-Duo-CPU-----L7500----160GHz												
+CPU		Intel	Celeron N2815	907	10.7	226	http://cpu.userbenchmark.com/SpeedTest/9736/IntelR-CeleronR-CPU--N2815----186GHz												
+CPU		Intel	Pentium 4 3.20GHz	908	10.7	1137	http://cpu.userbenchmark.com/SpeedTest/7095/--------------IntelR-PentiumR-4-CPU-320GHz												
+CPU		Intel	T2400	909	10.7	260	http://cpu.userbenchmark.com/SpeedTest/6584/Genuine-IntelR-CPU-----------T2400----183GHz	Core Duo T2400	Yonah	2 	Intel Socket 479	65 nm	1826&nbsp;MHz	11.0x	64K / 2048K / 0K	31W	Jan 2006	11488	
+CPU		Intel	Pentium Dual T2330	910	10.7	256	http://cpu.userbenchmark.com/SpeedTest/6733/IntelR-PentiumR-Dual--CPU--T2330----160GHz												
+CPU		Intel	Pentium 4 2.60GHz	911	10.6	45	http://cpu.userbenchmark.com/SpeedTest/5254/--------------IntelR-PentiumR-4-CPU-260GHz												
+CPU		AMD	E-350D APU	912	10.5	74	http://cpu.userbenchmark.com/SpeedTest/6589/AMD-E-350D-APU-with-Radeontm-HD-Graphics											1650	
+CPU		AMD	Athlon 64 3200+	913	10.5	372	http://cpu.userbenchmark.com/SpeedTest/7063/AMD-Athlontm-64-Processor-3200-	Athlon 64 3200+	Lima	1 	AMD Socket AM2	65 nm	2000&nbsp;MHz	10.0x	128K / 512K / 0K	45W	Feb 2007		
+CPU		Intel	U4100	914	10.4	306	http://cpu.userbenchmark.com/SpeedTest/10746/Genuine-IntelR-CPU-----------U4100----130GHz	Pentium SU4100	Penryn	2 	Intel BGA 956	45 nm	1300&nbsp;MHz	6.5x	64K / 2048K / 0K	10W	Sep 2009		
+CPU		AMD	Athlon 64 3000+	915	10.2	141	http://cpu.userbenchmark.com/SpeedTest/5460/AMD-Athlontm-64-Processor-3000-	Athlon 64 3000+	Orleans	1 	AMD Socket AM2	90 nm	1800&nbsp;MHz	9.0x	128K / 512K / 0K	62W	May 2006		
+CPU		Intel	T2080	916	10.2	159	http://cpu.userbenchmark.com/SpeedTest/4748/Genuine-IntelR-CPU-----------T2080----173GHz												
+CPU		Intel	Pentium 4 3.00GHz	917	10.2	2161	http://cpu.userbenchmark.com/SpeedTest/440/--------------IntelR-PentiumR-4-CPU-300GHz												
+CPU		AMD	E2-2000 APU	918	10.2	92	http://cpu.userbenchmark.com/SpeedTest/10908/AMD-E2-2000-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Pentium 4 2.80GHz	919	10.2	609	http://cpu.userbenchmark.com/SpeedTest/3163/--------------IntelR-PentiumR-4-CPU-280GHz												
+CPU		AMD	E2-1800 APU	920	10.1	1149	http://cpu.userbenchmark.com/SpeedTest/839/AMD-E2-1800-APU-with-Radeontm-HD-Graphics											1190	
+CPU		AMD	Turion 64 Mobile Technology ML-32	921	10	10	http://cpu.userbenchmark.com/SpeedTest/10530/AMD-Turiontm-64-Mobile-Technology-ML-32												
+CPU		AMD	Sempron 3600+	922	10	44	http://cpu.userbenchmark.com/SpeedTest/1005/Mobile-AMD-Semprontm-Processor-3600-	Sempron 3600+	Manila	1 	AMD Socket AM2	90 nm	2000&nbsp;MHz	10.0x	128K / 256K / 0K	62W	May 2006		
+CPU		Intel	T2250	923	9.98	165	http://cpu.userbenchmark.com/SpeedTest/5955/Genuine-IntelR-CPU-----------T2250----173GHz	Core Duo T2250	Yonah	2 	Intel Socket 479	65 nm	1733&nbsp;MHz	13.0x	64K / 2048K / 0K	31W	May 2006		
+CPU		Intel	Core2 Duo T5250	924	9.97	272	http://cpu.userbenchmark.com/SpeedTest/5189/IntelR-CoreTM2-Duo-CPU-----T5250----150GHz												
+CPU		Intel	T2300	925	9.95	316	http://cpu.userbenchmark.com/SpeedTest/2474/Genuine-IntelR-CPU-----------T2300----166GHz	Core Duo T2300	Yonah	2 	Intel Socket 479	65 nm	1660&nbsp;MHz	10.0x	64K / 2048K / 0K	31W	Jan 2006		
+CPU		Intel	U2300	926	9.85	104	http://cpu.userbenchmark.com/SpeedTest/2326/Genuine-IntelR-CPU-----------U2300----120GHz												
+CPU		Intel	Pentium Dual T2310	927	9.74	132	http://cpu.userbenchmark.com/SpeedTest/2719/IntelR-PentiumR-Dual--CPU--T2310----146GHz												
+CPU		Intel	Pentium 4 2.93GHz	928	9.71	51	http://cpu.userbenchmark.com/SpeedTest/4199/--------------IntelR-PentiumR-4-CPU-293GHz												
+CPU		AMD	Sempron 3400+	929	9.69	78	http://cpu.userbenchmark.com/SpeedTest/8329/AMD-Semprontm-Processor-3400-	Sempron 3400+	Manila	1 	AMD Socket AM2	90 nm	1800&nbsp;MHz	9.0x	128K / 256K / 0K	62W	May 2006	5480	
+CPU		AMD	E-450 APU	930	9.69	2060	http://cpu.userbenchmark.com/SpeedTest/2189/AMD-E-450-APU-with-Radeontm-HD-Graphics											4280	
+CPU		AMD	E-350	931	9.62	1420	http://cpu.userbenchmark.com/SpeedTest/5356/AMD-E-350-Processor	E-350	Zacate	2 	AMD Socket FT1	40 nm	1600&nbsp;MHz	16.0x	64K / 512K / 0K	18W	Jan 2011	96	
+CPU		AMD	E1-2500 APU	932	9.53	726	http://cpu.userbenchmark.com/SpeedTest/9778/AMD-E1-2500-APU-with-RadeonTM-HD-Graphics												
+CPU		Intel	Pentium 4 2.66GHz	933	9.47	127	http://cpu.userbenchmark.com/SpeedTest/4462/--------------IntelR-PentiumR-4-CPU-266GHz												
+CPU		Intel	Pentium 4 2.40GHz	934	9.39	161	http://cpu.userbenchmark.com/SpeedTest/5589/--------------IntelR-PentiumR-4-CPU-240GHz												
+CPU		Intel	Celeron 2.40GHz	935	9.23	15	http://cpu.userbenchmark.com/SpeedTest/708/----------------IntelR-CeleronR-CPU-240GHz												
+CPU		Intel	Celeron D 3.06GHz	936	9.06	98	http://cpu.userbenchmark.com/SpeedTest/13158/IntelR-CeleronR-D-CPU-306GHz												
+CPU		Intel	Celeron 2.53GHz	937	9.03	9	http://cpu.userbenchmark.com/SpeedTest/4852/----------------IntelR-CeleronR-CPU-253GHz												
+CPU		Intel	575	938	8.93	116	http://cpu.userbenchmark.com/SpeedTest/4105/Genuine-IntelR-CPU-------------575----200GHz	A10-5750M	Richland	4 	AMD Socket FS1r2	32 nm	2500&nbsp;MHz	25.0x	128K / 1024K / 0K	35W	Jun 2013	3399	
+CPU		AMD	Sempron 3000+	939	8.93	132	http://cpu.userbenchmark.com/SpeedTest/3648/AMD-Semprontm-Processor-3000-	Sempron 3000+	Manila	1 	AMD Socket AM2	90 nm	1600&nbsp;MHz	8.0x	128K / 256K / 0K	62W	May 2006		
+CPU		Intel	Core2 Duo L7100	940	8.51	42	http://cpu.userbenchmark.com/SpeedTest/5778/IntelR-CoreTM2-Duo-CPU-----L7100----120GHz												
+CPU		AMD	Athlon XP 2800+	941	8.49	9	http://cpu.userbenchmark.com/SpeedTest/1789/AMD-Athlontm-XP-2800-	Athlon XP 2800+	Thoroughbred	1 	AMD Socket A	130 nm	2250&nbsp;MHz	13.5x	128K / 256K / 0K	74W	Oct 2002		
+CPU		Intel	Atom D2700	942	8.41	58	http://cpu.userbenchmark.com/SpeedTest/7623/IntelR-AtomTM-CPU-D2700-----213GHz	Atom D2700	Cedarview	2  / 4	Intel BGA 437	32 nm	2133&nbsp;MHz	18.0x	64K / 512K / 0K	10W	Nov 2011	499	
+CPU		AMD	Sempron 2800+	943	8.35	88	http://cpu.userbenchmark.com/SpeedTest/4755/AMD-Semprontm-Processor-2800-	Sempron 2800+	Manila	1 	AMD Socket AM2	90 nm	1600&nbsp;MHz	8.0x	128K / 128K / 0K	62W	May 2006	279	
+CPU		AMD	E1-1200 APU	944	8.21	1303	http://cpu.userbenchmark.com/SpeedTest/2118/AMD-E1-1200-APU-with-Radeontm-HD-Graphics												
+CPU		AMD	Athlon 2650e	945	7.94	59	http://cpu.userbenchmark.com/SpeedTest/4742/AMD-Athlontm-Processor-2650e	Athlon 64 2650e	Lima	1 	AMD Socket AM2	65 nm	1600&nbsp;MHz	8.0x	128K / 512K / 0K	15W	Jan 2009		
+CPU		AMD	Athlon XP 2600+	946	7.91	6	http://cpu.userbenchmark.com/SpeedTest/6864/AMD-Athlontm-XP-2600-	Athlon XP 2600+	Thorton	1 	AMD Socket A	130 nm	2133&nbsp;MHz	16.0x	128K / 256K / 0K	68W	Sep 2003		
+CPU		Intel	Pentium M processor 1700MHz	947	7.87	3	http://cpu.userbenchmark.com/SpeedTest/7958/--------IntelR-PentiumR-M-processor-1700MHz												
+CPU		AMD	E-300 APU	948	7.71	1550	http://cpu.userbenchmark.com/SpeedTest/2468/AMD-E-300-APU-with-Radeontm-HD-Graphics												
+CPU		AMD	Athlon Neo MV-40	949	7.69	54	http://cpu.userbenchmark.com/SpeedTest/12003/AMD-Athlontm-Neo-Processor-MV-40											4980	
+CPU		Intel	Celeron 2.80GHz	950	7.57	23	http://cpu.userbenchmark.com/SpeedTest/8814/IntelR-CeleronR-CPU-280GHz											2609	
+CPU		Intel	Pentium M processor 1.86GHz	951	7.5	85	http://cpu.userbenchmark.com/SpeedTest/4587/--------IntelR-PentiumR-M-processor-186GHz												
+CPU		Intel	Atom N2800	952	7.41	113	http://cpu.userbenchmark.com/SpeedTest/8985/IntelR-AtomTM-CPU-N2800-----186GHz	Atom N2800	Cedarview	2  / 4	Intel BGA 559	32 nm	1867&nbsp;MHz	15.0x	64K / 512K / 0K	7W	Dec 2011	2980	
+CPU		Intel	Pentium 4 1.70GHz	953	7.34	5	http://cpu.userbenchmark.com/SpeedTest/6983/--------------IntelR-PentiumR-4-CPU-170GHz												
+CPU		Intel	Atom Z2760	954	7.15	294	http://cpu.userbenchmark.com/SpeedTest/2088/IntelR-AtomTM-CPU-Z2760----180GHz	Atom Z2760	Cloverview	2 	Intel BGA 617	32 nm	1800&nbsp;MHz	18.0x	64K / 512K / 0K	3W	Sep 2012	3588	
+CPU		Intel	Celeron M 430	955	7.09	61	http://cpu.userbenchmark.com/SpeedTest/4999/IntelR-CeleronR-M-CPU--------430----173GHz												
+CPU		Intel	Atom D525	956	6.99	474	http://cpu.userbenchmark.com/SpeedTest/5666/IntelR-AtomTM-CPU-D525-----180GHz	Atom D525	Pineview	2  / 4	Intel BGA 437	45 nm	1834&nbsp;MHz	14.0x	64K / 512K / 0K	13W	Jun 2010	4380	
+CPU		AMD	C-60 APU	957	6.97	637	http://cpu.userbenchmark.com/SpeedTest/3147/AMD-C-60-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Pentium M processor 1.73GHz	958	6.94	147	http://cpu.userbenchmark.com/SpeedTest/7488/--------IntelR-PentiumR-M-processor-173GHz												
+CPU		AMD	A4-1200 APU	959	6.94	141	http://cpu.userbenchmark.com/SpeedTest/2520/AMD-A4-1200-APU-with-RadeonTM-HD-Graphics											3090	
+CPU		AMD	Athlon XP 2200+	960	6.79	6	http://cpu.userbenchmark.com/SpeedTest/3828/AMD-Athlontm-XP-2200-	Athlon XP 2200+	Thorton	1 	AMD Socket A	130 nm	1800&nbsp;MHz	13.5x	128K / 256K / 0K	63W	Sep 2003		
+CPU		AMD	A4-1250 APU	961	6.74	211	http://cpu.userbenchmark.com/SpeedTest/8678/AMD-A4-1250-APU-with-RadeonTM-HD-Graphics											3970	
+CPU		AMD	E1-2100 APU	962	6.66	972	http://cpu.userbenchmark.com/SpeedTest/7613/AMD-E1-2100-APU-with-RadeonTM-HD-Graphics											408	
+CPU		Intel	Pentium M processor 1.60GHz	963	6.58	82	http://cpu.userbenchmark.com/SpeedTest/4076/--------IntelR-PentiumR-M-processor-160GHz												
+CPU		AMD	Z-60 APU	964	6.51	3	http://cpu.userbenchmark.com/SpeedTest/13444/AMD-Z-60-APU-with-Radeontm-HD-Graphics												
+CPU		Intel	Atom 330	965	6.49	311	http://cpu.userbenchmark.com/SpeedTest/1917/IntelR-AtomTM-CPU--330-----160GHz	Atom 330	Diamondville	2  / 4	Intel BGA 437	45 nm	1600&nbsp;MHz	12.0x	64K / 512K / 0K	8W	Jun 2008	990	
+CPU		Intel	Atom N570	966	6.43	379	http://cpu.userbenchmark.com/SpeedTest/3881/IntelR-AtomTM-CPU-N570-----166GHz	Atom N570	Pineview	2  / 4	Intel BGA 559	45 nm	1667&nbsp;MHz	14.0x	64K / 512K / 0K	9W	Mar 2011	2180	
+CPU		Intel	Celeron M processor 1.50GHz	967	6.26	26	http://cpu.userbenchmark.com/SpeedTest/5383/IntelR-CeleronR-M-processor---------150GHz												
+CPU		Intel	Atom D510	968	6.25	118	http://cpu.userbenchmark.com/SpeedTest/5452/IntelR-AtomTM-CPU-D510-----166GHz	Atom D510	Pineview	2  / 4	Intel BGA 437	45 nm	1667&nbsp;MHz	12.0x	64K / 512K / 0K	13W	Dec 2009	3700	
+CPU		Intel	Atom N2600	969	6.22	487	http://cpu.userbenchmark.com/SpeedTest/704/IntelR-AtomTM-CPU-N2600-----160GHz	Atom N2600	Cedarview	2  / 4	Intel BGA 559	32 nm	1600&nbsp;MHz	13.0x	64K / 512K / 0K	4W	Dec 2011	2480	
+CPU		Intel	Celeron 723	970	6.16	13	http://cpu.userbenchmark.com/SpeedTest/10153/IntelR-CeleronR-CPU----------723----120GHz												
+CPU		AMD	C-50	971	6.08	467	http://cpu.userbenchmark.com/SpeedTest/3082/AMD-C-50-Processor	C-50	Ontario	2 	AMD Socket FT1	40 nm	1000&nbsp;MHz	10.0x	64K / 512K / 0K	9W	Jan 2011	199	
+CPU		Intel	Atom N550	972	5.67	253	http://cpu.userbenchmark.com/SpeedTest/182/IntelR-AtomTM-CPU-N550-----150GHz	Atom N550	Pineview	2  / 4	Intel BGA 559	45 nm	1500&nbsp;MHz	13.0x	64K / 512K / 0K	9W	Aug 2010	2488	
+CPU		Intel	Atom N280	973	4.1	207	http://cpu.userbenchmark.com/SpeedTest/4556/---------IntelR-AtomTM-CPU-N280-----166GHz	Atom N2800	Cedarview	2  / 4	Intel BGA 559	32 nm	1867&nbsp;MHz	15.0x	64K / 512K / 0K	7W	Dec 2011	1995	
+CPU		Intel	Atom D410	974	4.07	35	http://cpu.userbenchmark.com/SpeedTest/13305/---------IntelR-AtomTM-CPU-D410-----166GHz	Atom D410	Pineview	1  / 2	Intel BGA 437	45 nm	1667&nbsp;MHz	12.0x	64K / 512K / 0K	10W	Jan 2010	580	
+CPU		Intel	Atom N450	975	4.04	714	http://cpu.userbenchmark.com/SpeedTest/3190/IntelR-AtomTM-CPU-N450-----166GHz	Atom N450	Pineview	1  / 2	Intel BGA 559	45 nm	1667&nbsp;MHz	14.0x	64K / 512K / 0K	6W	Dec 2009	1580	
+CPU		Intel	Atom N455	976	4	662	http://cpu.userbenchmark.com/SpeedTest/2394/IntelR-AtomTM-CPU-N455-----166GHz	Atom N455	Pineview	1  / 2	Intel BGA 559	45 nm	1667&nbsp;MHz	14.0x	64K / 512K / 0K	7W	Jun 2010	3280	
+CPU		Intel	Atom 230	977	4	104	http://cpu.userbenchmark.com/SpeedTest/5251/IntelR-AtomTM-CPU--230-----160GHz	Atom 230	Diamondville	1  / 2	Intel BGA 437	45 nm	1600&nbsp;MHz	12.0x	64K / 512K / 0K	4W	Jun 2008	960	
+CPU		Intel	Atom N270	978	3.75	939	http://cpu.userbenchmark.com/SpeedTest/2697/IntelR-AtomTM-CPU-N270-----160GHz	Atom N270	Diamondville	1  / 2	Intel BGA 437	45 nm	1600&nbsp;MHz	12.0x	64K / 512K / 0K	3W	Jun 2008	1790	
+CPU		Intel	Atom N435	979	3.57	12	http://cpu.userbenchmark.com/SpeedTest/13319/IntelR-AtomTM-CPU-N435-----133GHz												
+CPU		Intel	Atom Z520	980	3.31	116	http://cpu.userbenchmark.com/SpeedTest/4161/---------IntelR-AtomTM-CPU-Z520-----133GHz	Atom Z520PT	Silverthorne	1  / 2	Intel BGA 437	45 nm	1334&nbsp;MHz	10.0x	64K / 512K / 0K	2W	Mar 2009	5950	

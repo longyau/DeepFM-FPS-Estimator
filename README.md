@@ -1,5 +1,4 @@
 # DeepFM-FPS-Estimator
-Text-Edit
 
 This is a Final Year Project of Teesside University produced by Long Yau.
 
@@ -15,6 +14,41 @@ This project included data gathered from <a href="http://www.game-debate.com/">G
 
 All those data exclude userbench are gathered through data scraping using selenium webdriver.
 
+# Installation
+__Python__
+
+This installation guide is based on Python 3.6.
+
+DeepFM
+
+- pip install numpy
+
+- pip install scipy
+
+- pip install pandas
+
+- pip install matplotlin
+
+- pip install sklearn
+
+- pip install tensorflow
+
+
+DeepFM Web Service
+
+- pip install Flask
+
+- pip install Flask-Cors
+
+
+Selenium
+
+- pip install selenium
+
+
+AWS
+
+- pip install boto3
 
 # References
 [1] Building FPS Estimator System based on DeepFM, Long Yau 

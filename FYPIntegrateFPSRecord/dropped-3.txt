@@ -1,0 +1,346 @@
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	Fallout 4	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 970M 3GB	Fallout 4	
+APU A10-6800K Quad-Core	Radeon R9 270 MSI Gaming 2GB Edition	Fallout 4	
+Core 2 Quad Q8300 2.5GHz	GeForce GT 730 v3	Fallout 4	
+Core i5-4460 3.2GHz	Radeon R9 390 Sapphire Nitro 8GB Edition	Fallout 4	
+Core i7-4510U 2-Core 2.0GHz	GeForce 840M 2GB	Fallout 4	
+Core i7-4900MQ 4-Core 2.8GHz	GeForce GTX 780M SLI	Fallout 4	
+Core i5-4460 3.2GHz	GeForce GTX 960 EVGA SuperSC ACX 2.0+ 2GB Edition	Fallout 4	
+Core i7-4800MQ 4-Core 2.7GHz	GeForce GTX 870M 3GB	Fallout 4	
+Xeon Processor X5670	GeForce GTX 780 Ti SLI	Fallout 4	
+Core i5-4210H 2.9GHz	GeForce GTX 960M 2GB	Fallout 4	
+Core 2 Quad Q6600 2.4GHz	GeForce GTX 650 Zotac Synergy 2GB Edition	Fallout 4	
+Athlon X4 840	GeForce GTX 950 EVGA Superclocked 2.0 2GB Edition	Fallout 4	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 780 MSI TwinFrozr Gaming OC Edition	Fallout 4	
+Core i7-6500U 2-Core 2.5GHz	Intel HD Graphics 520 Mobile	Fallout 4	
+Core i5-4460 3.2GHz	Radeon RX 480 Sapphire Nitro+ 8GB	Fallout 4	
+Core 2 Quad Q9300 2.5GHz	GeForce GTX 750 Ti Zotac 2GB Edition	Fallout 4	
+Core 2 Quad Q9300 2.5GHz	GeForce GTX 750 Ti Zotac 2GB Edition	Fallout 4	
+Core 2 Duo E8500 3.16GHz	Radeon R7 250 v2 XFX 2GB Edition	Fallout 4	
+FX-6350	Radeon R7 360 v2 MSI OC 2GB Edition	Fallout 4	
+Core i5-6200U 2.3GHz	GeForce 940M 2GB	Fallout 4	
+APU A4-6210 Quad-Core	Radeon R3 6210	Fallout 4	
+Core i7-6500U 2-Core 2.5GHz	GeForce 945M 2GB	Fallout 4	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 950M v2 4GB	Fallout 4	
+Core i3-4170 3.7GHz	Radeon R7 250 Sapphire 1GB Edition	Fallout 4	
+Athlon X4 860K	GeForce GTX 750	Fallout 4	
+Xeon E5-2698 v3	GeForce GTX 1080 Asus ROG Strix Gaming OC 8GB Edition	Fallout 4	
+Core i5-4460 3.2GHz	GeForce GTX 960 Asus Strix DirectCU II OC 4GB Edition	Fallout 4	
+Core i7-6500U 2-Core 2.5GHz	GeForce 940M 2GB	Fallout 4	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 970 Gigabyte G1 Gaming 4GB Edition SLI	Fallout 4	
+Core 2 Quad Q8400 2.66GHz	Radeon HD 7750 Sapphire 1GB GDDR5 Edition	Fallout 4	
+APU A10-7870K Quad-Core	Radeon R7 7870K	Fallout 4	
+Core i5-3337U 1.8GHz	Intel HD Graphics 4000 Mobile	Fallout 4	
+APU A10-7700k Quad-Core	Radeon R9 380X Asus DirectCU II OC Strix Gaming 4GB Edition	Fallout 4	
+Athlon X4 860K	GeForce GTX 960 MSI Gaming 2GB Edition	Fallout 4	
+Core i5-3337U 1.8GHz	GeForce 710M	Fallout 4	
+Core i5-5200U 2.2GHz	GeForce 940M 2GB	Fallout 4	
+Core i5-6600K 3.5GHz	GeForce GTX 1080 Asus ROG Strix Gaming OC 8GB Edition	Ultimate Epic Battle Simulator	
+Core i5-5200U 2.2GHz	GeForce 940M 2GB	Last Day of June	
+Core 2 Quad Q8400 2.66GHz	GeForce GTX 1050	Project Genom	
+Core 2 Quad Q8400 2.66GHz	GeForce GTX 1050	Project Genom	
+Core 2 Quad Q8400 2.66GHz	GeForce GTX 1050	Project Genom	
+Core i5-4460 3.2GHz	GeForce GTX 780 MSI TwinFrozr Gaming OC Edition	American Truck Simulator 2015	
+Core i3-3217U 1.8GHz	Intel HD Graphics 4000 Mobile	American Truck Simulator 2015	
+Core i3-530 2.9GHz	GeForce GTX 650 MSI 1GB	American Truck Simulator 2015	
+Core 2 Quad Q8400 2.66GHz	Radeon HD 7750 Sapphire 1GB GDDR5 Edition	American Truck Simulator 2015	
+Athlon 64 X2 Dual Core 5200+	GeForce 210	American Truck Simulator 2015	
+Core i3-3120M 2.5GHz	Intel HD Graphics 4000 Mobile	American Truck Simulator 2015	
+Core i3-4170 3.7GHz	GeForce GTX 750 Ti Gainward Golden Sample 2GB Edition	American Truck Simulator 2015	
+APU A6-6310 Quad-Core	Radeon R4 6310	American Truck Simulator 2015	
+Core i5-3210M 2.5GHz	Intel HD Graphics 4000 Mobile	Metal Gear Solid V: The Phantom Pain	
+Core i5-4200U 1.6GHz	GeForce GT 750M	Metal Gear Solid V: The Phantom Pain	
+FX-4130	Radeon HD 6670 v2 Sapphire 1GB Edition	Metal Gear Solid V: The Phantom Pain	
+Core 2 Quad Q6600 2.4GHz	GeForce GTX 960 MSI Gaming 100ME 2GB Edition	Metal Gear Solid V: The Phantom Pain	
+Core i5-4460 3.2GHz	GeForce GTX 750	Metal Gear Solid V: The Phantom Pain	
+APU A8-3870K Quad-Core	Radeon R9 270 MSI Gaming 2GB Edition	Metal Gear Solid V: The Phantom Pain	
+APU A8-3870K Quad-Core	Radeon HD 6550D	Metal Gear Solid V: The Phantom Pain	
+Core i5-4460 3.2GHz	GeForce GTX 970 MSI Gaming 4GB Edition	Metal Gear Solid V: The Phantom Pain	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 860M 4GB	Metal Gear Solid V: The Phantom Pain	
+Core i3-530 2.9GHz	GeForce GTX 650 MSI 1GB	Metal Gear Solid V: The Phantom Pain	
+Core 2 Quad Q8400 2.66GHz	Radeon HD 6570 v2 PowerColor 2GB Edition	Metal Gear Solid V: The Phantom Pain	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 780 DirectCU II OC Edition	Metal Gear Solid V: The Phantom Pain	
+Core i7-4770K 4-Core 3.5GHz	Radeon R9 290 Gigabyte WindForce 3X OC Edition	Metal Gear Solid V: The Phantom Pain	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 980 Asus ROG Matrix Platinum 4GB Edition SLI	Metal Gear Solid V: The Phantom Pain	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 850M 2GB	Metal Gear Solid V: The Phantom Pain	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 850M 2GB	Metal Gear Solid V: The Phantom Pain	
+Core i7-3740QM 4-Core 2.7GHz	GeForce GT 650M Mac 1GB Edition	Metal Gear Solid V: The Phantom Pain	
+Core 2 Duo E8400 3.0GHz	GeForce GTX 1050	Metal Gear Solid V: The Phantom Pain	
+Core i3-3250 3.5GHz	Radeon R9 270X Sapphire Dual-X 4GB OC Edition	Metal Gear Solid V: The Phantom Pain	
+Core 2 Duo E8500 3.16GHz	Radeon R7 250 v2 XFX 2GB Edition	Metal Gear Solid V: The Phantom Pain	
+Celeron G1620 2.7GHz	GeForce GT 740 v2 Gigabyte OC 2GB Edition	Metal Gear Solid V: The Phantom Pain	
+Core i3-4170 3.7GHz	GeForce GTX 1060 EVGA ACX 2.0 6GB	Metal Gear Solid V: The Phantom Pain	
+Core i5-4460 3.2GHz	GeForce GTX 750 Ti	Metal Gear Solid V: The Phantom Pain	
+Core i5-4460 3.2GHz	GeForce GTX 750 Ti	Metal Gear Solid V: The Phantom Pain	
+Core i5-4460 3.2GHz	Radeon R9 390 MSI Gaming 8GB Edition	Metal Gear Solid V: The Phantom Pain	
+Core i5-4460 3.2GHz	GeForce GTX 1070 MSI Gaming X 8GB Edition	Metal Gear Solid V: The Phantom Pain	
+Core i7-4712MQ 4-Core 2.3GHz	GeForce 820M 2GB	Metal Gear Solid V: The Phantom Pain	
+Core i5-4210U 1.7GHz	GeForce 820M 2GB	Metal Gear Solid V: The Phantom Pain	
+Celeron 1007U 1.5GHz	Intel HD Graphics Mobile (Ivy Bridge)	Metal Gear Solid V: The Phantom Pain	
+Core i5-4210U 1.7GHz	GeForce 820M 2GB	Metal Gear Solid V: The Phantom Pain	
+Core i5-4460S 2.9GHz	GeForce GTX 1070 MSI Gaming X 8GB Edition	Metal Gear Solid V: The Phantom Pain	
+Core i7-6500U 2-Core 2.5GHz	GeForce GTX 950M 2GB	Metal Gear Solid V: The Phantom Pain	
+Core i5-3337U 1.8GHz	Intel HD Graphics 4000 Mobile	Metal Gear Solid V: The Phantom Pain	
+Core 2 Quad Q8400 2.66GHz	Radeon HD 7770 PowerColor PCS+ Edition	Metal Gear Solid V: The Phantom Pain	
+Core i5-6402P 2.8GHz	GeForce GT 740 v3 MSI 2GB Edition	Metal Gear Solid V: The Phantom Pain	
+Athlon X4 860K	GeForce GTX 960 MSI Gaming 2GB Edition	Metal Gear Solid V: The Phantom Pain	
+Core i5-4460 3.2GHz	GeForce GTX 780	Metal Gear Solid V: The Phantom Pain	
+Core i5-6200U 2.3GHz	GeForce 930M 2GB	Metal Gear Solid V: The Phantom Pain	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 950M 2GB	Metal Gear Solid V: The Phantom Pain	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 970 MSI Gaming 100 ME 4GB Edition	Metal Gear Solid V: The Phantom Pain	
+Core i5-4200H 2.8GHz	GeForce GTX 950M 2GB	Metal Gear Solid V: The Phantom Pain	
+Core i5-4460 3.2GHz	GeForce GTX 960 Asus Strix DirectCU II OC 2GB Edition	Metal Gear Solid V: The Phantom Pain	
+Core i3-3217U 1.8GHz	GeForce GT 720M 2GB	Metal Gear Solid V: The Phantom Pain	
+Core 2 Duo E8400 3.0GHz	Radeon HD 5450 1024MB	Metal Gear Solid V: The Phantom Pain	
+Core i7-4510U 2-Core 2.0GHz	GeForce 840M 2GB	Metal Gear Solid V: The Phantom Pain	
+Core 2 Duo E6550 2.33GHz	GeForce GTX 660 Direct CU II OC Edition	Metal Gear Solid V: The Phantom Pain	
+Core i5-4460 3.2GHz	GeForce GTX 960 Asus Strix DirectCU II OC 4GB Edition	Metal Gear Solid V: The Phantom Pain	
+Core i7-4510U 2-Core 2.0GHz	GeForce 840M 2GB	Metal Gear Solid V: The Phantom Pain	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 980 Ti 6GB	Metal Gear Solid V: The Phantom Pain	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GTX 670MX	Metal Gear Solid V: The Phantom Pain	
+Core 2 Quad Q8400 2.66GHz	Radeon HD 7750 Sapphire 1GB GDDR5 Edition	Metal Gear Solid V: The Phantom Pain	
+Core i3-3217U 1.8GHz	Intel HD Graphics 4000 Mobile	Metal Gear Solid V: The Phantom Pain	
+Core i5-4460 3.2GHz	GeForce GTX 960 EVGA SuperSC ACX 2.0+ 2GB Edition	Metal Gear Solid V: The Phantom Pain	
+Core i5-650 3.2GHz	GeForce GTX 550 Ti Gainward Edition	Metal Gear Solid V: The Phantom Pain	
+Core i7-7700K 4-Core 4.2GHz	GeForce GTX 1080 Zotac AMP 8GB Edition	AdVenture Capitalist	
+Pentium N3700 1.6GHz	GeForce 920M 2GB	AdVenture Capitalist	
+Core i7-860 Quad 2.80GHz	GeForce GTX 960 Zotac AMP! 4GB Edition	Everybodys Gone to the Rapture	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 950M 2GB	The Witcher III: Wild Hunt - Hearts of Stone	
+Core 2 Duo E8400 3.0GHz	GeForce GTX 550 Ti	Tekken 7	
+Core i5-4460 3.2GHz	Radeon R7 260X	Tekken 7	
+Core 2 Duo E8400 3.0GHz	Quadro 600	Tekken 7	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 970M 3GB	Tekken 7	
+Core 2 Duo E7200 2.53GHz	GeForce GT 640	Tekken 7	
+Core i5-7200U 2.5GHz	GeForce 920MX 2GB	Tekken 7	
+Core i5-4460 3.2GHz	GeForce GTX 760 Asus DirectCU II OC Edition	Tekken 7	
+Core i5-6200U 2.3GHz	GeForce 940M 2GB	Grim Dawn	
+APU A8-6500 Quad-Core	GeForce GTX 750	Grim Dawn	
+Athlon X4 760K	GeForce GTX 970 MSI Gaming 4GB Edition	Grim Dawn	
+Core i5-3210M 2.5GHz	Intel HD Graphics 4000 Mobile	Stardew Valley	
+Core i5-3337U 1.8GHz	Intel HD Graphics 4000 Mobile	Stardew Valley	
+APU A6-5200M Quad-Core	Radeon HD 8400	Stardew Valley	
+Core i7-7700HQ 4-Core 2.8GHz	GeForce GTX 1060M	The Witcher III	
+Core i5-6300HQ 2.3GHz	GeForce GTX 960M 4GB	The Witcher III	
+Core i5-4460 3.2GHz	Radeon R9 390 MSI Gaming 8GB Edition	The Witcher III	
+Core i3-4170 3.7GHz	GeForce GTX 750 Ti	The Witcher III	
+Core i5-4460 3.2GHz	Radeon R9 380 MSI OC 2GB Edition	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 1070 MSI Gaming X 8GB Edition	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 950 Zotac 2GB Edition	The Witcher III	
+Xeon Processor X5450	GeForce GTX 960 MSI 2GB Edition	The Witcher III	
+Core 2 Quad Q6600 2.4GHz	Radeon HD 7970 GHz WindForce 3X OC Edition	The Witcher III	
+Athlon X4 750K	Radeon R9 380X Gigabyte Gaming G1 4GB Edition	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 960 Asus Strix DirectCU II OC 4GB Edition	The Witcher III	
+Core 2 Quad Q6600 2.4GHz	Radeon HD 6770	The Witcher III	
+Core i5-4460S 2.9GHz	GeForce GTX 1070 MSI Gaming X 8GB Edition	The Witcher III	
+Core 2 Quad Q6600 2.4GHz	GeForce GTX 660 Palit OC 2GB Edition	The Witcher III	
+Core 2 Quad Q6700 2.66GHz	Radeon HD 7850 Gigabyte OC 1GB Edition	The Witcher III	
+Core i7-4700MQ 4-Core 2.4GHz	GeForce GT 740M	The Witcher III	
+APU A10-7700k Quad-Core	Radeon R9 270X Gigabyte 2GB OC Edition	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 960 Asus Strix DirectCU II OC 2GB Edition	The Witcher III	
+Core i5-4200H 2.8GHz	GeForce GTX 850M 2GB	The Witcher III	
+Athlon X4 860K	GeForce GTX 960 MSI Gaming 2GB Edition	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 750 MSI Gaming 1GB Edition	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 760 1.5GB (OEM)	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 950 Asus DirectCU II OC Strix Gaming 2GB Edition	The Witcher III	
+Core i7-3610QM 4-Core 2.3GHz	Radeon HD 7970M	The Witcher III	
+Core i5-6200U 2.3GHz	GeForce 930M 2GB	The Witcher III	
+Pentium G3240 3.1GHz	GeForce GTX 950 Zotac AMP! 2GB Edition	The Witcher III	
+APU A8-7670K Quad-Core 	GeForce GTX 970 Gigabyte G1 Gaming 4GB Edition	The Witcher III	
+Core i5-4460 3.2GHz	Radeon R9 380X Gigabyte Gaming G1 4GB Edition	The Witcher III	
+Core 2 Quad Q9550 2.83GHz	Radeon R9 280X Sapphire Vapor-X 3GB OC Edition	The Witcher III	
+Core i5-3230M 2.6GHz	GeForce GT 635M	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 750 Ti Asus 2GB Edition	The Witcher III	
+Athlon X4 750K	Radeon HD 6750	The Witcher III	
+Xeon Processor E5450 	GeForce GTX 960 Gigabyte WindForce 2X OC 4GB Edition	The Witcher III	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M v2 4GB	The Witcher III	
+Core i7-4700MQ 4-Core 2.4GHz	GeForce GTX 980M 8GB SLI	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 960 Asus Strix DirectCU II OC 2GB Edition	The Witcher III	
+APU A8-6600K Quad-Core	GeForce GTX 750 Ti Asus OC 2GB Edition	The Witcher III	
+APU A10-5800K Quad-Core	Radeon R9 380 MSI Gaming 4GB Edition	The Witcher III	
+Core i3-550 3.2GHz	GeForce GTX 660	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 660 Ti Inno3D Edition	The Witcher III	
+APU A6-6310 Quad-Core	Radeon R4 6310	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 960 Asus Strix DirectCU II OC 2GB Edition	The Witcher III	
+Core 2 Quad Q9400 2.66GHz	Radeon HD 7970 OC GigaByte Edition	The Witcher III	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	The Witcher III	
+Core 2 Quad Q6600 2.4GHz	Radeon R7 250 Asus 1GB Edition	The Witcher III	
+Core i5-6300HQ 2.3GHz	GeForce GTX 965M 2GB	The Witcher III	
+APU A10-6800K Quad-Core	GeForce GTX 960 EVGA SuperSC ACX 2.0+ 2GB Edition	The Witcher III	
+Core i7-4710MQ 4-Core 2.5GHz	GeForce GTX 970M 6GB	The Witcher III	
+APU A8-5600K Quad-Core	Radeon R9 380 Sapphire ITX Compact OC 2GB Edition	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 960 Zotac 2GB Edition	The Witcher III	
+Core 2 Quad Q6600 2.4GHz	GeForce GTX 460 Gigabyte OC 1GB Edition	The Witcher III	
+Core i5-4460 3.2GHz	Radeon R9 390 Sapphire Nitro 8GB Edition	The Witcher III	
+Core i7-3632QM 4-Core 2.2GHz	Intel HD Graphics 4000 Mobile	The Witcher III	
+Xeon Processor X5470	GeForce GTX 680 FTW 4GB Edition 	The Witcher III	
+Athlon X4 860K	Radeon R9 M380 4GB	The Witcher III	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 780 DirectCU II Edition	The Witcher III	
+Xeon Processor E5450 	Radeon HD 7770 Gigabyte OC rev. 2.0 Edition	The Witcher III	
+APU A8-5500 Quad-Core	GeForce GTX 750 Asus 2GB OC Edition	The Witcher III	
+Core 2 Quad Q9400 2.66GHz	Radeon R7 260X v3 PowerColor OC v3 2GB Edition	The Witcher III	
+Phenom II X4 B55	Radeon R7 260X v2 HIS iCooler 1GB Edition	The Witcher III	
+Core i7-3630QM 4-Core 2.4GHz	Radeon HD 7970M	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 960 Asus Strix DirectCU II OC 2GB Edition	The Witcher III	
+Core i7-4810MQ 4-Core 2.8GHz	Radeon HD 8790M	The Witcher III	
+Core i7-3632QM 4-Core 2.2GHz	GeForce GT 635M	The Witcher III	
+Core i5-5200U 2.2GHz	GeForce GTX 950M v2 4GB	The Witcher III	
+Core i7-2820QM 4-Core 2.3GHz	Quadro 2000M	The Witcher III	
+Core i7-2820QM 4-Core 2.3GHz	Quadro 2000M	The Witcher III	
+Core i7-4900MQ 4-Core 2.8GHz	GeForce GTX 780M SLI	The Witcher III	
+Xeon E7-8895 v2	GeForce GTX 980 Zotac AMP! Extreme 4GB Edition SLI	The Witcher III	
+Core i5-5200U 2.2GHz	GeForce 940M 2GB	The Witcher III	
+APU A6-3670K Quad-Core	GeForce GTX 960 MSI OC 2GB Edition	The Witcher III	
+Core 2 Quad Q6600 2.4GHz	GeForce GT 730 v3 Inno3D 2GB Edition	The Witcher III	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 860M 4GB	The Witcher III	
+Core 2 Duo E8400 3.0GHz	Radeon HD 7730	The Witcher III	
+Core 2 Quad Q8400 2.66GHz	Radeon HD 7750 Sapphire 1GB GDDR5 Edition	The Witcher III	
+Core i5-4460 3.2GHz	Radeon R9 380 Sapphire Nitro 4GB Edition	The Witcher III	
+APU A8-6600K Quad-Core	GeForce GTX 770 WindForce 3X OC Edition	The Witcher III	
+Core i7-4700HQ 4-Core 2.4GHz	GeForce GTX 860M 2GB	The Witcher III	
+Core 2 Quad Q6600 2.4GHz	GeForce GTX 750 Gigabyte OC Low Profile 2GB Edition	The Witcher III	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M v2 4GB	The Witcher III	
+Core i7-4510U 2-Core 2.0GHz	GeForce GTX 850M 4GB	The Witcher III	
+APU A8-7670K Quad-Core 	Radeon R7 7670K	The Witcher III	
+Core i7-3610QM 4-Core 2.3GHz	GeForce GTX 660M	The Witcher III	
+Core i7-4700MQ 4-Core 2.4GHz	GeForce GTX 765M	The Witcher III	
+Core i7-4800MQ 4-Core 2.7GHz	GeForce GTX 780M	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 970 Gigabyte G1 Gaming 4GB Edition	The Witcher III	
+Core i5-760 2.8GHz	Radeon HD 5850 Gigabyte OC 1GB Edition	The Witcher III	
+Xeon Processor X5650 	Radeon R9 380X PowerColor PCS+ Myst. 4GB Edition	The Witcher III	
+Core i7-4712MQ 4-Core 2.3GHz	GeForce 840M 2GB	The Witcher III	
+FX-6350	Radeon R7 260X Sapphire 2GB OC Edition	The Witcher III	
+Xeon Processor X5650 	GeForce GTX 780 Ti WindForce 3X OC Edition	The Witcher III	
+Core 2 Duo E8500 3.16GHz	GeForce GTX 470	The Witcher III	
+Core 2 Quad Q9400 2.66GHz	Radeon HD 5770 1024MB	The Witcher III	
+Core 2 Quad Q8200 2.33GHz	Radeon HD 7750 MSI PMD1 OC Edition	The Witcher III	
+Pentium G2030 3.0GHz	GeForce GTX 960 EVGA SuperSC ACX 2.0+ 2GB Edition	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 970 MSI Gaming 4GB Edition	The Witcher III	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 850M 2GB	The Witcher III	
+Core i5-4460 3.2GHz	Radeon R9 280X MSI Gaming 3GB Edition	The Witcher III	
+Core i7-4810MQ 4-Core 2.8GHz	GeForce GTX 980M 8GB SLI	The Witcher III	
+APU A10-6800K Quad-Core	Radeon R9 270 Sapphire Dual-X 2GB OC Edition	The Witcher III	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 970M 3GB	The Witcher III	
+APU A8-3870K Quad-Core	Radeon R9 270 MSI Gaming 2GB Edition	The Witcher III	
+Core 2 Duo E4500 2.2GHz	GeForce GTX 750 MSI Gaming 1GB Edition	The Witcher III	
+Core i7-4700MQ 4-Core 2.4GHz	GeForce GT 750M SLI	The Witcher III	
+APU A8-6500 Quad-Core	Radeon R7 260X Sapphire 2GB OC Edition	The Witcher III	
+Core i7-4700MQ 4-Core 2.4GHz	GeForce GTX 765M	The Witcher III	
+Core i5-4210H 2.9GHz	GeForce GTX 860M 4GB	The Witcher III	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 770 WindForce 3X OC Edition	The Witcher III	
+Core i7-930 Quad 2.80GHz	Radeon RX 480 PowerColor Red Devil 8GB	The Witcher III	
+Xeon Processor E3-1241 v3	GeForce GTX 970 EVGA FTW ACX 2.0 4GB Edition	The Witcher III	
+Core i5-4460 3.2GHz	Radeon R9 280 Gigabyte WindForce 3X OC 3GB Edition	The Witcher III	
+Core 2 Quad Q8300 2.5GHz	GeForce GTX 960 MSI Gaming 2GB Edition	The Witcher III	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M v2 4GB	The Witcher III	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 970M 3GB	The Witcher III	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GTX 670MX	The Witcher III	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M v2 4GB	The Witcher III	
+FX-6350	GeForce GTX 960 MSI Gaming 2GB Edition	The Witcher III	
+Core i5-4210U 1.7GHz	GeForce 820M 2GB	The Witcher III	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GT 750M SLI	The Witcher III	
+Core i5-4200H 2.8GHz	GeForce GTX 850M 2GB	The Witcher III	
+Athlon X4 750K	Radeon HD 6750	The Witcher III	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 970M 3GB	The Witcher III	
+Core i7-4800MQ 4-Core 2.7GHz	GeForce GTX 870M 3GB	The Witcher III	
+Core i7-4770K 4-Core 3.5GHz	Radeon R9 290 Gigabyte WindForce 3X OC Edition	The Witcher III	
+Core i5-3210M 2.5GHz	GeForce GTX 660M	The Witcher III	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 970 Gigabyte G1 Gaming 4GB Edition SLI	The Witcher III	
+Core 2 Quad Q9550 2.83GHz	Radeon R7 260X MSI 2GB OC Edition	The Witcher III	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 1070 Asus ROG Strix Gaming OC 8GB Edition	The Witcher III	
+Core i5-4200M 2.5GHz	GeForce GTX 850M 2GB	The Witcher III	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 970M 3GB	The Witcher III	
+Core i7-4810MQ 4-Core 2.8GHz	GeForce GTX 880M 8GB	The Witcher III	
+Core i5-4460 3.2GHz	Radeon R9 270X	The Witcher III	
+APU A8-5600K Quad-Core	Radeon R7 250X HIS iCooler 1GB Edition	The Witcher III	
+APU A10-6790K Quad-Core	Radeon R9 290 Sapphire Tri-X OC Edition	The Witcher III	
+Core i5-6402P 2.8GHz	GeForce GTX 1070 Zotac AMP! Xtreme	The Witcher III	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M v2 4GB	The Witcher III	
+Core i5-6200U 2.3GHz	GeForce 940M 2GB	The Witcher III	
+Xeon Processor X5450	GeForce GTX 770 Zotac AMP! Edition	The Witcher III	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	The Witcher III	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	The Witcher III	
+APU A8-7650K Quad-Core 	GeForce GTX 750 Ti Asus 2GB Edition	The Witcher III	
+Core i3-4170 3.7GHz	Radeon RX 470 GIGABYTE G1 4GB	The Witcher III	
+Core i7-4510U 2-Core 2.0GHz	GeForce 840M 2GB	The Witcher III	
+Core i7-4712MQ 4-Core 2.3GHz	GeForce GTX 860M 2GB	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 1060 Asus Dual OC 6GB	The Witcher III	
+Core 2 Quad Q9300 2.5GHz	Radeon RX 460 XFX 2GB Single Fan	The Witcher III	
+Core 2 Quad Q9300 2.5GHz	GeForce GTX 660 Ti JetStream Edition	The Witcher III	
+Core 2 Duo E8400 3.0GHz	Quadro FX 580	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 750 MSI Gaming 1GB Edition	The Witcher III	
+Core 2 Duo E8500 3.16GHz	Radeon R7 250 v2 XFX 2GB Edition	The Witcher III	
+Core i3-4170 3.7GHz	GeForce GTX 1060 EVGA ACX 2.0 6GB	The Witcher III	
+Core i5-4460 3.2GHz	GeForce GTX 1070 MSI Gaming X 8GB Edition	The Witcher III	
+APU A8-7600 Quad-Core	GeForce GTX 950 EVGA SSC ACX 2.0 2GB Edition	The Witcher III	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M v2 2GB	The Witcher III	
+Core i3-4170 3.7GHz	GeForce GTX 1060	The Witcher III	
+FX-6350	Radeon R7 360 v2 MSI OC 2GB Edition	Clustertruck	
+Core 2 Quad Q8400 2.66GHz	Radeon HD 7750 Sapphire 1GB GDDR5 Edition	Stellaris	
+Core i5-3337U 1.8GHz	Intel HD Graphics 4000 Mobile	Stellaris	
+Xeon Processor X5492	GeForce GTX 580 EVGA Classified Ultra 3GB Edition	Assassins Creed: Syndicate	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M v2 4GB	Assassins Creed: Syndicate	
+Core 2 Quad Q9400 2.66GHz	Radeon HD 7970 OC GigaByte Edition	Assassins Creed: Syndicate	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	Assassins Creed: Syndicate	
+Core i7-4700MQ 4-Core 2.4GHz	GeForce GTX 765M	Assassins Creed: Syndicate	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 980 Palit Super JetStream 4GB Edition	Assassins Creed: Syndicate	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 770 WindForce 3X OC Edition	Assassins Creed: Syndicate	
+APU A6-6400K Dual-Core	GeForce GTX 750 EVGA Superclocked 2GB Edition	Assassins Creed: Syndicate	
+Core i7-4710HQ 4-Core 2.5GHz	Radeon R9 M265X	Assassins Creed: Syndicate	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 850M 2GB	Assassins Creed: Syndicate	
+Core i5-4460 3.2GHz	GeForce GTX 760 1.5GB (OEM)	Assassins Creed: Syndicate	
+Core i5-650 3.2GHz	GeForce GTX 660 Ti Zotac Edition	Assassins Creed: Syndicate	
+APU A8-4500M Quad-Core	Radeon HD 8750M	Assassins Creed: Syndicate	
+Core i5-7200U 2.5GHz	GeForce 930MX 2GB	Assassins Creed: Syndicate	
+Core i7-5500U 2-Core 2.4GHz	GeForce 920M 4GB	Assassins Creed: Syndicate	
+Core i5-6200U 2.3GHz	GeForce 940M 2GB	Assassins Creed: Syndicate	
+Core 2 Duo E8500 3.16GHz	Radeon R7 250 v2 XFX 2GB Edition	Assassins Creed: Syndicate	
+Core i5-4460 3.2GHz	Radeon R9 380 MSI Gaming 4GB Edition	Assassins Creed: Syndicate	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	Assassins Creed: Syndicate	
+Core i5-4460 3.2GHz	GeForce GTX 660 MSI OC 2GB Edition	Assassins Creed: Syndicate	
+Core i5-4460 3.2GHz	GeForce GTX 750 Ti	Assassins Creed: Syndicate	
+Core i3-4170 3.7GHz	GeForce GTX 750 Ti Gainward Golden Sample 2GB Edition	Assassins Creed: Syndicate	
+Core i7-3632QM 4-Core 2.2GHz	GeForce GT 730M	Assassins Creed: Syndicate	
+Core i3-4170 3.7GHz	GeForce GTX 750 Ti EVGA SuperClocked 2GB Edition	Assassins Creed: Syndicate	
+APU A10-6800K Quad-Core	GeForce GTX 950 Gigabyte OC 2GB Edition	Assassins Creed: Syndicate	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	Assassins Creed: Syndicate	
+Core i7-4702MQ 4-Core 2.2GHz	GeForce GT 740M v2	Assassins Creed: Syndicate	
+APU A8-5600K Quad-Core	GeForce GTX 750 Ti Zotac Thunderbolt 2GB Edition	Assassins Creed: Syndicate	
+Core i7-4510U 2-Core 2.0GHz	GeForce 840M 2GB	Assassins Creed: Syndicate	
+Core i5-4460 3.2GHz	GeForce GTX 970 MSI Armor 2X OC 4GB Edition	Assassins Creed: Syndicate	
+Core i5-4460 3.2GHz	GeForce GTX 750 MSI Gaming 1GB Edition	Assassins Creed: Syndicate	
+Core i7-4770K 4-Core 3.5GHz	Radeon R9 290 Gigabyte WindForce 3X OC Edition	Assassins Creed: Syndicate	
+Core i7-3610QM 4-Core 2.3GHz	Radeon HD 7970M	Assassins Creed: Syndicate	
+Athlon X4 860K	GeForce GTX 660 Direct CU II Top Edition	Assassins Creed: Syndicate	
+Core 2 Quad Q6600 2.4GHz	GeForce GTX 650 Inno3D 1GB Edition	Assassins Creed: Syndicate	
+Xeon E3-1231 v3	Radeon R9 290 Asus DirectCU II OC Edition	Assassins Creed: Syndicate	
+Core 2 Duo E8400 3.0GHz	Radeon HD 5450 1024MB	Assassins Creed: Syndicate	
+Core i5-4460 3.2GHz	Radeon RX 480 8GB	Assassins Creed: Syndicate	
+Core 2 Quad Q8400 2.66GHz	Radeon HD 7750 Sapphire 1GB GDDR5 Edition	Assassins Creed: Syndicate	
+Core i7-2630QM 4-Core 2.0GHz	GeForce GTX 560M	Assassins Creed: Syndicate	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 950M 2GB	Assassins Creed: Syndicate	
+Athlon X4 860K	Radeon HD 8670D + 6670 Dual	Assassins Creed: Syndicate	
+Athlon X4 860K	Radeon HD 8670D + 6670 Dual	Assassins Creed: Syndicate	
+Core 2 Duo E6600 2.4GHz	GeForce GT 730 v3 Inno3D 2GB Edition	Assassins Creed: Syndicate	
+Core i3-4170 3.7GHz	GeForce GTX 1050	WRC 7: FIA World Rally Championship	
+Celeron G1620 2.7GHz	Radeon HD 5450 1024MB	WRC 7: FIA World Rally Championship	
+Core i7-3610QM 4-Core 2.3GHz	GeForce GTX 660M	WRC 7: FIA World Rally Championship	
+Core i5-5200U 2.2GHz	Radeon R5 M330 2GB	XCOM 2	
+APU A4-4000 Dual-Core	GeForce GT 630 v3 Asus Silent 2GB Edition	XCOM 2	
+Core i5-6200U 2.3GHz	GeForce 930M 2GB	XCOM 2	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 950M v2 4GB	XCOM 2	
+Core I7-5775R 4-Core 3.3GHz	GeForce GTX 780 Ti Zotac AMP! Edition	XCOM 2	
+APU A10-7700k Quad-Core	Radeon R7 370 Sapphire Nitro 2GB Edition	XCOM 2	
+FX-6350	GeForce GTX 1060 Asus Dual OC 6GB	XCOM 2	
+Core i5-4460 3.2GHz	Radeon R7 250X Gigabyte OC 2GB Edition	XCOM 2	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 2GB	XCOM 2	
+Core i7-4700MQ 4-Core 2.4GHz	GeForce GT 750M	XCOM 2	
+Athlon X4 860K	GeForce GTX 960 MSI Gaming 2GB Edition	XCOM 2	
+Core i5-760 2.8GHz	Radeon HD 7790 MSI 1GB OC Edition	Batman: A Telltale Game Series - Episode 1: Realm of Shadows	
+Core 2 Quad Q8400 2.66GHz	Radeon HD 7750 Sapphire 1GB GDDR5 Edition	Batman: A Telltale Game Series - Episode 1: Realm of Shadows	
+Core i7-965 Quad 3.2GHz Extreme	Radeon HD 6850	Dark Souls 2: Scholar of the First Sin	
+Pentium 2020M 2.4GHz	GeForce 610M v5	Dark Souls 2: Scholar of the First Sin	
+Core i7-4940MX 4-Core 3.1GHz	GeForce 840M 2GB	Dark Souls 2: Scholar of the First Sin	
+Core i7-2670QM 4-Core 2.2GHz	GeForce GT 525M	Dark Souls 2: Scholar of the First Sin	
+APU A4-6300 Dual-Core	Radeon HD 8370D	Dark Souls 2: Scholar of the First Sin	
+Core i5-4460 3.2GHz	GeForce GTX 1060 Zotac Mini 3GB	Dark Souls 2: Scholar of the First Sin	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M 2GB	Dark Souls 2: Scholar of the First Sin	
