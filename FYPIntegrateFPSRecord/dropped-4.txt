@@ -1,0 +1,352 @@
+Core i5-4570S 2.9GHz	GeForce GT 750M Mac Edition	Dark Souls 2: Scholar of the First Sin	
+Core i3-2370M 2.4GHz	HD i3 2370M	Dark Souls 2: Scholar of the First Sin	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M v2 2GB	Cities: Skylines - Snowfall	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M v2 4GB	Victor Vran	
+Core i5-6200U 2.3GHz	GeForce 940M 2GB	Victor Vran	
+Core i7-3610QM 4-Core 2.3GHz	GeForce GTX 660M	Victor Vran	
+Athlon X4 760K	GeForce GTX 970 MSI Gaming 4GB Edition	Victor Vran	
+Core i5-4460 3.2GHz	GeForce GTX 1050 Ti MSI Gaming X 4GB	Redout	
+Core i5-6600K 3.5GHz	GeForce GTX 1080 Asus ROG Strix Gaming OC 8GB Edition	Osiris: New Dawn	
+Core i5-6600K 3.5GHz	GeForce GTX 1070 Gigabyte G1 Gaming 8GB Edition	Osiris: New Dawn	
+Core i5-4690K 3.5GHz	Radeon HD 7770 PowerColor GHz Edition	Osiris: New Dawn	
+Xeon Processor W3670	GeForce GTX 1050 Ti Gigabyte Windforce OC 4GB	F1 2017	
+Core i3-5005U 2.0GHz	Radeon R5 M330 2GB	Lego Jurassic World	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 660	Lego Jurassic World	
+Core i5-6200U 2.3GHz	GeForce 940M 2GB	South Park: The Fractured But Whole	
+APU A6-6310 Quad-Core	Radeon R4 6310	INSIDE	
+Core i5-4460 3.2GHz	GeForce GTX 1070 MSI Gaming X 8GB Edition	INSIDE	
+Core i7-740QM 4-Core 1.73GHz	GeForce GT 425M	INSIDE	
+Core 2 Duo E7300 2.66GHz	GeForce GT 630	Arma III Apex	
+Athlon X4 880K	Radeon RX 480 Sapphire NITRO+ 4GB	Arma III Apex	
+Core i5-7200U 2.5GHz	GeForce 940MX 2GB	Arma III Apex	
+APU A10-6700 Quad-Core	GeForce GTX 645 (OEM)	Arma III Apex	
+Core 2 Duo E8500 3.16GHz	GeForce 8400 GS Rev. 4 EVGA 1GB Edition	Hearthstone - Whispers of the Old Gods	
+FX-6300	GeForce GTX 750 Ti EVGA FTW W/ ACX 2GB Edition	Crusaders of the Lost Idols	
+Core i7-7700HQ 4-Core 2.8GHz	GeForce GTX 1070M	Hitman	
+Core i7-3610QM 4-Core 2.3GHz	GeForce GTX 660M	Hitman	
+Core i7-5500U 2-Core 2.4GHz	GeForce 840M 2GB	Hitman	
+Core i5-4460 3.2GHz	GeForce GTX 750 Ti	Hitman	
+Core i5-4460 3.2GHz	GeForce GTX 960 Asus Strix DirectCU II OC 4GB Edition	Hitman	
+Xeon E3-1231 v3	Radeon R9 290 Asus DirectCU II OC Edition	Hitman	
+Core i5-4460 3.2GHz	GeForce GTX 750 Ti Asus OC 2GB Edition	Hitman	
+Xeon Processor E5450 	GeForce GTX 650 Ti WindForce 2X 1GB Edition	Rebel Galaxy	
+APU A8-3870K Quad-Core	GeForce GTX 1050 Ti MSI Gaming X 4GB	Destiny 2	
+Core i5-4460 3.2GHz	GeForce GTX 660 MSI OC 2GB Edition	Destiny 2	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 660	The Park	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 850M 2GB	The Park	
+Core i5-4460 3.2GHz	GeForce GTX 960 EVGA SuperSC ACX 2.0+ 2GB Edition	RWBY: Grimm Eclipse	
+Core i5-650 3.2GHz	GeForce GTX 750 Ti Palit StormX Dual 2GB Edition	Hyperdevotion Noire: Goddess Black Heart	
+Core i5-6600K 3.5GHz	GeForce GTX 1080 Asus ROG Strix Gaming OC 8GB Edition	Disgaea PC	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	The Division	
+Core i5-6200U 2.3GHz	GeForce 940M 2GB	The Division	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 950M 2GB	The Division	
+Core i5-5200U 2.2GHz	GeForce 940M 2GB	The Division	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M v2 4GB	The Division	
+Core i5-760 2.8GHz	GeForce GTX 950 2GB	The Division	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 950M 2GB	The Division	
+APU A8-7650K Quad-Core 	GeForce GTX 750 Ti Zotac 2GB Edition	The Division	
+Core i7-4770K 4-Core 3.5GHz	Radeon R9 390 MSI Gaming 8GB Edition	The Division	
+Core i7-4510U 2-Core 2.0GHz	GeForce 840M 2GB	The Division	
+Core i7-860 Quad 2.80GHz	GeForce GTX 960 Zotac AMP! 4GB Edition	The Division	
+Core i5-4460 3.2GHz	GeForce GT 705	The Division	
+Core i5-4460 3.2GHz	GeForce GTX 1050 Ti 4GB	The Division	
+Core i5-4460 3.2GHz	Radeon RX 460 Sapphire Nitro 4G D5	The Division	
+Core i5-4200U 1.6GHz	Radeon R7 M265	The Division	
+Core i5-4460S 2.9GHz	GeForce GTX 1070 MSI Gaming X 8GB Edition	The Division	
+APU A10-5800K Quad-Core	GeForce GTX 750 Ti EVGA SuperClocked 2GB Edition	The Division	
+APU A8-6600K Quad-Core	GeForce GTX 960 MSI Gaming 4GB Edition	The Division	
+Core i7-960 Quad 3.2GHz	GeForce GTX 970 EVGA FTW ACX 2.0 4GB Edition	The Division	
+Core i5-4460S 2.9GHz	GeForce GTX 960 EVGA Superclocked 2GB Edition	The Division	
+Core i7-4770K 4-Core 3.5GHz	Radeon R9 290 Gigabyte WindForce 3X OC Edition	The Division	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 970 Gigabyte G1 Gaming 4GB Edition SLI	The Division	
+Xeon E3-1231 v3	Radeon R9 290 Asus DirectCU II OC Edition	The Division	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 970M 3GB	The Division	
+Core i5-4210H 2.9GHz	GeForce GTX 960M 2GB	The Division	
+APU E2-3200	Radeon HD 6410D	The Division	
+APU A10-8700P Quad-Core	Radeon R8 M365DX	The Division	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 970M 3GB	The Division	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 780 Zotac OC Edition	The Division	
+Core i5-3337U 1.8GHz	GeForce 710M	The Division	
+Athlon X4 860K	GeForce GTX 960 MSI Gaming 4GB Edition	The Division	
+FX-6350	Radeon R9 390 MSI Gaming 8GB Edition	The Division	
+Core i5-4258U 2.4GHz	Iris Graphics 5100 Mobile	Ori and the Blind Forest	
+Core i5-4200U 1.6GHz	GeForce GT 740M 64-bit Edition	Ori and the Blind Forest	
+Core 2 Quad Q8300 2.5GHz	GeForce GTX 960 MSI Gaming 2GB Edition	Ori and the Blind Forest	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	Ori and the Blind Forest	
+Xeon E3-1231 v3	Radeon R9 270X DirectCU II TOP 2GB Edition	Ori and the Blind Forest	
+APU A8-3870K Quad-Core	Radeon R9 270 MSI Gaming 2GB Edition	Ori and the Blind Forest	
+Core i5-5200U 2.2GHz	GeForce 940M 2GB	Ori and the Blind Forest	
+APU A8-6410 Quad-Core	Radeon R5 6410	Ori and the Blind Forest	
+APU A6-3420M Quad-Core	Radeon HD 6520G + HD 7670M Dual	Ori and the Blind Forest	
+Athlon X4 860K	GeForce GTX 960 MSI Gaming 2GB Edition	Ori and the Blind Forest	
+Core 2 Duo E4600 2.4GHz	Quadro FX 580	Crypt of the NecroDancer	
+Core i5-4690 3.5GHz	GeForce GTX 1070 MSI Armor OC 8GB Edition	Crypt of the NecroDancer	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GT 650M	Trove	
+Xeon Processor E5620	GeForce GTX 760 MSI TwinFrozr Gaming Edition	Trove	
+APU A8-5600K Quad-Core	GeForce GT 730 v3 Biostar OC 2GB Edition	Trove	
+Core i7-5500U 2-Core 2.4GHz	GeForce 940M 2GB	Disney Infinity 3	
+APU A10-6800K Quad-Core	GeForce GTX 960 EVGA SuperSC ACX 2.0+ 2GB Edition	Disney Infinity 3	
+Core i5-4210U 1.7GHz	Radeon R7 M260	Stranded Deep	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GTX 670M 3GB	Stranded Deep	
+Athlon X4 860K	GeForce GTX 760	Stranded Deep	
+Core i5-4460 3.2GHz	GeForce GT 730	Stranded Deep	
+APU A8-7600 Quad-Core	GeForce GTX 750 Asus 1GB OC Edition	Stranded Deep	
+APU A4-3400 Dual-Core	Radeon HD 6410D	Stranded Deep	
+APU A4-3400 Dual-Core	Radeon HD 6410D	Stranded Deep	
+APU A6-6400K Dual-Core	Radeon HD 8470D	Dynasty Warriors 8 Empires	
+Core 2 Quad Q8400 2.66GHz	Radeon HD 6570 v2 PowerColor 2GB Edition	Dynasty Warriors 8 Empires	
+Core i3-5010U 2.1GHz	Intel HD Graphics 5500 Mobile	Dynasty Warriors 8 Empires	
+Core 2 Duo E8400 3.0GHz	Radeon HD 7770 1GB GDDR5	Dynasty Warriors 8 Empires	
+Core i3-4005U 1.7GHz	Intel HD Graphics 4400 Mobile	Dynasty Warriors 8 Empires	
+Core i7-930 Quad 2.80GHz	Radeon HD 7970 OC Sapphire Edition	iRacing	
+APU A10-5745M Quad-Core	Radeon HD 8610G + HD 8670M Dual	Elite Dangerous: Horizons	
+Core 2 Duo E8400 3.0GHz	Radeon HD 5670 512MB	Ra2	
+Core i5-4460 3.2GHz	GeForce GTX 1060 Galax OC 3GB	Dishonored II	
+Core i3-4170 3.7GHz	GeForce GTX 1060 3GB	Dishonored II	
+Core i3-4170 3.7GHz	GeForce GTX 650 1GB	Dishonored II	
+Core i5-4460 3.2GHz	Radeon R9 380 MSI Gaming 4GB Edition	Dishonored II	
+Core i7-4700MQ 4-Core 2.4GHz	GeForce GTX 765M	Dishonored II	
+Core i7-3610QM 4-Core 2.3GHz	GeForce GTX 660M	Dishonored II	
+Core i5-6300HQ 2.3GHz	GeForce GTX 960M 4GB	Dishonored II	
+Core i5-4460 3.2GHz	GeForce GTX 960 MSI Gaming 2GB Edition	Sonic Lost World	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 860M 2GB	Sonic Lost World	
+Core 2 Duo E8300 2.83GHz	Intel GMA X4500	Sonic Lost World	
+Celeron N2830 2.16GHz	Intel HD Graphics 4000 Mobile	World of Warships	
+APU A8-7600 Quad-Core	GeForce GTX 480	World of Warships	
+Core i7-4510U 2-Core 2.0GHz	GeForce 840M 2GB	World of Warships	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 960 Zotac AMP! 4GB Edition	World of Warships	
+Core 2 Duo T5470 1.6GHz	GeForce 8400M GS	World of Warcraft: Legion	
+APU A8-6500 Quad-Core	GeForce GTX 750	World of Warcraft: Legion	
+Core 2 Quad Q8400 2.66GHz	Radeon HD 7750 Sapphire 1GB GDDR5 Edition	The Technomancer	
+Core i5-4460 3.2GHz	GeForce GTX 960 Asus Strix DirectCU II OC 4GB Edition	The Technomancer	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 860M 2GB	The Technomancer	
+Core i3-2310M 2.1GHz	GeForce GT 520M	Cities: Skylines	
+Core i5-2450M 2.5GHz	Radeon HD 6470M	Cities: Skylines	
+Core i7-3537U 2-Core 2.0GHz	GeForce GT 740M 64-bit Edition	Cities: Skylines	
+Core i7-640M 2-Core 2.8GHz	NVS 3100M	Cities: Skylines	
+Core i7-3537U 2-Core 2.0GHz	Intel HD Graphics 4000 Mobile	Cities: Skylines	
+Core i5-4460 3.2GHz	GeForce GTX 1060 Asus Dual OC 6GB	Cities: Skylines	
+Core i7-6500U 2-Core 2.5GHz	GeForce 930M 2GB	Cities: Skylines	
+Pentium P6200 2.13GHz	GeForce GT 520M v2	Cities: Skylines	
+Core 2 Quad Q6600 2.4GHz	GeForce GTX 750 Ti MSI OC 2GB Edition	Cities: Skylines	
+Core i7-3610QM 4-Core 2.3GHz	Radeon HD 7970M	Cities: Skylines	
+Core i5-4210M 2.6GHz	GeForce 920M 2GB	Cities: Skylines	
+Core 2 Duo E7500 2.93GHz	GeForce GTX 550 Ti Sonic Edition	Cities: Skylines	
+Core i5-3337U 1.8GHz	GeForce 710M	Cities: Skylines	
+APU A6-6310 Quad-Core	Radeon R4 6310	Cities: Skylines	
+Core i3-4005U 1.7GHz	GeForce 840M 2GB	Cities: Skylines	
+APU A8-6500 Quad-Core	GeForce GTX 750 Gigabyte OC Low Profile 2GB Edition	Cities: Skylines	
+APU A8-7650K Quad-Core 	Radeon R7 260X v2 HIS iCooler 2GB Edition	Cities: Skylines	
+APU A8-7600 Quad-Core	Radeon R9 255 (OEM)	Cities: Skylines	
+Athlon 4450e Dual Core	GeForce 9100	Cities: Skylines	
+Core 2 Quad Q8400 2.66GHz	Radeon HD 7750 Sapphire 1GB GDDR5 Edition	Cities: Skylines	
+Athlon X4 860K	GeForce GT 730 v3 Asus 4GB Edition	Cities: Skylines	
+Core i5-4460 3.2GHz	Radeon R9 270X Gigabyte 2GB OC Edition	Cities: Skylines	
+Xeon Processor E5620	GeForce GTX 760 MSI TwinFrozr Gaming Edition	Cities: Skylines	
+Core i3-6098P 3.6GHz	GeForce GTX 1050 Ti Palit StormX 4GB	Cities: Skylines	
+Pentium 2020M 2.4GHz	Intel HD Graphics Mobile (Ivy Bridge)	Cities: Skylines	
+Xeon E5-2698 v3	GeForce GTX 1080 Asus ROG Strix Gaming OC 8GB Edition	Turbo Pug	
+Xeon Processor X5460	Radeon HD 2900 XT 512MB	Car Mechanic Simulator 2015	
+Core i5-3340M 2.7GHz	Intel HD Graphics 4000 Mobile	Car Mechanic Simulator 2015	
+Athlon 64 X2 Dual Core 6000+	GeForce 9800 GT	Car Mechanic Simulator 2015	
+Core i3-4170 3.7GHz	GeForce GTX 745 (OEM)	Car Mechanic Simulator 2015	
+Core i3-2330M 2.2GHz	GeForce GT 540M 2GB	7 Days To Die	
+Core i7-4750HQ 4-Core 2.0GHz	GeForce GTX 950M v2 4GB	Forza Horizon 3	
+FX-6350	Radeon R9 290X Asus DirectCU II Edition	Forza Horizon 3	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M 2GB	Forza Horizon 3	
+Core i5-4460 3.2GHz	GeForce GTX 760 1.5GB (OEM)	Forza Horizon 3	
+Core i5-650 3.2GHz	GeForce GTX 750 Ti Palit StormX Dual 2GB Edition	Forza Horizon 3	
+Core i3-4170 3.7GHz	GeForce GTX 1060 EVGA ACX 2.0 6GB	Forza Horizon 3	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 1070M	Forza Horizon 3	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 2GB	Forza Horizon 3	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 1060M	Forza Horizon 3	
+APU A10-7870K Quad-Core	Radeon RX 570 Asus ROG Strix Gaming OC 4GB	Forza Horizon 3	
+APU A10-7870K Quad-Core	Radeon RX 570 Asus ROG Strix Gaming OC 4GB	Forza Horizon 3	
+Core i7-860 Quad 2.80GHz	GeForce GTX 1060 Zotac Mini 6GB	Forza Horizon 3	
+Core 2 Quad Q6600 2.4GHz	GeForce GT 630 Gigabyte 2GB Edition	Starbound	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	Starbound	
+Core i7-4710MQ 4-Core 2.5GHz	GeForce GTX 970M 6GB	Starbound	
+Core i5-4460 3.2GHz	GeForce GTX 745 (OEM)	Starbound	
+Core i5-760 2.8GHz	Radeon HD 7790 MSI 1GB OC Edition	Little Nightmares	
+Core i5-7200U 2.5GHz	GeForce 940MX 2GB	Little Nightmares	
+Core i5-5200U 2.2GHz	GeForce 940M 2GB	Little Nightmares	
+Core i7-7700HQ 4-Core 2.8GHz	GeForce GTX 1050M	Jotun	
+Core i5-3337U 1.8GHz	GeForce 710M	Without Within	
+Core i7-6500U 2-Core 2.5GHz	GeForce GTX 950M 2GB	Hyperdimension Neptunia ReBirth1	
+Athlon X4 860K	Radeon R7 250X	Hyperdimension Neptunia ReBirth1	
+Core i5-4460 3.2GHz	GeForce GTX 960 MSI Gaming 100ME 2GB Edition	Hyperdimension Neptunia ReBirth1	
+Core i5-650 3.2GHz	GeForce GTX 750 Ti Palit StormX Dual 2GB Edition	Hyperdimension Neptunia ReBirth1	
+Core i3-4170 3.7GHz	GeForce GTX 1060 EVGA ACX 2.0 6GB	No Mans Sky	
+Core i3-5005U 2.0GHz	Radeon R5 M330 4GB	No Mans Sky	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 2GB	No Mans Sky	
+Core i7-4800MQ 4-Core 2.7GHz	GeForce GTX 870M 3GB	No Mans Sky	
+Athlon X4 750K	Radeon HD 6750	No Mans Sky	
+APU A8-4500M Quad-Core	Radeon HD 8570M	No Mans Sky	
+Core i5-4460 3.2GHz	GeForce GTX 970 MSI Armor 2X OC 4GB Edition	No Mans Sky	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	No Mans Sky	
+Core i5-4570S 2.9GHz	GeForce GT 750M Mac Edition	No Mans Sky	
+Xeon Processor W3690	GeForce GTX 1070 Gigabyte G1 Gaming 8GB Edition	No Mans Sky	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	No Mans Sky	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce 840M 2GB	No Mans Sky	
+APU A6-5400K Dual-Core	Radeon R7 360 Sapphire OC 2GB Edition	No Mans Sky	
+Core i3-3120M 2.5GHz	Radeon HD 8750M	No Mans Sky	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 860M 2GB	No Mans Sky	
+Core 2 Duo E7500 2.93GHz	GeForce GTX 750	No Mans Sky	
+Core i7-4712MQ 4-Core 2.3GHz	GeForce GTX 860M 2GB	No Mans Sky	
+Core i3-4170 3.7GHz	Radeon R7 360 v2 Sapphire Nitro 2GB Edition	No Mans Sky	
+Core i7-860 Quad 2.80GHz	GeForce GTX 960 Zotac AMP! 4GB Edition	No Mans Sky	
+Core i5-4460 3.2GHz	GeForce GTX 760 1.5GB (OEM)	No Mans Sky	
+Core i7-3612QM 4-Core 2.1GHz	Radeon HD 7730M	No Mans Sky	
+Core 2 Quad Q8400 2.66GHz	Radeon HD 7750 Sapphire 1GB GDDR5 Edition	No Mans Sky	
+Core i7-5500U 2-Core 2.4GHz	GeForce 940M 2GB	No Mans Sky	
+Core i5-4200M 2.5GHz	GeForce GT 755M SLI	No Mans Sky	
+Athlon X4 860K	GeForce GTX 750 Ti Asus OC 2GB Edition	No Mans Sky	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 950M 2GB	No Mans Sky	
+APU A8-7410 Quad-Core	Radeon R5 M330 2GB	No Mans Sky	
+Xeon Processor W3565	GeForce GTX 960 MSI Gaming 4GB Edition	No Mans Sky	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 2GB	No Mans Sky	
+Core i5-6300HQ 2.3GHz	GeForce GTX 960M 4GB	Middle-earth: Shadow of War	
+Core 2 Quad Q8200 2.33GHz	GeForce GTX 1050 Ti MSI OC 4GB	Middle-earth: Shadow of War	
+Pentium G2030 3.0GHz	GeForce GT 630	Middle-earth: Shadow of War	
+Core i5-4460 3.2GHz	GeForce GTX 1060 3GB	Middle-earth: Shadow of War	
+Core i7-3610QM 4-Core 2.3GHz	GeForce GTX 660M	Middle-earth: Shadow of War	
+Core i5-4460 3.2GHz	GeForce GTX 970 Palit JetStream 4GB Edition	Middle-earth: Shadow of War	
+Core i7-7700HQ 4-Core 2.8GHz	GeForce GTX 1070M	Middle-earth: Shadow of War	
+Core i5-6200U 2.3GHz	GeForce 940M 2GB	Middle-earth: Shadow of War	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	Middle-earth: Shadow of War	
+APU A8-7600 Quad-Core	GeForce GTX 660 EVGA OC 2GB Edition	Squad	
+FX-6350	Radeon HD 6870	Squad	
+Athlon X4 880K	GeForce GTX 1050 Ti Zotac Mini 4GB	theHunter: Call of the Wild	
+Core i5-4460 3.2GHz	GeForce GTX 550 Ti	theHunter: Call of the Wild	
+Core 2 Quad Q8400 2.66GHz	Radeon HD 7750 Sapphire 1GB GDDR5 Edition	Ashes of the Singularity	
+Athlon X4 860K	GeForce GTX 950 EVGA Superclocked+ ACX 2.0 2GB Edition	Lichdom Battlemage	
+Athlon X4 760K	GeForce GTX 970 MSI Gaming 4GB Edition	Lichdom Battlemage	
+Core i5-3337U 1.8GHz	Intel HD Graphics 4000 Mobile	Her Story	
+Core 2 Duo T7500 2.2GHz	Intel GM965 Express Chipset 	Sven Co-op	
+Core i5-3230M 2.6GHz	GeForce GT 720M	Sven Co-op	
+Pentium 4 HT 631	Radeon HD 5450 2GB	Battlefield: Hardline	
+Core i5-5675 3.1GHz	Radeon RX 480X 8GB	Battlefield: Hardline	
+Athlon X4 860K	Radeon R7 370 MSI OC 2GB Edition	Battlefield: Hardline	
+Core i3-4130T 2.9GHz	GeForce 820M 2GB	Battlefield: Hardline	
+Core i7-4510U 2-Core 2.0GHz	GeForce 840M 2GB	Battlefield: Hardline	
+Core i7-3610QM 4-Core 2.3GHz	GeForce GTX 660M	Battlefield: Hardline	
+APU A8-6600K Quad-Core	Radeon R7 250X Asus 1GB Edition	Battlefield: Hardline	
+Core i5-4460 3.2GHz	Radeon RX 480 8GB	Battlefield: Hardline	
+Core 2 Duo E8400 3.0GHz	Radeon HD 5450 1024MB	Battlefield: Hardline	
+Core 2 Quad Q8400 2.66GHz	GeForce GTX 275	Battlefield: Hardline	
+Core i3-4170 3.7GHz	GeForce GTX 960 MSI Gaming 2GB Edition	Battlefield: Hardline	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 780 EVGA SC w/ ACX Edition SLI	Battlefield: Hardline	
+Pentium P6200 2.13GHz	GeForce GT 520M v2	Battlefield: Hardline	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 970 EVGA SSC ACX 2.0 4GB Edition SLI	Battlefield: Hardline	
+Core i7-4770K 4-Core 3.5GHz	Radeon R9 280 MSI Gaming 3GB Edition	Battlefield: Hardline	
+Core i5-650 3.2GHz	GeForce GTX 550 Ti Gainward Edition	Battlefield: Hardline	
+Athlon X4 760K	GeForce GTX 970 MSI Gaming 4GB Edition	Battlefield: Hardline	
+Core i5-4460 3.2GHz	GeForce GTX 760 1.5GB (OEM)	Battlefield: Hardline	
+APU A4-4000 Dual-Core	Radeon HD 5450 2GB	Battlefield: Hardline	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GT 750M SLI	Battlefield: Hardline	
+Core i7-3630QM 4-Core 2.4GHz	Radeon HD 7970M Crossfire	Battlefield: Hardline	
+Core i5-5200U 2.2GHz	GeForce 920M 4GB	Battlefield: Hardline	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GTX 670MX	Battlefield: Hardline	
+Core i7-3632QM 4-Core 2.2GHz	Radeon HD 7730M	Battlefield: Hardline	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 770 WindForce 3X OC Edition	Battlefield: Hardline	
+APU A8-4500M Quad-Core	Radeon HD 7640G	Battlefield: Hardline	
+Athlon X4 760K	Radeon R9 270X MSI Gaming 2GB Edition	Battlefield: Hardline	
+APU A10-7800 Quad-Core	GeForce GTX 650 Ti	Battlefield: Hardline	
+Core 2 Duo E8400 3.0GHz	GeForce GTX 660 Gigabyte OC Edition	Battlefield: Hardline	
+Core 2 Duo E8400 3.0GHz	GeForce GTX 660 Gigabyte OC Edition	Battlefield: Hardline	
+Core 2 Duo E8400 3.0GHz	GeForce GTX 660 Gigabyte OC Edition	Battlefield: Hardline	
+Core 2 Duo E8400 3.0GHz	GeForce GTX 660 Gigabyte OC Edition	Battlefield: Hardline	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GTX 670MX	Battlefield: Hardline	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GTX 670MX	Battlefield: Hardline	
+Core i5-3337U 1.8GHz	GeForce GT 740M 64-bit Edition	Battlefield: Hardline	
+Core 2 Duo T9600 2.8GHz	Intel GMA 4500M HD	Battlefield: Hardline	
+APU A6-6310 Quad-Core	Radeon R4 6310	This is the Police	
+Core i7-4700HQ 4-Core 2.4GHz	GeForce GTX 760M	Batman: Arkham Knight	
+Core i7-7700HQ 4-Core 2.8GHz	GeForce GTX 1070M	Batman: Arkham Knight	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 965M 4GB	Batman: Arkham Knight	
+Core i5-6300HQ 2.3GHz	GeForce GTX 960M 4GB	Batman: Arkham Knight	
+Core i5-6300HQ 2.3GHz	GeForce GTX 960M 4GB	Batman: Arkham Knight	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GT 750M 2GB GDDR5	Batman: Arkham Knight	
+APU A8-5600K Quad-Core	GeForce GTX 750 Ti Zotac Thunderbolt 2GB Edition	Batman: Arkham Knight	
+Athlon X4 860K	GeForce GTX 660 Direct CU II Top Edition	Batman: Arkham Knight	
+Core i7-7700HQ 4-Core 2.8GHz	GeForce GTX 1070 Asus ROG Strix Gaming 8GB	Batman: Arkham Knight	
+Athlon X4 860K	Radeon R7 240 PowerColor OC 2GB Edition	Batman: Arkham Knight	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 770 WindForce 3X OC 4GB Edition	Batman: Arkham Knight	
+Core i5-4460 3.2GHz	GeForce GTX 960 MSI Gaming 2GB Edition	Batman: Arkham Knight	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 950M 2GB	Batman: Arkham Knight	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 770 MSI TwinFrozr Edition	Batman: Arkham Knight	
+Core i5-4460 3.2GHz	GeForce GTX 750 Ti Asus OC 2GB Edition	Batman: Arkham Knight	
+Core i5-4460 3.2GHz	GeForce GTX 970 Gigabyte Mini-ITX OC 4GB Edition	Batman: Arkham Knight	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 850M 2GB	Batman: Arkham Knight	
+Core i7-4712HQ 4-Core 2.3GHz	GeForce GTX 850M 4GB	Batman: Arkham Knight	
+Core i7-3610QM 4-Core 2.3GHz	GeForce GTX 660M	Batman: Arkham Knight	
+Core 2 Quad Q6600 2.4GHz	GeForce GTX 660 Gigabyte OC Edition	Batman: Arkham Knight	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GT 650M v2	Hearts of Iron IV	
+Pentium G3260 3.3GHz	Radeon R9 380 MSI Gaming 4GB Edition	Hearts of Iron IV	
+Core i5-2520M 2.5GHz	Intel HD Graphics 3000 Mobile	Hearts of Iron IV	
+Core I7-5775R 4-Core 3.3GHz	GeForce GTX 780 Ti Zotac AMP! Edition	Killing Floor 2	
+Pentium E2220 2.40GHz	GeForce 9600 GT 512MB	Killing Floor 2	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 950M v2 4GB	Killing Floor 2	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 660	Killing Floor 2	
+FX-6350	GeForce GTX 760 WindForce 2X OC 2GB Edition	Killing Floor 2	
+Core i7-4500U 2-Core 1.8GHz	Radeon R9 M265X	Killing Floor 2	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 970 Gigabyte G1 Gaming 4GB Edition SLI	Killing Floor 2	
+APU E-450 Dual Core	Radeon HD 6470M	Killing Floor 2	
+Core i5-6200U 2.3GHz	GeForce 940MX 2GB	Killing Floor 2	
+Core i5-4460 3.2GHz	GeForce GTX 1060 Palit Jetstream 6GB	Killing Floor 2	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	Killing Floor 2	
+Core i5-4460 3.2GHz	GeForce GTX 1050 Ti 4GB	FIFA 18	
+Core i5-7200U 2.5GHz	GeForce 940MX 2GB	FIFA 18	
+Core 2 Duo E7500 2.93GHz	GeForce GT 730 v3 Inno3D 2GB Edition	FIFA 18	
+Core i5-6300HQ 2.3GHz	GeForce GTX 960M 4GB	FIFA 18	
+Xeon Processor W3690	GeForce GTX 1070	FIFA 18	
+APU A8-6600K Quad-Core	Radeon R9 280X DirectCU II TOP 3GB Edition	FIFA 18	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 980M 4GB	Watch Dogs 2	
+Xeon E3-1225 v2	GeForce GTX 1050 Ti Asus Expedition 4GB	Watch Dogs 2	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 850M 2GB	Watch Dogs 2	
+Core i5-4460 3.2GHz	GeForce GTX 1060 Gigabyte Windforce 2X OC 3GB	Watch Dogs 2	
+Core i5-6300HQ 2.3GHz	GeForce GTX 960M 4GB	Watch Dogs 2	
+Core i7-4510U 2-Core 2.0GHz	GeForce 840M 2GB	Watch Dogs 2	
+Core i5-4460 3.2GHz	GeForce GTX 660 MSI OC 2GB Edition	Watch Dogs 2	
+Xeon Processor W3690	GeForce GTX 1070	Watch Dogs 2	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 950M 2GB	Watch Dogs 2	
+Core i5-4460 3.2GHz	Radeon R9 380 Sapphire Nitro 4GB Edition	Watch Dogs 2	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 680 Asus OC 2GB Edition	Watch Dogs 2	
+Core i5-4460 3.2GHz	GeForce GTX 1060 Gigabyte Windforce 2X OC 6GB	Watch Dogs 2	
+Core i7-4800MQ 4-Core 2.7GHz	GeForce GTX 870M 3GB	Watch Dogs 2	
+Core i7-3740QM 4-Core 2.7GHz	GeForce GT 650M Mac 1GB Edition	Watch Dogs 2	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 860M 4GB	Watch Dogs 2	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 1070M	Watch Dogs 2	
+Core i5-6200U 2.3GHz	Radeon R5 M330 2GB	Watch Dogs 2	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 970 Gigabyte G1 Gaming 4GB Edition SLI	Watch Dogs 2	
+Core i5-7200U 2.5GHz	GeForce 930MX 2GB	Watch Dogs 2	
+APU A10-6800K Quad-Core	Radeon HD 7790 Sapphire OC Edition	Dying Light: The Following	
+Pentium E5700 3GHz	GeForce 8400M GS	Dying Light: The Following	
+Core i3-6100U 2.3GHz	GeForce 940MX 2GB	Dying Light: The Following	
+Core i5-4460 3.2GHz	GeForce GTX 750 Asus 1GB OC Edition	Dying Light: The Following	
+Core i5-6200U 2.3GHz	GeForce 940M 2GB	Dying Light: The Following	
+Core i7-860 Quad 2.80GHz	GeForce GTX 960 Zotac AMP! 4GB Edition	Dying Light: The Following	
+Core 2 Quad Q9400 2.66GHz	Radeon HD 7850 Gigabyte OC 1GB Edition	Street Fighter V	
+Core i7-860 Quad 2.80GHz	GeForce GTX 960 Zotac AMP! 4GB Edition	Quantum Break	
+Core i7-5500U 2-Core 2.4GHz	GeForce 940M 2GB	Quantum Break	
+Core i5-6300HQ 2.3GHz	GeForce GTX 960M 4GB	Quantum Break	
+Core i5-650 3.2GHz	GeForce GTX 750 Ti Palit StormX Dual 2GB Edition	Quantum Break	
+Core i3-4170 3.7GHz	GeForce GTX 750 Ti Gainward Golden Sample 2GB Edition	Quantum Break	
+Xeon Processor W3690	Radeon R9 390X Asus DirectCU II 8GB Edition	Quantum Break	
+Core i5-4460 3.2GHz	GeForce GTX 760 1.5GB (OEM)	Quantum Break	
+Core i7-880 Quad 3.06GHz	GeForce GTX 1050 Ti 4GB	Quantum Break	
+Core i5-4460 3.2GHz	GeForce GTX 1060 EVGA ACX 2.0 6GB	Quantum Break	
+Core i5-4460 3.2GHz	GeForce GTX 960 Palit JetStream 2GB Edition	Quantum Break	
+Core i7-3610QM 4-Core 2.3GHz	GeForce GTX 660M	Quantum Break	
+Xeon Processor W3690	GeForce GTX 1070	Battlefield 1	
+Phenom II X4 B55	Radeon RX 460 XFX 2GB Single Fan	Battlefield 1	
+Core i7-3740QM 4-Core 2.7GHz	GeForce GT 650M Mac 1GB Edition	Battlefield 1	
+Xeon E3-1231 v3	Radeon RX 480 Sapphire Nitro+ 8GB	Battlefield 1	
+APU A10-7800 Quad-Core	GeForce GTX 1050 Gigabyte D5 2GB	Battlefield 1	
+Core 2 Quad Q9400 2.66GHz	Radeon RX 480 Sapphire NITRO+ 4GB	Battlefield 1	
+Core i3-4170 3.7GHz	GeForce GTX 750	Battlefield 1	
+Core i5-6402P 2.8GHz	GeForce GTX 1050 Ti MSI Gaming 4GB	Battlefield 1	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 970 Gigabyte G1 Gaming 4GB Edition SLI	Battlefield 1	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 4GB	Battlefield 1	
+Core i7-930 Quad 2.80GHz	Radeon HD 6950 Sapphire 2GB Edition	Battlefield 1	
+APU A8-6600K Quad-Core	Radeon RX 460 Sapphire Nitro 2G D5	Battlefield 1	

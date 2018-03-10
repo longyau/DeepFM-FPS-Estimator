@@ -1,0 +1,376 @@
+Core i5-6200U 2.3GHz	GeForce 940M 2GB	Grand Theft Auto V	
+Core i5-6402P 2.8GHz	GeForce GTX 1060 3GB	Grand Theft Auto V	
+Core 2 Duo E8500 3.16GHz	Radeon R7 250 v2 XFX 2GB Edition	Grand Theft Auto V	
+Core i7-3537U 2-Core 2.0GHz	HD i7 5550U	Grand Theft Auto V	
+Core i5-3210M 2.5GHz	GeForce 710M	Grand Theft Auto V	
+Athlon X4 750K	Radeon R7 240 2GB	Grand Theft Auto V	
+Athlon X4 750K	Radeon R7 240 2GB	Grand Theft Auto V	
+Athlon X4 750K	Radeon R7 240 2GB	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 960 MSI Gaming 2GB Edition	Grand Theft Auto V	
+APU A8-6600K Quad-Core	GeForce GTX 1060 Gigabyte GTX G1 Gaming 6GB	Grand Theft Auto V	
+Core i3-4170 3.7GHz	Radeon R7 250 Sapphire 1GB Edition	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 1070 MSI Gaming X 8GB Edition	Grand Theft Auto V	
+Core i7-4700HQ 4-Core 2.4GHz	GeForce GTX 860M 4GB	Grand Theft Auto V	
+Pentium D 945 3.4GHz	GeForce GT 730 v3 Asus 4GB Edition	Grand Theft Auto V	
+Pentium D 945 3.4GHz	GeForce GT 730 v3 Asus 4GB Edition	Grand Theft Auto V	
+Core 2 Duo E8400 3.0GHz	GeForce 9600 GT 1GB	Grand Theft Auto V	
+Xeon Processor W3670	GeForce GTX 1050 Ti Gigabyte Windforce OC 4GB	Grand Theft Auto V	
+Xeon Processor W3690	GeForce GTX 1070 Gigabyte G1 Gaming 8GB Edition	Grand Theft Auto V	
+Core i5-3360M 2.8GHz	Intel HD Graphics 4000 Mobile	Grand Theft Auto V	
+Core 2 Quad Q8400 2.66GHz	GeForce GTX 260 v3 MSI OC v4 896MB Edition	Grand Theft Auto V	
+Core i7-4700MQ 4-Core 2.4GHz	GeForce GT 755M SLI	Grand Theft Auto V	
+Core 2 Duo E6750 2.66GHz	Radeon HD 4670 512MB	Grand Theft Auto V	
+Core i5-2467M 1.6GHz	GeForce GT 620M	Grand Theft Auto V	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 850M 4GB	Grand Theft Auto V	
+Core i7-4702HQ 4-Core 2.2GHz	GeForce 820M 2GB	Grand Theft Auto V	
+Core i7-5500U 2-Core 2.4GHz	GeForce 930M 2GB	Grand Theft Auto V	
+Core i7-6500U 2-Core 2.5GHz	Radeon R5 M330 2GB	Grand Theft Auto V	
+Core i5-6300HQ 2.3GHz	GeForce GTX 960M 4GB	Grand Theft Auto V	
+Core i5-5200U 2.2GHz	Intel HD Graphics 5500 Mobile	Grand Theft Auto V	
+Core i5-760 2.8GHz	GeForce GTX 950 MSI Gaming 2GB Edition	Grand Theft Auto V	
+Pentium G2030 3.0GHz	Radeon R7 250 2GB	Grand Theft Auto V	
+Pentium 200MHz	GeForce GT 610	Grand Theft Auto V	
+Core i5-760 2.8GHz	Radeon RX 470 4GB	Grand Theft Auto V	
+Core 2 Quad Q6600 2.4GHz	Radeon HD 7850 MSI OC 1GB Edition	Grand Theft Auto V	
+Athlon X4 860K	Radeon R7 250 Sapphire 1GB Edition	Grand Theft Auto V	
+Athlon X4 860K	GeForce GTX 750 Ti Zotac 2GB Edition	Grand Theft Auto V	
+Core 2 Quad Q9400 2.66GHz	Radeon R7 350 (OEM)	Grand Theft Auto V	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 960M 2GB	Grand Theft Auto V	
+Athlon X4 860K	Radeon R9 280X Club3D royalQueen Edition	Grand Theft Auto V	
+Core i3-4170 3.7GHz	Radeon R7 250 Sapphire 1GB Edition	Grand Theft Auto V	
+Core 2 Quad Q9400 2.66GHz	Radeon R7 350 (OEM)	Grand Theft Auto V	
+FX-6350	Radeon R9 380X Sapphire Nitro 4GB Edition	Grand Theft Auto V	
+Core i3-4170 3.7GHz	GeForce GTX 750 Ti Gainward Golden Sample 2GB Edition	Grand Theft Auto V	
+Core 2 Quad Q6600 2.4GHz	GeForce GTX 550 Ti EVGA SC Edition	Grand Theft Auto V	
+Core i3-5010U 2.1GHz	GeForce 930M 2GB	Grand Theft Auto V	
+APU A8-7670K Quad-Core 	Radeon R7 7670K	Grand Theft Auto V	
+Core i5-3210M 2.5GHz	Radeon HD 7670M	Grand Theft Auto V	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 1070	Grand Theft Auto V	
+Core i7-7700HQ 4-Core 2.8GHz	GeForce GTX 1050M Ti 4GB	Grand Theft Auto V	
+Xeon Processor X5460	GeForce GTX 670 EVGA 2GB Edition	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 1060 Zotac Mini 3GB	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 960 Asus Strix DirectCU II OC 4GB Edition	Grand Theft Auto V	
+Core i3-540 3.06GHz	GeForce GTX 750 Ti MSI Gaming 2GB Edition	Grand Theft Auto V	
+Core i3-530 2.9GHz	GeForce GT 620	Grand Theft Auto V	
+Core i5-6200U 2.3GHz	GeForce 920M 2GB	Grand Theft Auto V	
+FX-9370	GeForce GTX 970M 6GB	Grand Theft Auto V	
+Core 2 Quad Q6600 2.4GHz	Radeon R7 240 MSI Low Profile 2GB Edition	Grand Theft Auto V	
+Core i7-4750HQ 4-Core 2.0GHz	GeForce GTX 950M v2 4GB	Grand Theft Auto V	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M v2 4GB	Grand Theft Auto V	
+Core i7-4750HQ 4-Core 2.0GHz	GeForce GTX 950M v2 4GB	Grand Theft Auto V	
+Core i7-740QM 4-Core 1.73GHz	GeForce GT 425M	Grand Theft Auto V	
+Core 2 Duo E6750 2.66GHz	Radeon R7 250 2GB	Grand Theft Auto V	
+Core i7-2630QM 4-Core 2.0GHz	GeForce GT 525M	Grand Theft Auto V	
+Core 2 Quad Q6600 2.4GHz	GeForce GT 440	Grand Theft Auto V	
+Core i5-6200U 2.3GHz	GeForce 940M 2GB	Grand Theft Auto V	
+Core i7-3632QM 4-Core 2.2GHz	GeForce 710M	Grand Theft Auto V	
+Core i5-3337U 1.8GHz	Intel HD Graphics 4000 Mobile	Grand Theft Auto V	
+Core i5-3210M 2.5GHz	Radeon HD 7650M	Grand Theft Auto V	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M v2 2GB	Grand Theft Auto V	
+Athlon X4 750K	GeForce GTX 950 Gigabyte OC 2GB Edition	Grand Theft Auto V	
+Celeron E1600 Dual-Core 2.4GHz	GeForce GT 620	Grand Theft Auto V	
+Core i5-4210U 1.7GHz	Radeon R7 M260	Grand Theft Auto V	
+APU A10-7700k Quad-Core	Radeon R9 380X Asus DirectCU II OC Strix Gaming 4GB Edition	Grand Theft Auto V	
+Core i7-3632QM 4-Core 2.2GHz	GeForce GT 730M	Grand Theft Auto V	
+Core i5-4200H 2.8GHz	GeForce GTX 950M v2 2GB	Grand Theft Auto V	
+Core i5-3210M 2.5GHz	GeForce GT 640M	Grand Theft Auto V	
+Pentium G3260 3.3GHz	GeForce GTX 750 Ti Palit StormX Dual 2GB Edition	Grand Theft Auto V	
+Core i7-6700K 4-Core 4.0GHz	GeForce GTX 980M 8GB SLI	Grand Theft Auto V	
+APU A8-6600K Quad-Core	Radeon R7 250X Asus 2GB Edition	Grand Theft Auto V	
+Xeon Processor E5345	GeForce GTX 760 Palit JetStream 2GB Edition	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 780	Grand Theft Auto V	
+Opteron 6386 SE	FirePro W9100	Grand Theft Auto V	
+Core i7-3610QM 4-Core 2.3GHz	Radeon HD 7970M	Grand Theft Auto V	
+Core 2 Duo E8400 3.0GHz	Intel Q43 Express Chipset	Grand Theft Auto V	
+Core 2 Quad Q6600 2.4GHz	Radeon HD 6950 PowerColor 1GB Edition	Grand Theft Auto V	
+Core i5-3210M 2.5GHz	GeForce GT 650M	Grand Theft Auto V	
+Core 2 Duo E6300 1.86GHz	Radeon HD 6670 v2 Sapphire 1GB Edition	Grand Theft Auto V	
+Core i7-3610QM 4-Core 2.3GHz	GeForce GT 630M v3	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 960 Asus Strix DirectCU II OC 4GB Edition	Grand Theft Auto V	
+APU A10-5745M Quad-Core	Radeon R7 M260	Grand Theft Auto V	
+APU A10-7400P Quad-Core	Radeon R6 7400P	Grand Theft Auto V	
+FX-6350	Radeon HD 6870	Grand Theft Auto V	
+Core 2 Duo E8500 3.16GHz	Radeon R7 240 Asus Low Profile 2GB Edition	Grand Theft Auto V	
+Core 2 Quad Q6600 2.4GHz	GeForce GTS 450 Asus DirectCU TOP 1GB Edition	Grand Theft Auto V	
+Athlon X4 860K	GeForce GTX 950 Gigabyte WindForce 2X OC 2GB Edition	Grand Theft Auto V	
+Core i7-870 Quad 2.93GHz	GeForce GTX 970 Gigabyte G1 Gaming 4GB Edition	Grand Theft Auto V	
+Core 2 Quad Q8300 2.5GHz	GeForce GTX 660 MSI OC 2GB Edition	Grand Theft Auto V	
+Athlon X4 860K	GeForce GTX 650 1GB	Grand Theft Auto V	
+APU A8-6600K Quad-Core	GeForce GTX 750 Ti	Grand Theft Auto V	
+Core i5-3317U 1.7GHz 	GeForce GT 740M	Grand Theft Auto V	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 860M 4GB	Grand Theft Auto V	
+Core i5-3230M 2.6GHz	Radeon HD 8750M	Grand Theft Auto V	
+Opteron 2222 SE	GeForce GT 610 v2	Grand Theft Auto V	
+Core 2 Duo E4500 2.2GHz	GeForce 9600 GT 1GB	Grand Theft Auto V	
+Core i7-4710MQ 4-Core 2.5GHz	GeForce GTX 860M 2GB	Grand Theft Auto V	
+Core 2 Duo E8400 3.0GHz	Radeon HD 5450 1024MB	Grand Theft Auto V	
+Core 2 Quad Q8300 2.5GHz	GeForce GT 730 Asus Silent 1GB Edition	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 750 Ti Gainward 2GB Edition	Grand Theft Auto V	
+Core i7-860 Quad 2.80GHz	Radeon HD 7850 XFX Core 2GB Edition	Grand Theft Auto V	
+APU A4-3400 Dual-Core	GeForce GT 520	Grand Theft Auto V	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 950M 2GB	Grand Theft Auto V	
+Core 2 Duo E7600 3.06GHz	Radeon HD 6750 v2 PowerColor 1GB Edition	Grand Theft Auto V	
+Core i7-930 Quad 2.80GHz	Radeon HD 7870 MSI Hawk Edition	Grand Theft Auto V	
+Core i5-4440S 2.8GHz	Intel HD Graphics 4600 Desktop	Grand Theft Auto V	
+Core i3-4005U 1.7GHz	GeForce 840M 2GB	Grand Theft Auto V	
+FX-6350	GeForce GTX 760 WindForce 2X OC 2GB Edition	Grand Theft Auto V	
+APU E1-2100 Dual Core	Radeon HD 8210	Grand Theft Auto V	
+Core i3-550 3.2GHz	GeForce GT 1030	Grand Theft Auto V	
+Core 2 Quad Q6700 2.66GHz	GeForce GTX 295	Grand Theft Auto V	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 970 Gigabyte G1 Gaming 4GB Edition SLI	Grand Theft Auto V	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 960M 2GB	Grand Theft Auto V	
+Core i5-4210H 2.9GHz	GeForce GTX 950M 2GB	Grand Theft Auto V	
+Pentium G2030 3.0GHz	GeForce GTX 650 Ti	Grand Theft Auto V	
+Core 2 Quad Q8200 2.33GHz	GeForce GTX 650 MSI OC 1GB	Grand Theft Auto V	
+Core i3-3217U 1.8GHz	GeForce GT 720M 2GB	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 750 Asus 2GB OC Edition	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 750 Ti	Grand Theft Auto V	
+Core 2 Quad Q8400 2.66GHz	Radeon HD 7750 Sapphire 1GB GDDR5 Edition	Grand Theft Auto V	
+Core 2 Quad Q9650 3.0GHz	GeForce GTX 750 Ti Asus Strix DirectCU II OC 4GB Edition	Grand Theft Auto V	
+Core i7-875K Quad 2.93GHz	GeForce GTX 970 Asus Strix OC 4GB Edition	Grand Theft Auto V	
+None	Intel HD Graphics 5500 Mobile	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 1050 Ti Zotac OC Edition 4GB	Grand Theft Auto V	
+Core i5-650 3.2GHz	GeForce GTX 660 Ti Zotac Edition	Grand Theft Auto V	
+Phenom 8550 Triple-Core	Radeon HD 5830	Grand Theft Auto V	
+Core i5-4210H 2.9GHz	GeForce 940M 2GB	Grand Theft Auto V	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 970M 3GB	Grand Theft Auto V	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 980M 4GB	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 960 Asus Strix DirectCU II OC 2GB Edition	Grand Theft Auto V	
+Athlon X4 860K	GeForce GTX 760 MSI OC 2GB Edition	Grand Theft Auto V	
+Core i7-960 Quad 3.2GHz	GeForce GTX 780 Ti Gainward Phantom Edition	Grand Theft Auto V	
+Core 2 Duo E8400 3.0GHz	Radeon HD 5670 512MB	Grand Theft Auto V	
+APU A8-6410 Quad-Core	Radeon R5 6410	Grand Theft Auto V	
+Athlon X4 860K	GeForce GTX 750 Ti Zotac 2GB Edition	Grand Theft Auto V	
+Core i7-4710MQ 4-Core 2.5GHz	Radeon R9 M290X	Grand Theft Auto V	
+Core i3-4030U 1.9GHz	Radeon R5 M230	Grand Theft Auto V	
+Xeon E7-8895 v2	GeForce GTX Titan X EVGA Superclocked 12GB Edition SLI	Grand Theft Auto V	
+Core i5-5200U 2.2GHz	GeForce 940M 4GB	Grand Theft Auto V	
+Core 2 Duo E6850 3.0GHz	GeForce GT 640 v3 Asus Low Profile 1GB Edition	Grand Theft Auto V	
+Athlon 64 X2 Dual Core 4400+	Radeon HD 4670 1GB	Grand Theft Auto V	
+Core i3-4010U 1.7GHz	GeForce GT 740M 64-bit Edition	Grand Theft Auto V	
+Core i7-6700HQ 4-Core 2.6GHz	GeForce GTX 950M 2GB	Grand Theft Auto V	
+Athlon X4 750K	GeForce GT 620	Grand Theft Auto V	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 950M 2GB	Grand Theft Auto V	
+Core i5-4460 3.2GHz	Radeon HD 7950 Gigabyte WindForce Edition	Grand Theft Auto V	
+Core i7-4510U 2-Core 2.0GHz	Radeon R9 M275X	Grand Theft Auto V	
+Core i7-4510U 2-Core 2.0GHz	Radeon R9 M275X	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 745 (OEM)	Grand Theft Auto V	
+Core i3-4170 3.7GHz	GeForce GTX 960 Gigabyte IX OC 2GB Edition	Grand Theft Auto V	
+Core i7-4700HQ 4-Core 2.4GHz	GeForce GTX 860M 2GB	Grand Theft Auto V	
+Core i3-2348M 2.3GHz	GeForce 610M	Grand Theft Auto V	
+APU A8-7600 Quad-Core	Radeon HD 7770 1GB GDDR5	Grand Theft Auto V	
+Core i7-870 Quad 2.93GHz	GeForce GT 630 Palit 2GB Edition	Grand Theft Auto V	
+Xeon E7-8895 v2	GeForce GTX 980 Zotac AMP! Extreme 4GB Edition SLI	Grand Theft Auto V	
+Core i5-5200U 2.2GHz	GeForce 940M 2GB	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 750 Ti EVGA 2GB Edition	Grand Theft Auto V	
+Core i7-4702MQ 4-Core 2.2GHz	GeForce GT 750M	Grand Theft Auto V	
+Athlon X4 860K	GeForce GTX 960 Asus Strix DirectCU II OC 2GB Edition	Grand Theft Auto V	
+Core i3-2100T 2.5GHz	Radeon HD 5450 2GB	Grand Theft Auto V	
+Core 2 Quad Q9550 2.83GHz	GeForce GT 630 Zotac Synergy 2GB Edition	Grand Theft Auto V	
+Athlon X4 750K	Radeon HD 6670	Grand Theft Auto V	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 660 Direct CU II OC Edition	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 960 EVGA SuperSC ACX 2.0+ 2GB Edition	Grand Theft Auto V	
+Core 2 Duo E6300 1.86GHz	Radeon HD 5450 1024MB	Grand Theft Auto V	
+Core 2 Duo E8400 3.0GHz	Radeon HD 5570 1024MB	Grand Theft Auto V	
+APU A6-6400K Dual-Core	Radeon HD 8470D	Grand Theft Auto V	
+Core i3-530 2.9GHz	GeForce GTX 1050 MSI Gaming X 2GB	Grand Theft Auto V	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GTX 670M 3GB	Grand Theft Auto V	
+Core 2 Duo T9550 2.66GHz	GeForce GT 240M	Grand Theft Auto V	
+Core i7-4700MQ 4-Core 2.4GHz	GeForce GT 740M	Grand Theft Auto V	
+Xeon E3-1231 v3	Radeon R9 290 Sapphire Tri-X OC Edition	Grand Theft Auto V	
+Core 2 Quad Q9650 3.0GHz	GeForce GTX 1050 Ti Zotac Mini 4GB	Grand Theft Auto V	
+Athlon 64 X2 Dual Core 4800+	GeForce GT 220	Grand Theft Auto V	
+Core i7-4700MQ 4-Core 2.4GHz	GeForce GT 755M SLI	Grand Theft Auto V	
+Phenom II X3 B75	GeForce GT 610	Grand Theft Auto V	
+Xeon E3-1231 v3	Radeon R9 290 Sapphire Tri-X OC Edition	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 960 2GB	Grand Theft Auto V	
+Core 2 Quad Q6600 2.4GHz	GeForce GTX 650 2GB	Grand Theft Auto V	
+Core 2 Quad Q6600 2.4GHz	GeForce GTX 650 2GB	Grand Theft Auto V	
+Xeon Processor X5650 	GeForce GTX 780 Ti WindForce 3X OC Edition	Grand Theft Auto V	
+Core 2 Quad Q9400 2.66GHz	Radeon R9 270X Sapphire Dual-X 4GB OC Edition	Grand Theft Auto V	
+Core i7-4712MQ 4-Core 2.3GHz	GeForce 840M 2GB	Grand Theft Auto V	
+Core i3-3110M 2.4GHz	GeForce GT 635M	Grand Theft Auto V	
+Core i5-4200U 1.6GHz	GeForce GT 740M 64-bit Edition	Grand Theft Auto V	
+APU A8-6600K Quad-Core	GeForce GTX 750 Ti Gigabyte WindForce 2X OC 2GB Edition	Grand Theft Auto V	
+FX-6350	Radeon R7 260X Sapphire 2GB OC Edition	Grand Theft Auto V	
+Core i5-2520M 2.5GHz	Quadro 2000M	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 960 Palit Super JetStream 2GB Edition	Grand Theft Auto V	
+Core i5-7200U 2.5GHz	GeForce 940MX 2GB	Grand Theft Auto V	
+APU A8-5500 Quad-Core	Radeon R7 250 1GB	Grand Theft Auto V	
+Core 2 Quad Q9450 2.66GHz	GeForce GTS 250	Grand Theft Auto V	
+Athlon 64 X2 Dual Core 6000+	Radeon HD 6850	Grand Theft Auto V	
+Athlon 64 X2 Dual Core 6000+	Radeon HD 6850	Grand Theft Auto V	
+APU A10-6800K Quad-Core	GeForce GTX 660 Direct CU II OC Edition	Grand Theft Auto V	
+Core i5-4460S 2.9GHz	GeForce GTX 745 (OEM)	Grand Theft Auto V	
+None	Radeon HD 5970	Grand Theft Auto V	
+Core i3-530 2.9GHz	Radeon HD 5770 1024MB	Grand Theft Auto V	
+Core i7-5500U 2-Core 2.4GHz	GeForce GTX 850M 4GB	Grand Theft Auto V	
+Pentium 4 HT 630	Radeon X1050 256MB	Grand Theft Auto V	
+Core i5-4460 3.2GHz	Radeon R9 280X MSI Gaming 3GB Edition	Grand Theft Auto V	
+APU A4-3400 Dual-Core	Radeon HD 6410D	Grand Theft Auto V	
+Athlon X4 760K	GeForce GTX 560	Grand Theft Auto V	
+Athlon X4 760K	GeForce GTX 660 Twin Frozr OC Edition	Grand Theft Auto V	
+APU A8-3870K Quad-Core	Radeon R9 270 HIS IceQ X² Turbo Edition	Grand Theft Auto V	
+Core 2 Duo E7200 2.53GHz	GeForce 210 1GB	Grand Theft Auto V	
+Core 2 Quad Q6600 2.4GHz	Radeon R7 240 2GB	Grand Theft Auto V	
+Xeon Processor E5450 	GeForce GTX 650 Ti WindForce 2X 1GB Edition	Grand Theft Auto V	
+Core i5-4200U 1.6GHz	GeForce 840M 2GB	Grand Theft Auto V	
+Core 2 Duo E7300 2.66GHz	GeForce GT 730 v3 Gigabyte 2GB Edition	Grand Theft Auto V	
+Core i7-965 Quad 3.2GHz Extreme	Radeon HD 6850	Grand Theft Auto V	
+APU A8-4500M Quad-Core	Radeon HD 7640G	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 760 1.5GB (OEM)	Grand Theft Auto V	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 850M 2GB	Grand Theft Auto V	
+Pentium G3240 3.1GHz	Radeon R7 250 1GB	Grand Theft Auto V	
+Core i5-4200U 1.6GHz	Radeon HD 8670M	Grand Theft Auto V	
+APU A8-6600K Quad-Core	Radeon HD 8570D	Grand Theft Auto V	
+Core 2 Duo E7300 2.66GHz	GeForce GT 730 v3 Gigabyte 2GB Edition	Grand Theft Auto V	
+Core 2 Duo E8500 3.16GHz	GeForce GTS 450	Grand Theft Auto V	
+APU A8-6500 Quad-Core	Radeon R7 260X Sapphire 2GB OC Edition	Grand Theft Auto V	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 850M 2GB	Grand Theft Auto V	
+Core 2 Duo E7400 2.80GHz	GeForce GT 620 PNY PCIe 1GB Edition	Grand Theft Auto V	
+Core 2 Duo E8400 3.0GHz	GeForce 9800 GT	Grand Theft Auto V	
+Core 2 Duo E6850 3.0GHz	GeForce GT 630	Grand Theft Auto V	
+Core i5-3210M 2.5GHz	Radeon HD 7650M	Grand Theft Auto V	
+Core i5-4200M 2.5GHz	GeForce GT 750M 2GB GDDR5	Grand Theft Auto V	
+Core 2 Duo E8400 3.0GHz	Radeon HD 5450 2GB	Grand Theft Auto V	
+Core i7-4700MQ 4-Core 2.4GHz	GeForce GT 750M SLI	Grand Theft Auto V	
+Athlon X4 760K	Radeon R7 260X Gigabyte 2GB OC Rev. 2.0 Edition	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 750 Gigabyte OC 2GB Edition	Grand Theft Auto V	
+Core i7-3610QM 4-Core 2.3GHz	GeForce GT 650M	Grand Theft Auto V	
+Core 2 Quad Q8400 2.66GHz	GeForce GT 630 Gigabyte 2GB Edition	Grand Theft Auto V	
+Core i7-860 Quad 2.80GHz	GeForce GTX 1060 Zotac Mini 6GB	Grand Theft Auto V	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 770 EVGA Dual SC W/ ACX 4GB Edition	Grand Theft Auto V	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 860M 4GB	Grand Theft Auto V	
+Core i7-3632QM 4-Core 2.2GHz	Radeon HD 7730M	Grand Theft Auto V	
+Core i7-2760QM 4-Core 2.4GHz	Radeon HD 6770M	Grand Theft Auto V	
+Core i7-4702HQ 4-Core 2.2GHz	GeForce GTX 870M 3GB	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 750 Ti MSI Gaming 2GB Edition	Grand Theft Auto V	
+Core 2 Quad Q6700 2.66GHz	GeForce GT 640 Gigabyte OC 2GB Edition	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 750 EVGA Superclocked 2GB Edition	Grand Theft Auto V	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 970M 3GB	Grand Theft Auto V	
+Core i3-6100U 2.3GHz	GeForce 940MX 2GB	Grand Theft Auto V	
+Core i7-4800MQ 4-Core 2.7GHz	GeForce GTX 870M 3GB	Grand Theft Auto V	
+Core i7-2630QM 4-Core 2.0GHz	Radeon HD 6770M 2GB	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 970 Asus Strix OC 4GB Edition	Grand Theft Auto V	
+Core i7-3610QM 4-Core 2.3GHz	GeForce GTX 660M	Grand Theft Auto V	
+Core i5-3230M 2.6GHz	GeForce GT 635M	Grand Theft Auto V	
+Core i7-990X 6-Core 3.47GHz	GeForce GTX Titan X	Grand Theft Auto V	
+Core i7-7700T 4-Core 2.9GHz	HD i7 6700T	Grand Theft Auto V	
+Athlon X4 750K	Radeon HD 6750	Grand Theft Auto V	
+Xeon Processor X5470	GeForce GTX 680 FTW 4GB Edition 	Grand Theft Auto V	
+APU A8-6600K Quad-Core	Radeon R7 250X Asus 1GB Edition	Grand Theft Auto V	
+Core 2 Duo E6400 2.13GHz	GeForce 210 1GB	Grand Theft Auto V	
+None	GeForce 820M 2GB	Grand Theft Auto V	
+Core i3-4030U 1.9GHz	Intel HD Graphics 4400 Mobile	Grand Theft Auto V	
+APU A10-7300 Quad-Core	Radeon R6 7300	Grand Theft Auto V	
+Core i3-4160T 3.1GHz	GeForce GT 630 v3	Grand Theft Auto V	
+Core i7-4700MQ 4-Core 2.4GHz	Radeon HD 8750M	Grand Theft Auto V	
+Core i7-4712HQ 4-Core 2.3GHz	GeForce GTX 850M 4GB	Grand Theft Auto V	
+Core i5-4210U 1.7GHz	GeForce 820M 1GB	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 760 1.5GB (OEM)	Grand Theft Auto V	
+APU A6-3670K Quad-Core	Radeon R9 270X MSI Gaming 2GB Edition	Grand Theft Auto V	
+Core i7-4700MQ 4-Core 2.4GHz	Quadro K1100M	Grand Theft Auto V	
+Core i5-660 3.33GHz	GeForce GT 635 (OEM)	Grand Theft Auto V	
+Core i5-660 3.33GHz	GeForce GT 635 (OEM)	Grand Theft Auto V	
+Core i5-3210M 2.5GHz	GeForce GT 635M v2	Grand Theft Auto V	
+APU A8-5600K Quad-Core	Radeon HD 6670 Sapphire 1GB Edition	Grand Theft Auto V	
+Core i5-4460 3.2GHz	GeForce GTX 960 Palit 2GB Edition	Grand Theft Auto V	
+Core 2 Quad Q6600 2.4GHz	GeForce GTX 960 Asus Strix DirectCU II OC 2GB Edition	Grand Theft Auto V	
+Core i5-4200H 2.8GHz	GeForce GTX 850M 2GB	Grand Theft Auto V	
+Celeron 1005M 1.9GHz	Intel HD Graphics 2500 Mobile	Grand Theft Auto V	
+Core 2 Duo E4400 2.0GHz	GeForce GTX 780	Grand Theft Auto V	
+Core 2 Duo E6600 2.4GHz	GeForce GT 730 v3	Grand Theft Auto V	
+FX-6200	GeForce GTX 660 Direct CU II OC Edition	Grand Theft Auto V	
+Pentium E2200 2.2GHz	GeForce GTS 250	Grand Theft Auto V	
+Core i7-2760QM 4-Core 2.4GHz	GeForce GT 550M	Grand Theft Auto V	
+Core i7-860 Quad 2.80GHz	GeForce GTX 580	Grand Theft Auto V	
+APU A10-5800K Quad-Core	Radeon HD 7870 Sapphire GHz 2GB Edition	Grand Theft Auto V	
+Core i7-4500U 2-Core 1.8GHz	GeForce GT 745M	Grand Theft Auto V	
+Core i7-4500U 2-Core 1.8GHz	GeForce GT 745M	Grand Theft Auto V	
+Core i7-4510U 2-Core 2.0GHz	GeForce 840M 2GB	Grand Theft Auto V	
+Core i5-760 2.8GHz	Radeon HD 7790 MSI 1GB OC Edition	Grand Theft Auto V	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 850M 2GB	Grand Theft Auto V	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 850M 2GB	Grand Theft Auto V	
+Core 2 Duo E8400 3.0GHz	GeForce GTX 650 1GB	Grand Theft Auto V	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 980M 4GB	Grand Theft Auto V	
+Core 2 Duo E8400 3.0GHz	GeForce GT 640 Galaxy GC 1GB Edition	Grand Theft Auto V	
+Core i7-4810MQ 4-Core 2.8GHz	GeForce GTX 970M 3GB	Grand Theft Auto V	
+APU A10-7700k Quad-Core	Radeon R7 7700K	Grand Theft Auto V	
+APU A10-5750M Quad-Core	Radeon HD 8750M	Grand Theft Auto V	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GTX 670MX	Grand Theft Auto V	
+APU A8-4500M Quad-Core	Radeon HD 7640G	Grand Theft Auto V	
+Core i5-3337U 1.8GHz	GeForce GT 740M	Grand Theft Auto V	
+Xeon E3-1230 v2	GeForce GTX 770 WindForce 3X OC Edition	Grand Theft Auto V	
+Core 2 Quad Q6600 2.4GHz	Radeon HD 5570 1024MB	Grand Theft Auto V	
+Core i5-4210U 1.7GHz	Radeon R7 M260	Grand Theft Auto V	
+Core 2 Quad Q9650 3.0GHz	GeForce GTX 650 Ti	Grand Theft Auto V	
+Core 2 Quad Q9400 2.66GHz	Radeon HD 7750 PowerColor 1GB Edition	Grand Theft Auto V	
+Core i3-530 2.9GHz	GeForce GTX 650 MSI 1GB	Grand Theft Auto V	
+Core i5-3230M 2.6GHz	GeForce GT 635M	Grand Theft Auto V	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GT 650M	Grand Theft Auto V	
+Core 2 Quad Q9705 3.16GHz	Radeon R7 260X	Grand Theft Auto V	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GT 750M SLI	Grand Theft Auto V	
+APU A8-5600K Quad-Core	Radeon HD 7850	Grand Theft Auto V	
+Core i7-4770K 4-Core 3.5GHz	Radeon R9 290 Gigabyte WindForce 3X OC Edition	Grand Theft Auto V	
+Athlon X4 740	Radeon R9 270X Sapphire Dual-X 2GB OC Edition	Grand Theft Auto V	
+Core i7-3630QM 4-Core 2.4GHz	GeForce GT 650M v2 SLI	Grand Theft Auto V	
+Core i5-4278U 2.6GHz	Iris Graphics 5100 Desktop	Grand Theft Auto V	
+Core i7-4510U 2-Core 2.0GHz	GeForce 840M 2GB	Grand Theft Auto V	
+Core 2 Duo E6550 2.33GHz	GeForce 210 1GB	Grand Theft Auto V	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 850M 2GB	Warhammer: The End Times - Vermintide	
+Core i3-4170 3.7GHz	GeForce GTX 1050	Fallout 4	
+Core 2 Quad Q9550 2.83GHz	Radeon R9 280X Sapphire Vapor-X 3GB OC Edition	Fallout 4	
+Core i5-4460 3.2GHz	GeForce GTX 950 Asus DirectCU II OC Strix Gaming 2GB Edition	Fallout 4	
+Core i5-6300HQ 2.3GHz	GeForce GTX 960M 4GB	Fallout 4	
+APU A10-5745M Quad-Core	Radeon R7 M260	Fallout 4	
+Xeon E3-1231 v3	Radeon R9 290 Asus DirectCU II OC Edition	Fallout 4	
+APU A10-7800 Quad-Core	Radeon R7 7800	Fallout 4	
+Core 2 Duo E8500 3.16GHz	GeForce GTX 750 MSI Gaming 1GB Edition	Fallout 4	
+Core i5-4200H 2.8GHz	GeForce GTX 950M 2GB	Fallout 4	
+Core M-5Y71	HD M-5Y71	Fallout 4	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 860M 2GB	Fallout 4	
+Core 2 Quad Q6600 2.4GHz	GeForce GTX 960 MSI Gaming 100ME 2GB Edition	Fallout 4	
+Core i5-650 3.2GHz	GeForce GTX 750 Ti Asus PH 2GB Edition	Fallout 4	
+Core i7-2600S 4-Core 2.8GHz	GeForce GT 540M	Fallout 4	
+Core i5-4460 3.2GHz	GeForce GTX 960 Asus Strix DirectCU II OC 2GB Edition	Fallout 4	
+APU A6-6400K Dual-Core	Radeon HD 8470D	Fallout 4	
+Core i5-4460 3.2GHz	Radeon R9 280 XFX Double D Black 3GB Edition	Fallout 4	
+APU A10-7700k Quad-Core	Radeon R7 7700K	Fallout 4	
+Athlon II X2 B24	Radeon HD 4200	Fallout 4	
+Core i7-3610QM 4-Core 2.3GHz	GeForce GT 650M	Fallout 4	
+APU A8-6500 Quad-Core	GeForce GTX 750 Gigabyte OC Low Profile 2GB Edition	Fallout 4	
+Athlon X4 840	GeForce GTX 750	Fallout 4	
+Core i7-3520M 2-Core 2.9GHz	GeForce GT 640M LE	Fallout 4	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 770	Fallout 4	
+Core i3-3110M 2.4GHz	GeForce GT 620M	Fallout 4	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M v2 4GB	Fallout 4	
+APU A6-6310 Quad-Core	Radeon R4 6310	Fallout 4	
+Core i7-860 Quad 2.80GHz	GeForce GTX 1060 Zotac Mini 6GB	Fallout 4	
+Phenom 8450 Triple-Core	Radeon HD 7750 Sapphire 1GB GDDR5 Edition	Fallout 4	
+Core 2 Quad Q9400 2.66GHz	Radeon R7 240 2GB	Fallout 4	
+Core i7-4770K 4-Core 3.5GHz	GeForce GTX 970 Gigabyte G1 Gaming 4GB Edition SLI	Fallout 4	
+APU A10-7850K Quad-Core	Radeon R7 7850K	Fallout 4	
+Core i7-875K Quad 2.93GHz	Radeon HD 6670 v2 Gigabyte 2GB Edition	Fallout 4	
+Athlon X4 750K	GeForce GTX 660 Gigabyte OC Edition	Fallout 4	
+Athlon X4 760K	Radeon R7 250X HIS iCooler 1GB Edition	Fallout 4	
+Core i7-3820QM 4-Core 2.7GHz	Radeon HD 7970M	Fallout 4	
+Core i5-4210H 2.9GHz	GeForce GTX 860M 2GB	Fallout 4	
+Core i3-4005U 1.7GHz	GeForce 840M 2GB	Fallout 4	
+Core i3-6100U 2.3GHz	GeForce 940MX 2GB	Fallout 4	
+Core i5-4210H 2.9GHz	GeForce GTX 950M 2GB	Fallout 4	
+Core I7-5775R 4-Core 3.3GHz	GeForce GTX 780 Ti Zotac AMP! Edition	Fallout 4	
+Core i7-4810MQ 4-Core 2.8GHz	GeForce GTX 880M 8GB	Fallout 4	
+Core i5-650 3.2GHz	GeForce GTX 550 Ti Gainward Edition	Fallout 4	
+Athlon X4 860K	GeForce GTX 660 EVGA Superclocked Edition	Fallout 4	
+Core i7-4510U 2-Core 2.0GHz	Radeon R9 M275X	Fallout 4	
+Core i7-4510U 2-Core 2.0GHz	GeForce 840M 2GB	Fallout 4	
+Core i3-530 2.9GHz	GeForce GTX 650 MSI 1GB	Fallout 4	
+APU A8-4500M Quad-Core	Radeon HD 8750M	Fallout 4	
+Core i7-3610QM 4-Core 2.3GHz	GeForce GTX 670M 3GB	Fallout 4	
+Pentium G3250 3.2GHz	GeForce GTX 960M 2GB	Fallout 4	
+Core i7-4710HQ 4-Core 2.5GHz	GeForce GTX 850M 2GB	Fallout 4	
+Core i7-4720HQ 4-Core 2.6GHz	GeForce GTX 950M v2 4GB	Fallout 4	
+Core i5-4460 3.2GHz	GeForce GTX 760 MSI OC 2GB Edition	Fallout 4	
+Core i5-6300HQ 2.3GHz	GeForce GTX 950M 2GB	Fallout 4	
+FX-6350	Radeon HD 7770 XFX Core 1GB Edition	Fallout 4	
+Athlon X4 860K	GeForce GTX 760 MSI OC 2GB Edition	Fallout 4	
