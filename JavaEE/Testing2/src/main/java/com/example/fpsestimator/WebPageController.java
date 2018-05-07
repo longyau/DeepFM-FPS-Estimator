@@ -1,10 +1,8 @@
 package com.example.fpsestimator;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.CrossOrigin;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.servlet.ModelAndView;
 @Controller
 @RequestMapping("website")
 public class WebPageController {
@@ -17,5 +15,21 @@ public class WebPageController {
 		mvc.setViewName("main.html");
 		return mvc;*/
 		return "main.jsp";
+	}
+	@CrossOrigin
+	@RequestMapping(value = "/index", method = RequestMethod.GET)
+	public String index() {
+		/*ModelAndView mvc=new ModelAndView();
+		mvc.setViewName("main.html");
+		return mvc;*/
+		return "main.jsp";
+	}
+	@CrossOrigin
+	@RequestMapping(value = "/fpsestimator", method = RequestMethod.GET)
+	public String fpsestimator() {
+		/*ModelAndView mvc=new ModelAndView();
+		mvc.setViewName("main.html");
+		return mvc;*/
+		return "fpsestimator.jsp";
 	}
 }

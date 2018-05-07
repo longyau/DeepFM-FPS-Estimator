@@ -92,9 +92,11 @@ public class HomeController {
    		nm.put("#pk_col","Type");
    		if (brand!=""){
    		nm.put("#sk_col","Brand");
+   		nm.put("#show_col", "Name");
   		}else {
   		nm.put("#sk_col", "Name");
   		}
+
   		
   		String kce="#pk_col=:v_id";
    		if (brand!=""){
@@ -106,9 +108,9 @@ public class HomeController {
   		    .withValueMap(vm);
   		ItemCollection<QueryOutcome> items=null;
   		if (index!=null){
-  			items = index.query(spec);
+  			items = index.query(spec.withProjectionExpression("#show_col"));
   		}else {
-  			items=table.query(spec.withProjectionExpression("#pk_col, #sk_col"));	
+  			items=table.query(spec.withProjectionExpression("#sk_col"));	
   		}
   		Iterator<Item> iterator = items.iterator();
   		Item item1 = null;
@@ -180,30 +182,31 @@ public class HomeController {
 	public String home() {
 		return "home";
 	}
-	@CrossOrigin
+	@CrossOrigin(origins="*")
 	@RequestMapping(value = "/CPU/{Brand}", method = RequestMethod.GET,produces="application/json")
 	public String getAllCPUByName(@PathVariable("Brand") String brand) {
 		JsonArray result= getAllData("CPU-Config",brand);
 		return result==null?null:result.toString();
 	}
-	@CrossOrigin
+	@CrossOrigin(origins="*")
 	@RequestMapping(value = "/GPU/{Brand}", method = RequestMethod.GET,produces="application/json")
 	public String getAllGPUByName(@PathVariable("Brand") String brand) {
 		JsonArray result= getAllData("GPU-Config",brand);
 		return result==null?null:result.toString();
 	}
-	@CrossOrigin
+	@CrossOrigin(origins="*")
 	@RequestMapping(value = "/Game", method = RequestMethod.GET,produces="application/json")
 	public String getAllGame() {
 		JsonArray result= getAllData("Game-Info");
 		return result==null?null:result.toString();
 	}
-	@CrossOrigin
+	@CrossOrigin(origins="*")
 	@RequestMapping(value = "/Game/Partial", method = RequestMethod.GET,produces="application/json")
 	public String getPartialGame(String input,int limit) {
 		JsonArray result= getPartialData("Game-Info","",input,limit);
 		return result==null?null:result.toString();
 	}
+	/*
 	@RequestMapping(value = "/Predict", method = RequestMethod.GET,produces="application/json")
 	public String getPredictResult(String cpu,String gpu,String game,int resWidth,int resHeight,String setting, int ram) {
 		try{
@@ -223,4 +226,5 @@ public class HomeController {
 	    return "";
 	    
 	}
+	*/
 }
